@@ -1,1 +1,1 @@
-![Run Forrest](./images/run.jpg)
+![Run Forrest](./images/run-forrest.jpg #pic_center)
