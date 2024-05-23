@@ -1,1 +1,1 @@
-![Run Forrest](./images/run-forrest.jpg#pic_right)
+![Run Forrest](./images/run-forrest.jpg#pic_center =400x300)
