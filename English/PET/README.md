@@ -1,7 +1,4 @@
 # [Cambridg English](https://candidates.cambridgeenglish.org/) 
-- ID Number: 177963RSR
-- Secret Number: 1182
-- Password: Maping9876
 
 PET 考试分为 听说读写 4 大项，每项总分都是 170，4 大项分数加起来之后除以 4 为最终得分
 | 剑桥英语 | 级别 | CEFR 等级 |
