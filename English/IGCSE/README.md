@@ -1,11 +1,11 @@
 # IGCSE
 - 英文全称“International General Certificate of Secondary Education”，中文全称“国际中学教育普通证书”。
 - 一种基于英语语言的中学资格证书，拿到这个证书就表明完成了中学阶段的教育。
-- 相当于美国的高中文凭、香港的 CEE、中国的中高考。
+- 相当于美国的高中文凭、香港的 CEE、中国的中考文凭。
 - IGCSE 受世界上教育机构的广泛认可，并且可用于大学申请。
 - 要获得 IGCSE 证书需要上 IGCSE 课程体系、并且通过 IGCSE 考试。
   
-英国中学阶段的教育/考试体系经过了 CSE/O-Level -> GCSE -> GCSE/IGCSE 的转变。
+英国中学阶段的教育/考试体系经过了 CSE/O-Level -> GCSE -> GCSE/IGCSE 的转变
 - CSE：Certificate of Secondary Education，普通教育证书
 - O-Level：General Certificate of Education Ordinary Level
 - GCSE：General Certificate of Secondary Education 中等普通教育证书
@@ -18,6 +18,14 @@
 
 那么这个课程具体学写什么呢？考试考些什么呢？考试成绩怎么评分呢？这个成绩和证书拿到了又有什么用呢？
 
+以国际学校最为常用的 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
+- Group 1: Languages 语言
+- Group 2: Humanities and Social Sciences 人文及社会科学
+- Group 3: Sciences 科学
+- Group 4: Mathematics 数学
+- Group 5: Creative and Vocational (Professional and Creative) 创意及职业(专业及创意)
+
+学生要从 Group1 中选两门，从 Group2-Group5 中各选一门，第7门 可以从任何一组中进行选择。最多修读的科目不能超过 12门。
 
 
 ESL（English as a Second Language）
