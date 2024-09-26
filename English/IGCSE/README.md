@@ -39,8 +39,8 @@ IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambri
 
 # ESL vs EFL
 IGCSE 的英语是一大热门科目，分为 EFL 和 ESL 两种课程。
-- ESL：English as a Second Language，母语不是英语，想提升语言技能的学生
-- EFL：English as a First Language，英语为母语的学生
+- ESL：English as a Second Language，面向母语不是英语的学生，偏重于英语基础和应用技能
+- EFL：English as a First Language，面向母语是英语的学生，偏重于文学能力
 
 # ESL 考试内容
 ESL 考试包括三部分内容：
