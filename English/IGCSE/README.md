@@ -10,7 +10,7 @@
 - O-Level：General Certificate of Education Ordinary Level
 - GCSE：General Certificate of Secondary Education 中等普通教育证书
 
-英国组织 IGCSE 的四大考试局
+# IGCSE 的四大考试局
 - Cambridge 剑桥，提供的科目种类是最多的，有 70+个科目 可选
 - Edexcel 爱德思，有近 40个科目 可选
 - 牛津 AQA，只包括数学、英语、科学、地理、商务等比较常见的科目
@@ -28,6 +28,8 @@ IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambri
 >重要：学生要从 Group1 中选两门，从 Group2-Group5 中各选一门，第7门 可以从任何一组中进行选择。最多修读的科目不能超过 12门。
 
 # IGCSE 考试评分标准
+- 从 A* 到 G
+- 从 9 到 1
 
 # IGCSE 证书用途
 根据学生能力水平，可以选择以下之一选项：
@@ -54,3 +56,4 @@ ESL 考试包括三部分内容：
 
 ## 参考
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
+- [IGCSE三大考试局深度剖析：探寻A*之路](https://www.iedusg.com/igcse/28250.html)
