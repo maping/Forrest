@@ -35,9 +35,13 @@ IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambri
 - 拿 IGCSE 的成绩去申请英国、澳洲大学的预科，之后继续读本科
 - 在国际学校会根据 IGCSE 考试成绩筛选好学生继续读两年的 IBDP，差学生会被劝退
 
-# ESL（English as a Second Language）
+# ESL vs EFL
+ESL：English as a Second Language
+EFL：
+
 TODO
 
 ## 参考
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
 - [IGCSE ESL Reading + Writing 阅读写作 Exercise 4 讲解 上](https://www.bilibili.com/video/BV1Jj411F7QA/)
+- [IGCSE英语ESL：摘要写作（Summary writing）高分tips！](https://zhuanlan.zhihu.com/p/411481045)
