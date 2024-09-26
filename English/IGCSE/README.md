@@ -9,6 +9,7 @@
 - CSE：Certificate of Secondary Education，普通教育证书
 - O-Level：General Certificate of Education Ordinary Level
 - GCSE：General Certificate of Secondary Education 中等普通教育证书
+>说明：O-Level 是由新加坡教育局和英国剑桥大学考试局，新加坡考试与评估委员会统一考试的，是新加坡政府中学学生在中学教育结束后参加的考试。
 
 # IGCSE 的四大考试局
 - Cambridge 剑桥，提供的科目种类是最多的，有 70+个科目 可选
