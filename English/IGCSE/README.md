@@ -28,11 +28,13 @@
 # IGCSE 考试评分标准
 
 # IGCSE 证书用途
+根据学生能力水平，可以选择以下之一选项：
 - 作为中学毕业的文凭，不擅长学术的孩子可以凭此去找工作
-- 拿 IGCSE 的成绩去申请英国、澳洲大学的预科，之后继续读本科。
-- 在很多最后两年是IBDP的国际学校，他们会通过IGCSE考试进行学生学术水平的分流，IGCSE成绩较差的，就会劝退他们考学术要求更高的IBDP。
+- 拿 IGCSE 的成绩去申请英国、澳洲大学的预科，之后继续读本科
+- 在国际学校会根据 IGCSE 考试成绩筛选好学生继续读 IBDP，差学生会被劝退
 
 ESL（English as a Second Language）
 
 ## 参考
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
+- [IGCSE ESL Reading + Writing 阅读写作 Exercise 4 讲解 上](https://www.bilibili.com/video/BV1Jj411F7QA/)
