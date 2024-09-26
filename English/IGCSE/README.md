@@ -41,7 +41,7 @@ EFL：
 
 TODO
 # ESL 考试内容
-ESL 考三部分内容
+ESL 考试包括三部分内容：
 - Reading and Writing | Core 60 marks，90 minutes；Extented 80 marks，120 minutes | 60%
   - Exercise 1 看一篇文章，回答多个问题
   - Exercise 2 看四篇短文，选择哪个短文与问题密切相关
