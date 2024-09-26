@@ -1,4 +1,4 @@
-# IGCSE
+# IGCSE 简介
 - 英文全称“International General Certificate of Secondary Education”，中文全称“国际中学教育普通证书”。
 - 一种基于英语语言的中学资格证书，拿到这个证书就表明完成了中学阶段的教育。
 - 相当于美国的高中文凭、香港的 CEE、中国的中考文凭。
@@ -16,8 +16,7 @@
 - 牛津 AQA，只包括数学、英语、科学、地理、商务等比较常见的科目
 - LRN
 
-那么这个课程具体学写什么呢？考试考些什么呢？考试成绩怎么评分呢？这个成绩和证书拿到了又有什么用呢？
-
+# IGCSE 课程体系
 以 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
 - Group 1: Languages 语言
 - Group 2: Humanities and Social Sciences 人文及社会科学
@@ -26,7 +25,12 @@
 - Group 5: Creative and Vocational (Professional and Creative) 创意及职业(专业及创意)
 >重要：学生要从 Group1 中选两门，从 Group2-Group5 中各选一门，第7门 可以从任何一组中进行选择。最多修读的科目不能超过 12门。
 
-一方面，是作为中学毕业的文凭证明，部分不擅长学术的孩子便可以在此之后凭此去找工作。但是现在受教育程度普遍提高了，所以大部分情况下拿着IGCSE的文凭，找不到什么像样的好工作。所以就会有人用这个成绩去申请英国、澳洲大学的预科，之后继续读本科。当然，在很多最后两年是IBDP的国际学校，他们会通过IGCSE考试进行学生学术水平的分流，IGCSE成绩较差的，就会劝退他们考学术要求更高的IBDP。
+# IGCSE 考试评分标准
+
+# IGCSE 证书用途
+- 作为中学毕业的文凭，不擅长学术的孩子可以凭此去找工作
+- 拿 IGCSE 的成绩去申请英国、澳洲大学的预科，之后继续读本科。
+- 在很多最后两年是IBDP的国际学校，他们会通过IGCSE考试进行学生学术水平的分流，IGCSE成绩较差的，就会劝退他们考学术要求更高的IBDP。
 
 ESL（English as a Second Language）
 
