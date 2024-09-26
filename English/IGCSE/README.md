@@ -17,7 +17,9 @@
 - LRN
 
 # IGCSE 课程体系
-以 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
+IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambridge International Examination）剑桥全球测试的一部分。
+
+所以这里以 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
 - Group 1: Languages 语言
 - Group 2: Humanities and Social Sciences 人文及社会科学
 - Group 3: Sciences 科学
@@ -31,9 +33,10 @@
 根据学生能力水平，可以选择以下之一选项：
 - 作为中学毕业的文凭，不擅长学术的孩子可以凭此去找工作
 - 拿 IGCSE 的成绩去申请英国、澳洲大学的预科，之后继续读本科
-- 在国际学校会根据 IGCSE 考试成绩筛选好学生继续读 IBDP，差学生会被劝退
+- 在国际学校会根据 IGCSE 考试成绩筛选好学生继续读两年的 IBDP，差学生会被劝退
 
-ESL（English as a Second Language）
+# ESL（English as a Second Language）
+TODO
 
 ## 参考
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
