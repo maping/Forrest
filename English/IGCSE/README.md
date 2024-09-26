@@ -52,11 +52,5 @@ ESL 考三部分内容
 - Listening | Core 30 marks，40 minutes；Extented 80 marks，40 minutes | 20%
 - Speaking | 30 marks，10-15 minutes | 20%
 
-其中paper1/2的阅读与写作是整个课程的重中之重，占总成绩的70%，直接决定着最终成绩的好坏。因此这也是我们在学习过程中需要重点关注的部分。
-
-Paper1/2一共包含6个Exercise（练习），分别考查阅读与写作能力，其中Exercise 4（摘要写作）是整张试卷的难点之一。
-
-ESL试卷的Exercise 4是摘要写作，题目中将给出一篇文章，要求考生写一篇摘要。
-
 ## 参考
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
