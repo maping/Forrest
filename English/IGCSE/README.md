@@ -19,7 +19,7 @@
 # IGCSE 课程体系
 IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambridge International Examination）剑桥全球测试的一部分。
 
-所以这里以 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
+以 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
 - Group 1: Languages 语言
 - Group 2: Humanities and Social Sciences 人文及社会科学
 - Group 3: Sciences 科学
@@ -38,10 +38,10 @@ IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambri
 - 在国际学校会根据 IGCSE 考试成绩筛选好学生继续读两年的 IBDP，差学生会被劝退
 
 # ESL vs EFL
-ESL：English as a Second Language
-EFL：
+IGCSE 的英语是一大热门科目，分为 EFL 和 ESL 两种课程。
+- ESL：English as a Second Language，母语不是英语，想提升语言技能的学生
+- EFL：English as a First Language，英语为母语的学生
 
-TODO
 # ESL 考试内容
 ESL 考试包括三部分内容：
 - Reading and Writing | Core 60 marks，90 minutes；Extented 80 marks，120 minutes | 60%
