@@ -1,5 +1,8 @@
-# IGCSE（International General Certificate of Secondary Education）
-中文名“国际中学教育普通证书”。这是一种基于英语语言的中学资格证书，拿到这个证书就意味着学生顺利完成了中学某一阶段的教育。当然，并不是仅仅读完几年书就能拿到这个证书的，你还需要经过一个考试，所以就有了IGCSE考试。当然，在考试之前，还要经历一段时间的上课和准备，与之相匹配的课程体系就是IGCSE课程。因此，IGCSE兼指一种课程体系、一种考试、一份证书。
+# IGCSE
+- 英文全称“International General Certificate of Secondary Education”，中文全称“国际中学教育普通证书”。
+- 一种基于英语语言的中学资格证书，拿到这个证书就表明完成了中学阶段的教育。
+- 要获得 IGCSE 证书需要上 IGCSE 课程体系、并且通过 IGCSE 考试。
+  
 
 那么这个课程具体学写什么呢？考试考些什么呢？考试成绩怎么评分呢？这个成绩和证书拿到了又有什么用呢？
 
