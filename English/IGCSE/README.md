@@ -46,11 +46,15 @@ IGCSE 的英语是一大热门科目，分为 EFL 和 ESL 两种课程。
 ESL 考试包括三部分内容：
 - Reading and Writing | Core 60 marks，90 minutes；Extented 80 marks，120 minutes | 60%
   - Exercise 1 看一篇文章，回答多个问题
+    - 确定文章中的态度和观点、阅读要点和细节
   - Exercise 2 看四篇短文，选择哪个短文与问题密切相关
   - Exercise 3 看一篇文章，回答两个问题的多个证据项
-  - Exercise 4 看一篇文章，用 100 words 总结文章，要涵盖两个主题
+  - Exercise 4 看一篇文章，用 100 words 总结文章，涵盖文章的主旨
+    - 针对特定目的和读者的摘要写作
   - Exercise 5 根据要求写一封邮件
+    - 短文写作 
   - Exercise 6 根据要求写一个报告
+    - 纪实写作
 - Listening | Core 30 marks，40 minutes；Extented 80 marks，40 minutes | 20%
 - Speaking | 30 marks，10-15 minutes | 20%
 
