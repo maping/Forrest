@@ -40,6 +40,24 @@ ESL：English as a Second Language
 EFL：
 
 TODO
+# ESL 考试内容
+ESL 考三部分内容
+- 阅读与写作 70%
+  - Exercise 1 看一篇文章，回答多个问题
+  - Exercise 2 看四篇短文，选择哪个短文与问题密切相关
+  - Exercise 3 看一篇文章，回答两个问题的多个证据项
+  - Exercise 4 看一篇文章，用 100 words 总结文章，要涵盖两个主题
+  - Exercise 5 根据要求写一封邮件
+  - Exercise 6 根据要求写一个报告
+- 听力
+- 口语
+
+
+其中paper1/2的阅读与写作是整个课程的重中之重，占总成绩的70%，直接决定着最终成绩的好坏。因此这也是我们在学习过程中需要重点关注的部分。
+
+Paper1/2一共包含6个Exercise（练习），分别考查阅读与写作能力，其中Exercise 4（摘要写作）是整张试卷的难点之一。
+
+ESL试卷的Exercise 4是摘要写作，题目中将给出一篇文章，要求考生写一篇摘要。
 
 ## 参考
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
