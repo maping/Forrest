@@ -18,7 +18,7 @@
 - LRN
 
 # IGCSE 课程体系
-IGCSE 是目前国外 14-16岁 全世界最多人读的体系，是 CIE（Cambridge International Examination）剑桥全球测试的一部分。
+IGCSE 是目前国外 14-16岁 最多人读的体系，是 CIE（Cambridge International Examination）测试的一部分。
 
 以 Cambridge IGCSE 为例，学生要从 70+个科目 中至少选择 7个科目 进行修读，而这 7个科目 的种类要求如下：
 - Group 1: Languages 语言
