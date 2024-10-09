@@ -69,3 +69,4 @@ ESL 考试包括三部分内容：
 - [PAST PAPERS](https://www.exam-mate.com/pastpapers?cat=3&sub=257)
 - [IGCSE三大考试局深度剖析：探寻A*之路](https://www.iedusg.com/igcse/28250.html)
 - [IGCSE英语成绩能代替雅思？IGCSE英语考什么](https://zhuanlan.zhihu.com/p/702714929)
+- [ESL-Writing](https://www.bilibili.com/video/BV1zE41137tQ/)
