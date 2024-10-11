@@ -92,10 +92,31 @@ ESL 考试包括三部分内容：
           - 2-3个问题，每个问题用多个证据项列表回答，一个证据项一分
           - 按照“先看问题，再看段落，再写答案”得方式做题，比较节省时间
           - 要仔细看问题，然后看段落时，判断是否属于这个问题
+          - 用铅笔下划线重点词语，经过确认后，写到答案中
+          - 无需使用自己的语言答题，从文章中找原文原词即可
+          - 无需回答整句，回答问题的点即可
       - Writing（在80分钟内完成）
-        - Exercise 4
-        - Exercise 5
-        - Exercise 6
+        - Exercise 4：summary exercise（在20分钟内完成）
+          - 会有 1-2 个问题，要仔细阅读问题
+          - 一个问题占一个段落，不要都写在一个段落
+          - 不要低于最低字数要求，也不要高于最高字数要求
+          - 一共 16分，8分从原文找出的问题点，8分 语言、逻辑、语法
+          - 用铅笔下划线重点词语，经过确认后，用自己的语言改写
+            - 近义词替代/反义词再取反
+            - 主动变被动
+            - 数字模糊化
+            - 对描述进行类别概括
+            - 改变单词词性
+            - 句子扩写
+          - 串接词非常重要，连接各个 points
+          - 总分总的结构
+            - Top sentence
+            - Connect all sentences with transitional words
+            - Final point 
+        - Exercise 5：email exercise（在20分钟内完成）
+          - Writing an informal letter for a friend or a family member
+          - 
+        - Exercise 6：
     - Paper Two
       - Listening
       -   
