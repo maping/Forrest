@@ -75,15 +75,21 @@ ESL 考试包括三部分内容：
   - ESL 得 A* 的秘诀
     - 时间管理
     - 尽量少扣分 
-    - Paper 2（ 2个小时）
-      - Reading
-        - Exercise 1 
+    - Paper One（ 一共2个小时）
+      - Reading（在40分钟内完成）
+        - Exercise 1：
+          - 每个问题 1-2 分，最后一个问题 4 分，一分用一行来回答
+          - 问题基本按时间顺序排列，第1题对应第1段，第2题对应第2段...
+          - 建议按照“先看问题，再看段落，再写答案”得方式
+          - 最后1题的答案来自各个段落
+          - 无需使用自己的语言答题，从文章中找原文原词即可
+          - 无需回答整句，回答问题的点即可
         - Exercise 2 
         - Exercise 3 
-      - Writing
+      - Writing（在80分钟内完成）
         - Exercise 4
         - Exercise 5
         - Exercise 6
-    - Paper 4
+    - Paper Two
       - Listening
       -   
