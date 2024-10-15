@@ -75,7 +75,8 @@ ESL 考试包括三部分内容：
   - ESL 得 A* 的秘诀
     - 时间管理
     - 尽量少扣分 
-    - Paper One（ 一共2个小时）
+    - Paper One（一共2个小时）
+      - 错误检查和改正只在完成每个练习后做！不要都做完了，再从头检查错误! 
       - Reading（在40分钟内完成）
         - Exercise 1：comprehensive exercise
           - 每个问题 1-2 分，最后一个问题 4 分，一分用一行来回答
@@ -133,7 +134,7 @@ ESL 考试包括三部分内容：
               - use abbreviations everywhere like "I'm" instead of "I am"
               - when the bullet point asks you to describe, use the "show don't tell" where you describe the event using your 5 senses instead of just saying "wow it was really pretty there", make the reader imagine.
               - when answering your bullet points, go into specific details, don't just vaguely explain or describe, go all in with your imagination
-        - Exercise 6：essay exercise（could be an article/report/review）
+        - Exercise 6：essay exercise（could be an article/report/review）（在20分钟内完成）
           - article
             - 别忘了写题目！！！ 
             - 四段式写法  
