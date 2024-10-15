@@ -149,6 +149,11 @@ ESL 考试包括三部分内容：
             - 可以写满一整页，但是不要超过一整页
           - report
           - review
+          - 其它技巧
+            - When giving a review and or a report, set out your imagination again. show don't tell
+            - Practice a lot of questions to get better at the art of collecting points for your question
+            - Do this by setting a 5 minute timer, and practicing the brainstorming of the question, the more practice, the less time you'll need to plan out for your question
+            - If you have multiple ideas for use, pick the one where you could find the most points for during thiese 5 mins
     - Paper Two
       - Listening
       -   
