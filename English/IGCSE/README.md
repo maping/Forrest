@@ -117,10 +117,14 @@ ESL 考试包括三部分内容：
           - Writing an informal letter for a friend or a family member
             - 主要问题阐述：being the main question
             - 三个次要点阐述：three bullet points
-            - 可以写满一整页，但是不要超过一整页
+            - 可以写满一整页，但是不要超过一整页，开始就把开头结尾写好，如下：
               - 第一行写：Hi XXX, 
-              - ......
-              - 倒数第二行写：With love,
+              - 第一段 写三行......
+              - 第二段 阐述第一个次要点 写三行
+              - 第三段 阐述第二个次要点 写三行
+              - 第四段 阐述第三个次要点 写三行
+              - 第五段 总结，写三行
+              - 倒数第二行写：With Love,
               - 倒数第一行写：Forrest  
         - Exercise 6：
     - Paper Two
