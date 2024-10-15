@@ -133,7 +133,7 @@ ESL 考试包括三部分内容：
               - use abbreviations everywhere like "I'm" instead of "I am"
               - when the bullet point asks you to describe, use the "show don't tell" where you describe the event using your 5 senses instead of just saying "wow it was really pretty there", make the reader imagine.
               - when answering your bullet points, go into specific details, don't just vaguely explain or describe, go all in with your imagination
-        - Exercise 6：
+        - Exercise 6：essay exercise（could be an article/report/review）
     - Paper Two
       - Listening
       -   
