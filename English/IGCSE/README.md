@@ -112,10 +112,16 @@ ESL 考试包括三部分内容：
           - 总分总的结构
             - Top sentence
             - Connect all sentences with transitional words
-            - Final point 
+            - Final point: Finally, 
         - Exercise 5：email exercise（在20分钟内完成）
           - Writing an informal letter for a friend or a family member
-          - 
+            - 主要问题阐述：being the main question
+            - 三个次要点阐述：three bullet points
+            - 可以写满一整页，但是不要超过一整页
+              - 第一行写：Hi XXX, 
+              - ......
+              - 倒数第二行写：With love,
+              - 倒数第一行写：Forrest  
         - Exercise 6：
     - Paper Two
       - Listening
