@@ -76,7 +76,8 @@ ESL 考试包括三部分内容：
     - 时间管理
     - 尽量少扣分 
     - Paper One（一共2个小时）
-      - 错误检查和改正只在完成每个练习后做！不要都做完了，再从头检查错误! 
+      - 错误检查和改正只在完成每个练习后做！不要都做完了，再从头检查错误!
+      - 仔细阅读题目要求，按题目要求写作！
       - Reading（在40分钟内完成）
         - Exercise 1：comprehensive exercise
           - 每个问题 1-2 分，最后一个问题 4 分，一分用一行来回答
@@ -157,4 +158,6 @@ ESL 考试包括三部分内容：
             - If you have multiple ideas for use, pick the one where you could find the most points for during thiese 5 mins
     - Paper Two
       - Listening
-      -   
+        - 专注！专注！专注！—— 因为只放两遍！
+        - 一定有干扰项！仔细聆听，分辨真假。
+        - 仔细阅读题目，特别是限定词  
