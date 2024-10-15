@@ -125,7 +125,14 @@ ESL 考试包括三部分内容：
               - 第四段 阐述第三个次要点 写三行
               - 第五段 总结，写三行
               - 倒数第二行写：With Love,
-              - 倒数第一行写：Forrest  
+              - 倒数第一行写：Forrest
+            - 表现出来，你和写信对象非常亲近
+            - 使用短句，而不是长句，因为这是非正式的信件
+            - 避免使用老套的打招呼用词，你需要从所有考生中 stand out 
+            - 其它技巧
+              - use abbreviations everywhere like "I'm" instead of "I am"
+              - when the bullet point asks you to describe, use the "show don't tell" where you describe the event using your 5 senses instead of just saying "wow it was really pretty there", make the reader imagine.
+              - when answering your bullet points, go into specific details, don't just vaguely explain or describe, go all in with your imagination
         - Exercise 6：
     - Paper Two
       - Listening
