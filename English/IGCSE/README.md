@@ -135,8 +135,18 @@ ESL 考试包括三部分内容：
               - when answering your bullet points, go into specific details, don't just vaguely explain or describe, go all in with your imagination
         - Exercise 6：essay exercise（could be an article/report/review）
           - article
-            - advantages
-            - disadvantages 
+            - 别忘了写题目！！！ 
+            - 四段式写法  
+              - intro  
+              - advantages
+              - disadvantages
+              - outro
+            - 非常正式的语言风格
+              - 用高级词
+              - 用复杂句
+              - 用过渡词 
+            - 用数据支撑你的观点，数据来源可以非真实，但不要太夸张
+            - 可以写满一整页，但是不要超过一整页
           - report
           - review
     - Paper Two
