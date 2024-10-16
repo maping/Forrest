@@ -1,4 +1,4 @@
-Hi Yang Ming Chuan,
+Hi Ming Chuan,
 
 I hope you’re doing well! I wanted to share some thoughts on how digital devices are impacting students like us.
 
@@ -10,4 +10,4 @@ Overall, while digital devices can enhance our education, we need to be careful 
 
 Cheers,
 
-Ma Qing Chuan
+Qing Chuan
