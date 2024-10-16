@@ -1,4 +1,4 @@
-# Think Digital: The Future or a Fad?
+# Think Digital: Embracing Innovation or Sacrificing Humanity?
 
 As a student in the 21st century, I can't help but notice the huge impact that digital technologies have had on our lives. From the way we learn and communicate to how we entertain ourselves, the digital world has become an integral part of our daily routines. But is this reliance on technology a good thing, or are we sacrificing too much in the process?
 
