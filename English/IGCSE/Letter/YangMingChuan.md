@@ -8,6 +8,6 @@ But there are some downsides too. Sometimes, there’s just too much information
 
 Overall, while digital devices can enhance our education, we need to be careful about the challenges they bring. Let me know what you think!
 
-Best Regards,
+Cheers,
 
 Ma Qing Chuan
