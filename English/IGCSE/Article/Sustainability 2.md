@@ -1,4 +1,4 @@
-# Sustainability: A Crucial Concept or Just a Buzzword?
+# Sustainability: Balancing Progress and Preservation?
 
 As a student in an international school, I've been hearing a lot about the concept of "sustainability" lately. It seems like it's become a buzzword that's thrown around in discussions about the environment, but what does it really mean, and is it something we should be paying attention to?
 
