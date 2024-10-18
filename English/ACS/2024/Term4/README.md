@@ -24,5 +24,6 @@ Let’s make a plan to do these activities together! It’ll be fun and we can m
 
 Looking forward to hearing your thoughts!
 
-Cheers,  
+Cheers, 
+
 Ma Qing Chuan
