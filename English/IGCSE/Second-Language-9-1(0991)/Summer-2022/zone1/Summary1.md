@@ -8,8 +8,8 @@ You will receive up to 6 marks for the content of your summary, and up to 6 mark
 accuracy of your language.
 
 ## 
-Wherever you travel, people consider the potato to be part of their local food. Potato $\color{red}{can be cooked
-in many different ways}$ and so is now found in a wide variety of dishes from Indian aloo gobi to Italian
+Wherever you travel, people consider the potato to be part of their local food. Potato **can be cooked
+in many different ways** and so is now found in a wide variety of dishes from Indian aloo gobi to Italian
 gnocchi. Until the middle of the 16th century though, this easy-to-grow vegetable was only found in
 South America. How then, in just a few centuries, did it become such a globally familiar food?
 
