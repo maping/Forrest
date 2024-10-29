@@ -23,7 +23,7 @@ There were many aspects to the potato’s appeal. Although potato plants initial
 in the cold European winters, farmers eventually produced varieties of potato that were able to
 adapt to the local climate, and the potato became the main food crop in Europe. By the 19th century,
 potatoes were being grown across the world – from Asia to Africa, China to North America – in part
-due to the fact that they were **cheap**. Although potatoes could be stored well, the limited number of
+due to the fact that they were **cheap**. Although potatoes **could be stored well**, the limited number of
 varieties meant that potato plants were sometimes destroyed by disease before they were able to
 produce a crop. So, in the early 20th century, scientists started trying to find a solution. Eventually
 they were successful and managed to **produce a range of varieties that could resist disease**.
