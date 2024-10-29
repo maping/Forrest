@@ -19,9 +19,9 @@ America previously, as these plants **could produce a large amount of food in a 
 also **contain some important vitamins needed for human health**, so it’s no surprise that they became
 highly valued by farmers trying to feed their families.
 
-There were many aspects to the potato’s appeal. Although potato plants initially **struggled to survive**
+There were many aspects to the potato’s appeal. Although potato plants initially struggled to survive
 in the cold European winters, farmers eventually produced varieties of potato that were able to
-adapt to the local climate, and the potato became the main food crop in Europe. By the 19th century,
+**adapt to the local climate**, and the potato became the main food crop in Europe. By the 19th century,
 potatoes were being grown across the world – from Asia to Africa, China to North America – in part
 due to the fact that they were **cheap**. Although potatoes **could be stored well**, the limited number of
 varieties meant that potato plants were sometimes destroyed by disease before they were able to
