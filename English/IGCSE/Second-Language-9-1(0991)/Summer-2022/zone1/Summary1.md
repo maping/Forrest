@@ -1,11 +1,11 @@
-Read the article about the history of the potato.
- Write a summary about why the potato has become a popular food.
- Your summary should be about 80 words long (and no more than 90 words long). You
-should use your own words as far as possible.
+# Read the article about the history of the potato.
+ - **Write a summary about why the potato has become a popular food.**
+ - **Your summary should be about 80 words long (and no more than 90 words long). You
+should use your own words as far as possible.**
 You will receive up to 6 marks for the content of your summary, and up to 6 marks for the style and
 accuracy of your language.
 
-How the potato travelled the world
+## How the potato travelled the world
 Wherever you travel, people consider the potato to be part of their local food. Potato can be cooked
 in many different ways and so is now found in a wide variety of dishes from Indian aloo gobi to Italian
 gnocchi. Until the middle of the 16th century though, this easy-to-grow vegetable was only found in
@@ -26,7 +26,8 @@ they were successful and managed to produce a range of varieties that could resi
 Today, the world’s top potato producers are China, India, Russia and Ukraine. The potato is now a
 genuinely global food crop.
 
-
+## Claude3 sonnet﻿
 The potato's global popularity can be attributed to several factors. As an easy-to-grow crop that produces abundant food in a small area, it became a staple for landless farmers in Europe during the 17th-18th centuries. Its nutritional value and ability to resist cold climates aided its spread across the continent. By the 19th century, the potato's affordability facilitated its cultivation worldwide from Asia to the Americas. Scientific efforts in the early 20th century produced disease-resistant varieties, further cementing the potato's status as a ubiquitous global food crop.
-﻿
+
+## GPT-4o
 The potato became a popular food due to its adaptability, nutritional value, and versatility in cooking. Introduced to Europe from South America in the 16th century, it thrived as a staple crop because it could yield abundant food in small spaces and adapt to various climates. Its affordability and ability to be stored well facilitated its global spread by the 19th century. Efforts in the 20th century to develop disease-resistant varieties further secured its status as a worldwide staple.
