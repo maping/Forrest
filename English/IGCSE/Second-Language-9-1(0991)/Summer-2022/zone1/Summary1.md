@@ -10,23 +10,23 @@ accuracy of your language.
 ## 
 Wherever you travel, people consider the potato to be part of their local food. Potato **can be cooked
 in many different ways** and so is now found in a wide variety of dishes from Indian aloo gobi to Italian
-gnocchi. Until the middle of the 16th century though, this easy-to-grow vegetable was only found in
+gnocchi. Until the middle of the 16th century though, this **easy-to-grow vegetable** was only found in
 South America. How then, in just a few centuries, did it become such a globally familiar food?
 
 In 17th and 18th century Europe, many people didn’t own any land and instead had to pay rent for
 the land they farmed. They often chose to grow potatoes, which had been introduced from South
-America previously, as these plants could produce a large amount of food in a small space. Potatoes
-also contain some important vitamins needed for human health, so it’s no surprise that they became
+America previously, as these plants **could produce a large amount of food in a small space**. Potatoes
+also **contain some important vitamins needed for human health**, so it’s no surprise that they became
 highly valued by farmers trying to feed their families.
 
-There were many aspects to the potato’s appeal. Although potato plants initially struggled to survive
+There were many aspects to the potato’s appeal. Although potato plants initially **struggled to survive**
 in the cold European winters, farmers eventually produced varieties of potato that were able to
 adapt to the local climate, and the potato became the main food crop in Europe. By the 19th century,
 potatoes were being grown across the world – from Asia to Africa, China to North America – in part
-due to the fact that they were cheap. Although potatoes could be stored well, the limited number of
+due to the fact that they were **cheap**. Although potatoes could be stored well, the limited number of
 varieties meant that potato plants were sometimes destroyed by disease before they were able to
 produce a crop. So, in the early 20th century, scientists started trying to find a solution. Eventually
-they were successful and managed to produce a range of varieties that could resist disease.
+they were successful and managed to **produce a range of varieties that could resist disease**.
 
 Today, the world’s top potato producers are China, India, Russia and Ukraine. The potato is now a
 genuinely global food crop.
