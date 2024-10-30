@@ -28,9 +28,10 @@ The Blackfoot Sculpture Park has established specific guidelines for your upcomi
 
 ## Forrest 修改
 **Please give a rank for this summary, base on the judging rules above.**
+The Blackfoot Sculpture Park has several rules visitors must follow. Students do not need to wear school uniforms but must carry their school ID at all times. Climbing on sculptures and playing ball games are prohibited, while running around is permitted. Feeding the horses and sheep is not allowed, though photographing them is fine. All gates must be closed after passing through, and picking flowers is forbidden. Additionally, you can fill reusable bottles at water taps and eat anywhere, but all rubbish must be taken away. 
 
 ## Claude3 sonnet﻿
-The park has several rules visitors must follow. Students do not need to wear school uniforms but must have their school ID at all times. Climbing on sculptures and playing ball games are prohibited, while running around is permitted. Feeding the horses and sheep is not allowed, though photographing them is fine. All gates must be closed after passing through, and picking flowers is forbidden. Visitors can eat anywhere but must take their rubbish with them when leaving. Following these rules set by the park is crucial for an enjoyable trip.
+The park has several rules visitors must follow. Students do not need to wear school uniforms but must have their school ID at all times. Climbing on sculptures and playing ball games are prohibited, while running around is permitted. Feeding the horses and sheep is not allowed, though photographing them is fine. All gates must be closed after passing through, and picking flowers is forbidden. Visitors can eat anywhere but must take their rubbish with them when leaving. Following these rules by the park is crucial for an enjoyable trip.
 
 ## GPT-4o
 When visiting the sculpture park, adhere to these rules: avoid parking near the entrance, carry your school ID, and refrain from climbing sculptures. Running is permitted, but ball games are not. Do not feed the horses or sheep, and ensure gates are closed after passing through. Picking flowers is prohibited. You can fill reusable bottles at water taps and eat anywhere, but all rubbish must be taken away. These guidelines are established by the park and must be respected.
