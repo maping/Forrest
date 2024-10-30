@@ -42,3 +42,6 @@ The potato's global popularity can be attributed to several factors. As an easy-
 
 ## GPT-4o
 The potato became a popular food due to its adaptability, nutritional value, and versatility in cooking. Introduced to Europe from South America in the 16th century, it thrived as a staple crop because it could yield abundant food in small spaces and adapt to various climates. Its affordability and ability to be stored well facilitated its global spread by the 19th century. Efforts in the 20th century to develop disease-resistant varieties further secured its status as a worldwide staple crop.
+
+## 读后感
+梵高的《吃土豆的人》
