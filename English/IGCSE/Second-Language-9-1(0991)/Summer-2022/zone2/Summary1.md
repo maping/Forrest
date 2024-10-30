@@ -22,8 +22,11 @@ These are all rules set out by the park itself, not by school, and it’s import
 I hope you all enjoy the trip!
 
 ## Forrest 原始
+**Please give some comments for this summary, point out any errors of it.**
+
 
 ## Forrest 修改
+**Please give a rank for this summary, base on the judging rules above.**
 
 ## Claude3 sonnet﻿
 The park has several rules visitors must follow. Students do not need to wear school uniforms but must have their school ID at all times. Climbing on sculptures and playing ball games are prohibited, while running around is permitted. Feeding the horses and sheep is not allowed, though photographing them is fine. All gates must be closed after passing through, and picking flowers is forbidden. Visitors can eat anywhere but must take their rubbish with them when leaving. Following these rules set by the park is crucial for an enjoyable trip.
