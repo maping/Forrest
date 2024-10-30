@@ -24,6 +24,7 @@ I hope you all enjoy the trip!
 ## Forrest 原始
 **Please give some comments for this summary, point out any errors of it.**
 
+The Blackfoot Sculpture Park has established specific guidelines for your upcoming school trip. Attendees must bring their school ID and should not park near the entrance, as that area is designated for staff. While you can participate in photography or drawing activities and explore the park freely, climbing on sculptures and playing ball games is prohibited. Do not feed the animals and ensure to close any gates behind you. Additionally, please refrain from picking flowers and remember to clean up after yourself. Bring a reusable bottle for drinking water and pack your own lunch.
 
 ## Forrest 修改
 **Please give a rank for this summary, base on the judging rules above.**
