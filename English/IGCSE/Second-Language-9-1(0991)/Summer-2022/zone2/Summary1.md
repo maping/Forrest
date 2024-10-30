@@ -15,8 +15,7 @@ If you intend to come on the school bus, please let me know in advance. If someo
 
 There are two activities available next Tuesday – you can choose between photography and drawing. All materials will be provided. You will also have some free time to explore the park, but remember you **mustn’t climb on the sculptures.** There’s nothing wrong with running around though – there is plenty of space for that – but **ball games are not allowed.** Also, there are horses and sheep in some parts of the park. We have been told that it’s important **not to feed them**, although you can certainly take photographs of them if you like. One thing to remember is that when you go through any gate in the park, you **must close it behind you**. You’ll see lots of beautiful flowers in the park, but please **don’t pick any of them.** 
 
-There are several taps around the park with drinking water, so if you bring a reusable bottle with you, you can fill it up for free. Please bring your own lunch with you. You’re allowed to eat anywhere
-in the park, but you must take all your rubbish away with you afterwards – you’ll see notices about this at the park.
+There are several taps around the park with drinking water, so if you bring a reusable bottle with you, you can fill it up for free. Please bring your own lunch with you. You’re allowed to eat anywhere in the park, but you **must take all your rubbish away with you afterwards** – you’ll see notices about this at the park.
 
 These are all rules set out by the park itself, not by school, and it’s important to respect them.
 
