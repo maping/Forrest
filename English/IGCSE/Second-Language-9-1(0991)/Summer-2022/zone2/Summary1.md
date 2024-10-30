@@ -28,6 +28,7 @@ The Blackfoot Sculpture Park has established specific guidelines for your upcomi
 
 ## Forrest 修改
 **Please give a rank for this summary, base on the judging rules above.**
+
 The Blackfoot Sculpture Park has several rules visitors must follow. Students do not need to wear school uniforms but must carry their school ID at all times. Climbing on sculptures and playing ball games are prohibited, while running around is permitted. Feeding the horses and sheep is not allowed, though photographing them is fine. All gates must be closed after passing through, and picking flowers is forbidden. Additionally, you can fill reusable bottles at water taps and eat anywhere, but all rubbish must be taken away. 
 
 ## Claude3 sonnet﻿
