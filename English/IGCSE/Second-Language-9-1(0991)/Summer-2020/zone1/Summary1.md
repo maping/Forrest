@@ -17,13 +17,15 @@ A company has developed the technology to store people’s data by transferring 
 ## Forrest 原始 
 **Please give some comments for this summary, point out any errors of it.**
 
+The Arctic World Archive offers a secure data storage solution due to its unique features. Located 300 metres underground, it is protected from harsh weather and unauthorised access. The stable environment ensures optimal conditions for data preservation without the need for energy-intensive temperature controls. Information is stored on durable digital film that lasts 500 years and cannot be altered, maintaining its integrity. Additionally, being offline minimises exposure to cyber threats, and data retrieval requires physical access by staff, enhancing security against unauthorised access.
 
 ## Forrest 修改 
 **Please give a rank for this summary, base on the judging rules above.**
 
+The Arctic World Archive offers a secure data storage solution due to its unique features. Located 300 metres below ground on a remote island, it is protected from harsh weather and potential intruders. The stable underground temperature eliminates the need for energy-consuming cooling systems. Data is stored on specialized digital film that lasts 500 years and cannot be altered, maintaining its integrity. Additionally, the archive is disconnected from the internet. Data retrieval involves a secure physical process by staff, preventing unauthorized access.
 
 ## Claude3 sonnet﻿
-The Arctic World Archive is a safe place for data storage due to its remote and secure location, stable underground temperature, and advanced data storage technology. It is situated 300 meters below ground on a remote island between Norway and the North Pole, protecting it from unauthorized access and environmental threats. The stable underground temperature eliminates the need for energy-consuming cooling systems. Data is stored on specialized digital film that lasts 500 years and cannot be edited, ensuring long-term preservation. Additionally, the archive is disconnected from the internet, and data retrieval involves a secure physical process, enhancing security.
+The Arctic World Archive is a safe place for data storage due to its remote and secure location, stable underground temperature, and advanced data storage technology. It is situated 300 meters below ground on a remote island, protecting it from unauthorized access and environmental threats. The stable underground temperature eliminates the need for energy-consuming cooling systems. Data is stored on specialized digital film that lasts 500 years and cannot be edited, ensuring long-term preservation. Additionally, the archive is disconnected from the internet, and data retrieval involves a secure physical process.
 
 ## GPT-4o
 The Arctic World Archive is a secure data storage facility located on a remote island between Norway and the North Pole. It is 300 meters underground, where stable temperatures make it ideal for long-term storage without energy use. Data is stored on special digital film that lasts 500 years and cannot be altered. The archive is not connected to the internet, adding extra security, and access to the data requires a physical retrieval process, making it highly resistant to hacking or unauthorized access.
