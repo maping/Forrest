@@ -23,3 +23,19 @@ Back in the classroom, we learned more about geocaching, which
 which people sometimes leave messages in. Some containers also have small objects in them. If you want, you can exchange the objects for something of your own, which most people like to do.
 Geocaching can be done anywhere. Since that first school trip, I’ve done geocaching at home, and even during holidays in Dubai, New York and Australia. No matter where I do it, I always get a feeling
 of satisfaction. My boring, small town is now my adventure playground – every week geocaching gives me new places to explore.
+
+## Forrest 原始 
+**Please give some comments for this summary, point out any errors of it.**
+
+## Forrest 修改 
+**Please give a rank for this summary, base on the judging rules above.**
+
+
+## Claude3 sonnet﻿
+The potato's global popularity can be attributed to several factors. As an easy-to-grow crop that produces abundant food in a small area, it became a staple for landless farmers in Europe during the 17th-18th centuries. Its nutritional value and ability to resist cold climates aided its spread across the continent. By the 19th century, the potato's affordability facilitated its cultivation worldwide from Asia to the Americas. Scientific efforts in the early 20th century produced disease-resistant varieties, further cementing the potato's status as a ubiquitous global food crop.
+
+## GPT-4o
+The potato became a popular food due to its adaptability, nutritional value, and versatility in cooking. Introduced to Europe from South America in the 16th century, it thrived as a staple crop because it could yield abundant food in small spaces and adapt to various climates. Its affordability and ability to be stored well facilitated its global spread by the 19th century. Efforts in the 20th century to develop disease-resistant varieties further secured its status as a worldwide staple crop.
+
+## 读后感
+
