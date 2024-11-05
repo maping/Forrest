@@ -24,6 +24,8 @@ Geocaching 寻宝游戏
 ## Forrest 原始 
 **Please give some comments for this summary, point out any errors of it.**
 
+Geocaching is an engaging outdoor activity that turns exploration into a modern treasure hunt. Participants use a mobile app to locate hidden containers in various locations, enhancing their navigation skills. It promotes physical activity and teamwork, as friends or family can work together to find the caches. Each container often contains a notebook for messages and small items for exchange, fostering a sense of community. Geocaching can be enjoyed anywhere, making it a rewarding way to discover new places and enjoy outdoor adventures.
+
 ## Forrest 修改 
 **Please give a rank for this summary, base on the judging rules above.**
 
