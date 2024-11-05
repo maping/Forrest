@@ -40,4 +40,4 @@ Geocaching offers numerous benefits. It provides an engaging outdoor activity to
 Geocaching offers numerous benefits that make it an enjoyable and rewarding activity. Firstly, it encourages outdoor exploration, allowing participants to appreciate their surroundings while engaging in physical exercise. This combination of movement and adventure helps reduce stress and boosts mood, making it a wholesome way to spend time. Additionally, geocaching fosters problem-solving skills and technological proficiency as users navigate using apps and maps. Finally, it provides a sense of community, connecting people through shared experiences and the thrill of discovery, enhancing social interaction and cooperation.
 
 ## 读后感
-将来写一篇 What is good about Go？
+将来写一篇 What is good about Go？先构思，别下笔，要包括至少 6 个 good points。
