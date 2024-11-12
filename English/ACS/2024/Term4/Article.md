@@ -1,19 +1,13 @@
-4 
-ENerciaa You have heard about a school that allows the students to bring their mobile phones to classes. You have decided to write an article giving your views about this idea for your school magazine. Here are two comments from other young people: 
+You have heard about a school that allows the students to bring their mobile phones to classes. You have decided to write an article giving your views about this idea **for your school magazine**. Here are two comments from other young people: 
+- Having my phone with me would help with research and quick access to information during lessons. 
+- It could be distracting. Students might be tempted to check social media or play games during class. 
 
-■-,••■••1+2.1. 
-Having my phone with me would :ielp with research and quick access to information during lessons. 
+Write an article for your school magazine, giving your views. 
+- The comments above may give you some ideas, and **you can also use some ideas of your own**.
+- Your article should be between 120 and 160 words long.
 
+You will receive up to 6 marks for the content of your article, and up to 9 marks for the language used. 
 
-It could be distracting. Students might be tempted to check social media or play games during class. 
-
-Write an article for your school magazine, giving your views. The comments above may give you some ideas, and you can also use some ideas of your own. Your article should be between 120 and 160 words long. You will receive up to 6 marks for the content of your article, and up to 9 marks for the language used. 
-
-L 
-Exercise 5 
-
-
-During your last school holiday, you decided to join a group of local volunteers who meet each week to help other people in your town. Write an email to a friend telling them about your experience. In your email, you should: say how you found out about the volunteer group c:escr:be what the group did to help • explain why your friend should join the group The pictures above may give you some ideas, and you can also use some ideas of your own. Your email should be between 120 and 160 words long. You will receive up to 6 marks for the content of your email, and up to 9 marks for the style and accuracy of writing. 
 
 a 
 
