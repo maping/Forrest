@@ -9,7 +9,7 @@ Write an article for your school magazine, giving your views.
 
 You will receive up to 6 marks for the content of your article, and up to 9 marks for the language used. 
 
-## Bring phones to classes, better or worse?
+## 原版 Bring phones to classes, better or worse?
 Recently, ACS international allows students to bring their mobile phones to classes, this new rule has now been a very popular topic now. What is going to happent after this?
 
 On one hand, the bringing of phones to class can improve the grades, student can search the information they want on safari and google. Also, some educational apps can make students study in their own study ryphm according to their aptitude.
