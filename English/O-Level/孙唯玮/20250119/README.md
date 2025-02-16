@@ -51,3 +51,8 @@
     - benevolent /bəˈnevələnt/ adj. 仁慈的；慈善的；乐善好施的；用于慈善机构名称
     - malevolent /məˈlevələnt/ adj. 恶毒的；有恶意的；有坏心肠的
     - orphanage /ˈɔːfənɪdʒ/ n. 孤儿院
+  - 13 ❌
+    - indiscreet /ˌɪndɪˈskriːt/ adj. 轻率；不慎重的；鲁莽的；不审慎的
+    - indescribable /ˌɪndɪˈskraɪbəbl/ adj. 难以形容的，无法描述的，无法言传的；模糊的，不明确的 n. 难以描述的人（或事物）
+    - inconspicous /ˌɪnkənˈspɪkjuəs/ adj. 不起眼的;不引人注目的;
+      - https://haokan.baidu.com/v?pd=wisenatural&vid=7755894167799626587 
