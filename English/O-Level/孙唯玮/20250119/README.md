@@ -30,13 +30,24 @@
   - 6 ✔️
     - mop /mɒp/ n. 拖把；墩布；洗碗刷；乱蓬蓬的头发 vt. 用拖把擦干净；用布擦掉(表面)的液体 
 - P293
-  - 7
+  - 7 ✔️
     - pandemic /pænˈdemɪk/ n. (全国或全球性)流行病；大流行病 adj. （疾病）大流行的；普遍的，全世界的
     - hygiene /ˈhaɪdʒiːn/ n. 卫生
     - step out 离开；退出
     - step up 增加（数量）；提高（速度、强度等）
-  - 8
+  - 8 ✔️
     - lodge /lɒdʒ/
       - n. (供参加户外运动者暂住的)乡间小屋，小舍；（美洲土著人的）帐篷，原木住宅；(公园或宅第的)门口小屋，门房；传达室；（河狸或水獭的）穴，窝；地方分会，集会处；管理员室
       - v. 存放，寄存（钱或贵重物品）；（被）固定，卡住；(付款)寄住，借宿；(向公共机构或当局)正式提出(声明等)；租住；为(某人)提供住宿 
-  -  
+  - 9 ✔️
+    - compensation /ˌkɒmpenˈseɪʃn/ n. (对不利局面的)补偿；赔偿；(尤指)赔偿金；补偿金；补偿(或赔偿)物；使坏的情况变好的事物
+  - 10 ✔️
+- P294
+  - 11 ❌ rubber vs leather，tough as leather
+    - https://mp.weixin.qq.com/s?__biz=MzA5NTU0MTMzOQ==&mid=2652630393&idx=3&sn=1800e0d8adecfef2b4333fbdad56bdd6&chksm=8ab7657766056b7541bec6318969483848a4bbdfd26221177dadfaec48a2cf0081360b27d666&scene=27
+  - 12 ✔️
+    - tycoon /taɪˈkuːn/ n. 大亨；(企业界的)巨头
+    - pompous /ˈpɒmpəs/ adj. 浮夸的；虚华的
+    - benevolent /bəˈnevələnt/ adj. 仁慈的；慈善的；乐善好施的；用于慈善机构名称
+    - malevolent /məˈlevələnt/ adj. 恶毒的；有恶意的；有坏心肠的
+    - orphanage /ˈɔːfənɪdʒ/ n. 孤儿院
