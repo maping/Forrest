@@ -51,8 +51,17 @@
     - benevolent /bəˈnevələnt/ adj. 仁慈的；慈善的；乐善好施的；用于慈善机构名称
     - malevolent /məˈlevələnt/ adj. 恶毒的；有恶意的；有坏心肠的
     - orphanage /ˈɔːfənɪdʒ/ n. 孤儿院
-  - 13 ❌
+  - 13 ❌ invisible vs inconspicous
     - indiscreet /ˌɪndɪˈskriːt/ adj. 轻率；不慎重的；鲁莽的；不审慎的
     - indescribable /ˌɪndɪˈskraɪbəbl/ adj. 难以形容的，无法描述的，无法言传的；模糊的，不明确的 n. 难以描述的人（或事物）
     - inconspicous /ˌɪnkənˈspɪkjuəs/ adj. 不起眼的;不引人注目的;
       - https://haokan.baidu.com/v?pd=wisenatural&vid=7755894167799626587 
+  - 14 ❌ reminisce 单词认识否
+    - regain /rɪˈɡeɪn/ vt. 再次得到；回到(原位)；返回；重新获得，恢复(能力或品质等) n. 恢复；收复；收回；复得
+    - rehearse /rɪˈhɜːs/ v. 排练；排演；重复；背诵；默诵；照搬；默默地练习
+    - reminisce /ˌremɪˈnɪs/ vi. 回忆；追忆；缅怀(昔日的快乐时光)
+  - 15 ❌ claim 的一个不常见的含义
+    - claim /kleɪm/
+      - v. 宣称；声称；获得；要求(拥有)；引起（注意）；索取；认领；断言；索要；夺走，夺去（生命）
+      - n. (尤指向公司、政府等)索款，索赔；宣称；声明；(尤指对财产、土地等要求拥有的)所有权；断言
+    - cleanse /klenz/ vt. 清洁(皮肤)；清洗(伤口)；使净化；使免除(罪过)
