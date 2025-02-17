@@ -78,11 +78,20 @@
     - charged particles
     - solor winds
     - enormous
+    - beam
+    - sway
+    - blaze
+    - scientifically
+    - 
   - 17 ❌
     - spot 需要仔细观察才能注意到蛛丝马迹
     - peer 仔细看，端详
     - notice
     - perceive /pəˈsiːv/ vt. 感知；认为；察觉到；意识到；注意到；将…视为；将…理解为
-  - 18 ❌ 
+  - 18 ❌
+    - claim 声称
+    - declare
+    - affirm /əˈfɜːm/ v. 对...予以证实；郑重声明
+    - confirm 确认
   - 19 ❌ 
   - 20 ❌   
