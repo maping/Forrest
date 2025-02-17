@@ -74,7 +74,15 @@
     - discuss /dɪˈskʌs/ vt. 讨论；论述；谈论；商量；详述
     - describe /dɪˈskraɪb/ vt. 描述；形容；把…称为；形成…形状；做…运动；画出…图形
     - determine /dɪˈtɜːmɪn/ v. 确定；测定；决定；决定，决心（做某事）；影响；形成；安排；裁决；查明；支配；准确算出
-  - 17 ❌ 
+    - phenomena
+    - charged particles
+    - solor winds
+    - enormous
+  - 17 ❌
+    - spot
+    - peer
+    - notice
+    - perceive 
   - 18 ❌ 
   - 19 ❌ 
   - 20 ❌   
