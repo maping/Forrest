@@ -79,10 +79,10 @@
     - solor winds
     - enormous
   - 17 ❌
-    - spot
-    - peer
+    - spot 需要仔细观察才能注意到蛛丝马迹
+    - peer 仔细看，端详
     - notice
-    - perceive 
+    - perceive /pəˈsiːv/ vt. 感知；认为；察觉到；意识到；注意到；将…视为；将…理解为
   - 18 ❌ 
   - 19 ❌ 
   - 20 ❌   
