@@ -111,4 +111,11 @@
   - malay /məˈleɪ/ n. 马来人；马来语 adj. 马来人的;马来语的;马来文化的
   - tamil /ˈtæmɪl/ n. 泰米尔；泰米尔人；泰米尔语；淡米尔语
   - you can't leave footprint in the sands of time while sitting down
-  - 
+  - 21 ✔️
+  - 22 ✔️
+  - 23 ✔️
+  - 24 ✔️
+  - 25 ✔️
+  - 26 ✔️
+  - 27 ✔️
+  - 28 ❌
