@@ -99,4 +99,9 @@
     - decent /ˈdiːsnt/ adj. 像样的；正派的；适当的；公平的；得体的；相当不错的；合宜的；尚好的；合乎礼节的；穿好了衣服的
     - precise /prɪˈsaɪs/ adj. 准确的；精确的；确切的；明确的；精细的；(强调时间或方式等)就，恰好；细致的；认真的；一丝不苟的
     - suitable /ˈsuːtəbl/ adj. 合适的；适当；适用；适宜的
-  - 20 ❌   
+  - 20 ❌
+    - anxious /ˈæŋkʃəs/ adj. 焦虑的；担心；渴望；忧虑；非常希望；流露出忧虑的
+    - eager
+    - ardent /ˈɑːdnt/ adj. 热烈的；热心的；激情的
+    - nervous
+    - apprehensive /ˌæprɪˈhensɪv/ adj. 担心的；忧虑；恐惧的；疑惧的
