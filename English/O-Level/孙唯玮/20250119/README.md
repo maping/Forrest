@@ -105,3 +105,10 @@
     - ardent /ˈɑːdnt/ adj. 热烈的；热心的；激情的
     - nervous
     - apprehensive /ˌæprɪˈhensɪv/ adj. 担心的；忧虑；恐惧的；疑惧的
+- P296-299
+  - criteria  
+  - dialect
+  - malay /məˈleɪ/ n. 马来人；马来语 adj. 马来人的;马来语的;马来文化的
+  - tamil /ˈtæmɪl/ n. 泰米尔；泰米尔人；泰米尔语；淡米尔语
+  - you can't leave footprint in the sands of time while sitting down
+  - 
