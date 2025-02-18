@@ -127,6 +127,17 @@
   - humble dwelling 简陋的住宅
   - afflict /əˈflɪkt/ vt. 折磨；使痛苦
   - ailment /ˈeɪlmənt/ n. 小病；小恙；轻病
+  - aghast /əˈɡɑːst/ adj. 惊恐；惊骇
+  - clutter /ˈklʌtə(r)/ n. 杂乱；杂乱的东西(尤指不需要的或无用的) vt. 凌乱地塞满；乱堆放
+  - untidy /ʌnˈtaɪdi/ adj. 不整洁的；凌乱的；不整齐的；不修边幅的；无条理的 v. 使不整洁；使杂乱无章
+    - untidily
+  - evident /ˈevɪdənt/ adj. 明显的；显然的；清楚的；显而易见的
+  - indication 英/ˌɪndɪˈkeɪʃn/ n. 指示；表明；显示；标示；象征
+  - rancid /ˈrænsɪd/ adj. (含油食品)变质的，变味的，哈喇的
+  - intolerable /ɪnˈtɒlərəbl/ adj. 不能容忍的；无法忍受的；完全不可接受的
+  - ponder /ˈpɒndə(r)/ v. 思考；考虑；沉思；琢磨
+  - predicament /prɪˈdɪkəmənt/ n. 困境；窘境；尴尬的处境
+  - suppress /səˈpres/ vt. 抑制；控制；压制；禁止(发表)；镇压；查禁；封锁；忍住；(武力)平定
   - 21 ✔️
   - 22 ✔️
   - 23 ✔️
