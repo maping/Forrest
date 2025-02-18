@@ -153,4 +153,9 @@
   - 26 ✔️
     - handicap /ˈhændikæp/ n. 残障；障碍；残疾；弱智；阻碍；生理缺陷；vt. 阻碍；妨碍
   - 27 ✔️
+    - ample /ˈæmpl/ adj. 充足的；足够的；丰满的；丰裕的；硕大的- 
   - 28 ❌
+    - compassionate /kəmˈpæʃənət/ adj. 富有同情心的；有同情心的；表示怜悯的 v. 同情；怜悯
+      - pity -> sympathy -> empathy -> compassion
+    - sentimental /ˌsentɪˈmentl/ adj. 情感的(而非理性的)；多愁善感的；(失之过度或不恰当地)伤感的，充满柔情的
+    - temperamental /ˌtemprəˈmentl/ adj. 喜怒无常的；气质的；性格的；性情的；反复无常的；容易激动的
