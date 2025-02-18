@@ -110,6 +110,9 @@
   - dialect
   - malay /məˈleɪ/ n. 马来人；马来语 adj. 马来人的;马来语的;马来文化的
   - tamil /ˈtæmɪl/ n. 泰米尔；泰米尔人；泰米尔语；淡米尔语
+  - senior /ˈsiːniə(r)/ 
+    - adj. 级别(或地位)高的；成人的；中等学校，中学部；高级水平的；(父子同名时，加在父亲的名字前)老，大；（高中或大学）毕业年级的
+    - n. 上级；中学生；上司；毕业班学生；高水平运动员；级别(或地位)较高者；较…年长的人；资深成人运动员
   - you can't leave footprint in the sands of time while sitting down
   - maiden assignment 首次任务
   - assortment /əˈsɔːtmənt/ n. 各种各样
@@ -139,10 +142,15 @@
   - predicament /prɪˈdɪkəmənt/ n. 困境；窘境；尴尬的处境
   - suppress /səˈpres/ vt. 抑制；控制；压制；禁止(发表)；镇压；查禁；封锁；忍住；(武力)平定
   - 21 ✔️
+    - compulsory /kəmˈpʌlsəri/ adj. (因法律或规则而)必须做的，强制的，强迫的；义务的 n. (花样滑冰、体操比赛等中的)规定动作
   - 22 ✔️
   - 23 ✔️
+    - diminish /dɪˈmɪnɪʃ/ v. 减少；降低；(使)减弱，缩减；贬低；贬损；轻视
+    - forge /fɔːdʒ/ v. 锻造；伪造；制作；假冒；稳步前进；努力加强；艰苦干成 n. 铁匠铺；锻造车间；锻造工厂；锻铁炉
   - 24 ✔️
   - 25 ✔️
+    - spartan /ˈspɑːtn/ n. 斯巴达;斯巴达人;斯巴达式的人; adj. 斯巴达式的;简朴的;清苦的;
   - 26 ✔️
+    - handicap /ˈhændikæp/ n. 残障；障碍；残疾；弱智；阻碍；生理缺陷；vt. 阻碍；妨碍
   - 27 ✔️
   - 28 ❌
