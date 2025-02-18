@@ -111,6 +111,16 @@
   - malay /məˈleɪ/ n. 马来人；马来语 adj. 马来人的;马来语的;马来文化的
   - tamil /ˈtæmɪl/ n. 泰米尔；泰米尔人；泰米尔语；淡米尔语
   - you can't leave footprint in the sands of time while sitting down
+  - maiden assignment 首次任务
+  - assortment /əˈsɔːtmənt/ n. 各种各样
+  - essentials /ɪˈsɛnʃəlz/ n. 要素；实质；要点；必需品；必不可少的东西
+  - pail /peɪl/ n. (通常为金属或木制的)桶
+  - rag /ræɡ/ n. 抹布；破布； vt. 嘲笑；捉弄
+  - broom /bruːm/ n. 扫把；扫帚；金雀花(野生，开小黄花)
+  - mop /mɒp/ n. 拖把；墩布；洗碗刷；乱蓬蓬的头发 vt. 用拖把擦干净；用布擦掉(表面)的液体
+  - detergent /dɪˈtɜːdʒənt/ n. 洗涤剂；洗衣粉；去垢剂 adj. 有洗净力的
+  - prime
+  - spruce up /spruːs/ n. 云杉；云杉木 v. 打扮整齐；使显干净 adj. 整洁的
   - 21 ✔️
   - 22 ✔️
   - 23 ✔️
