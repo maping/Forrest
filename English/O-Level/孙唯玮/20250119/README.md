@@ -121,6 +121,12 @@
   - detergent /dɪˈtɜːdʒənt/ n. 洗涤剂；洗衣粉；去垢剂 adj. 有洗净力的
   - prime
   - spruce up /spruːs/ n. 云杉；云杉木 v. 打扮整齐；使显干净 adj. 整洁的
+  - spouse /spaʊs/ n. 配偶 vt. 和…结婚
+  - widow /ˈwɪdəʊ/ n. 寡妇；遗孀 vt. 使丧偶；使成为寡妇(或鳏夫)
+  - reside /rɪˈzaɪd/ vi. 居住在；定居于
+  - humble dwelling 简陋的住宅
+  - afflict /əˈflɪkt/ vt. 折磨；使痛苦
+  - ailment /ˈeɪlmənt/ n. 小病；小恙；轻病
   - 21 ✔️
   - 22 ✔️
   - 23 ✔️
