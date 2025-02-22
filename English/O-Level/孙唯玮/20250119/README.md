@@ -208,9 +208,6 @@
 - P302
   - practicality /ˌpræktɪˈkæləti/ n. 实用性；实际情况；可行性；实事求是；适用性；实际事物
   - indisputable indisputable  
-  - debilitating /dɪˈbɪlɪteɪtɪŋ/ v. (使身心)衰弱，衰竭，虚弱；削弱(国家、机构)的力量；使软弱无力 adj. 使衰弱的
-  - mosquito-borne adj. 蚊子传播的；蚊媒的；蚊传播的
-  - west nile n. 西尼罗河；西尼罗；西尼罗病毒
   - 51 ✔️
   - 52 ❌ goes
   - 53 ✔️
