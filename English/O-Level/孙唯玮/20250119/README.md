@@ -264,6 +264,7 @@
   - tiled floor 瓷砖地板
   - by no means 决不;丝毫不;一点儿也不
   - goosebumps 鸡皮疙瘩
+  - succumb /səˈkʌm/ vi. 屈服；屈从；抵挡不住(攻击、疾病、诱惑等)
   - 71 ✔️
     - The low hum of the refrigerator.
     - The intermittent moaning of the pipes.
