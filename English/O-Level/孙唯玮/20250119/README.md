@@ -265,3 +265,14 @@
   - 78 ❌ William's sincerity convinced the President to help the less privileged.
   - 79 ❌ The damaged roof is being mended by the workers.
   - 80 ❌✔️ With diligence and wisdom, we can achieve our goals.
+
+
+Dione held the purple cotton sweater to her face and the familiar smell immediately struck her, an overwhelming anguish knotting her stomach and tugging at her heart. Pins and needles ran up the back of her neck and a lump in her throat threatened to choke her. Anxiety took over. Apart from the low hum of the refrigerator and the intermittent moaning of the pipes, the house was quiet. She was alone. Bile rose to her throat and she ran to the bathroom, where she collapsed to her knees before the toilet.
+
+Mike was gone and he would never be back. That was the reality. She would never again run her fingers through his soft hair, never share a private joke across the table at a dinner party, never cry to him when she got home from a hard day at work and just needed a hug; she would never share a bed with him again, never be woken up by his fits of sneezes each morning, never laugh with him so much her stomach would ache, never fight with him about whose turn it was to get up and turn the bedroom light off. All that was left was a bundle of memories and an image of his face became more and more vague each day.
+
+Their plan had been very simple. To stay together for the rest of their lives. A plan that anyone within their circle would agree was accomplished. They were best friends, lovers and soul mates destined to be together, everyone thought. But as it occurred, one day destiny greedily changed its mind on the newlyweds.
+
+The end had come all too soon. After complaining of a migraine for a few days, Mike had agreed to Dione's suggestion that he see his doctor. This was done one Wednesday on a lunch break from work. The doctor thought it was due to stress or fatigue and agreed that at the very worst he might need glasses. Mike had not been pleased with that. He had been upset about the idea that he might need glasses. He need not have worried, since as it turned out it was not his eyes that were the problem. It was the tumour growing inside his brain.
+
+Dione flushed the toilet, and shivering from the coldness of the tiled floor, she shakily steadied herself to her feet. He had been thirty-two years old. By no means had he been the healthiest man in the earth, but he had been healthy enough to... he should not have lived so safely. Even as he lived about it, Dione could see the regret in his eyes - regret for the things he never made time to do and the places he never saw.
