@@ -254,18 +254,52 @@
     - n. (用绳索等打的)结；节；节疤；节子；发髻；一小群人；痉挛，郁结，哽咽，哽塞
     - v. 把…打成结(或扎牢)；缠结；打发髻；痉挛，紧缩，使痉挛
   - pin /pɪn/ n. 大头针，别针；
+  - bile 胆汁
+  - intermittent /ˌɪntəˈmɪtənt/ adj. 断断续续的，间歇的；周期性的
+  - fits of sneezes 打喷嚏
   - accomplish /əˈkʌmplɪʃ/ vt. 完成
-  - 71 ✔️ Although Timothy was ill, he insisted on going to school.
-  - 72 ❌ We went to the famous restaurant where many people like to go.
-  - 73 ❌ William's sincerity convinced the President to help the less privileged.
-  - 74 ❌ The damaged roof is being mended by the workers.
-  - 75 ❌✔️ With diligence and wisdom, we can achieve our goals.
-  - 76 ✔️ Although Timothy was ill, he insisted on going to school.
-  - 77 ❌ We went to the famous restaurant where many people like to go.
-  - 78 ❌ William's sincerity convinced the President to help the less privileged.
-  - 79 ❌ The damaged roof is being mended by the workers.
-  - 80 ❌✔️ With diligence and wisdom, we can achieve our goals.
-
+  - migraine /ˈmaɪɡreɪn/ n. 偏头痛
+  - fatigue /fəˈtiːɡ/ n. 劳累；(金属或木材的)疲劳；厌倦；（士兵穿的）工作服；士兵杂役 v. 使疲乏；使劳累；使（肌肉，器官）衰竭
+  - tumor /ˈtjuːmə(r)/ n. 肿瘤；瘤；肿块
+  - tiled floor 瓷砖地板
+  - by no means 决不;丝毫不;一点儿也不
+  - goosebumps 鸡皮疙瘩
+  - 71 ✔️
+    - The low hum of the refrigerator.
+    - The intermittent moaning of the pipes.
+  - 72 ❌
+    - Dione felt goosebumps on her neck:
+      - Evidence: "Pins and needles ran up the back of her neck..."
+    - Dione was about to vomit:
+      - Evidence: "Bile rose to her throat and she ran to the bathroom..."
+    - Dione was overwhelmed by weakness:
+      - Evidence: "...she collapsed to her knees before the toilet."
+  - 73 ✔️
+    - Emotional Support: Dione remembers crying to Mike after a hard day at work and needing a hug, showing that he was her source of comfort and emotional support.
+Evidence: "...never cry to him when she got home from a hard day at work and just needed a hug..."
+﻿    - Shared Joy and Intimacy: Dione recalls laughing with Mike so much that her stomach would ache, indicating a relationship filled with joy, humor, and closeness.
+Evidence: "...never laugh with him so much her stomach would ache..." 
+  - 74 ✔️
+  - 75 ❌
+    - Dione and Mike's destiny was tragically altered when Mike was diagnosed with a brain tumour, which ultimately took his life. Their original plan was to stay together for the rest of their lives, a future that seemed certain and full of promise. However, destiny "greedily changed its mind," cutting their time together short and leaving Dione to face a life without Mike. 
+  - 76 ✔️
+    -  Mike seeing his doctor on a lunch break from work after complaining of a migraine for a few days. 
+  - 77 ✔️
+    - The irony in this sentence lies in the fact that Mike was initially worried about the possibility of needing glasses, which he considered a minor inconvenience. However, the reality was far more serious and tragic—he had a brain tumour, a life-threatening condition. His concern about his eyesight was trivial compared to the actual problem, making the situation bitterly ironic. 
+  - 78 ❌
+    - Mike and Dione got married.
+    - Mike suffered from migraine.
+    - A tumour was found growing in Mike's brain.
+  - 79 ✔️❌
+    - Mike and Dione appeared as a loving couple to their circle of friends.
+     - True	The story mentions that everyone in their circle thought they were "best friends, lovers, and soulmates."
+    - Dione would soon forget Mike's looks.
+     - False	Dione struggles with the fading memory of Mike's face, indicating she is unlikely to forget his looks soon.
+    - Mike suffered from migraine because his eyesight was poor and he needed glasses.
+      - False	The migraines were caused by a brain tumour, not poor eyesight or the need for glasses.
+    - Mike had some regrets in his life.
+      - True	Dione noticed regret in Mike's eyes for the things he never made time to do and the places he never saw.
+  - 80 ✔️ In the end, Mike succumbed to the brain tumour, which ultimately took his life.
 
 Dione held the purple cotton sweater to her face and the familiar smell immediately struck her, an overwhelming anguish knotting her stomach and tugging at her heart. Pins and needles ran up the back of her neck and a lump in her throat threatened to choke her. Anxiety took over. Apart from the low hum of the refrigerator and the intermittent moaning of the pipes, the house was quiet. She was alone. Bile rose to her throat and she ran to the bathroom, where she collapsed to her knees before the toilet.
 
