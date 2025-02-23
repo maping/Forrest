@@ -1,4 +1,4 @@
-- P292 
+![image](https://github.com/user-attachments/assets/ac96eb3e-7503-474b-b1bf-6d49d024acce)- P292 
   - 1 ✔️
     - picnicker /ˈpɪknɪkə(r)/ n. 野餐者
     - litter /ˈlɪtə(r)/ n. 垃圾；(在公共场所乱扔的)废弃物；v. 乱扔；使遍布(一般指不好的东西)；使凌乱；使饱含
@@ -218,7 +218,8 @@
   - end up in 以…结束；死在
   - incinerator /ɪnˈsɪnəreɪtə(r)/ n. (垃圾)焚化炉
   - vaporise 蒸发
-  - 
+  - cinder /ˈsɪndə(r)/ n. 煤渣；灰烬；余烬
+  - residue /ˈrezɪdjuː/ n. 残留；残留物；残渣；剩余物；剩余遗产
   - 51 ✔️
   - 52 ❌ goes
   - 53 ✔️
@@ -232,7 +233,35 @@
   - 61 ❌ polluting/contaminating
     - contaminate /kənˈtæmɪneɪt/ vt. 污染，弄脏；玷污，毒害，腐蚀(人的思想或品德)；(加入杂质)使不纯，使变得低劣；使受放射性污染；使受毒气影响
     - pollute
-  - 62 ❌
+  - 62 ❌ lead 
   - 63 ✔️
   - 64 ✔️
   - 65 ✔️
+- P303
+  - 66 ✔️ Although Timothy was ill, he insisted on going to school.
+  - 67 ❌ We went to the famous restaurant where many people like to go.
+  - 68 ❌ William's sincerity convinced the President to help the less privileged.
+  - 69 ✔️ The damaged roof is being mended by the workers.
+  - 70 ✔️ With diligence and wisdom, we can achieve our goals.
+- P304-306
+  - purple
+  - strike /straɪk/
+    - n. 罢工；（有损声誉的）不利因素，打击；袭击；(尤指)空袭；打；击；罢课；踢；罢市；全中；军事进攻；（珍贵东西的）意外发现；击球未中
+    - v. 罢工；撞击；打；击打，踢(球等)；击；碰撞；撞；敲；给（某人以…）印象；突击；擦，划（火柴）；行进；侵袭；碰；弹奏；突然想到；照在…上；开采出；顿时使处于某状态
+  - anguish /ˈæŋɡwɪʃ/ n. 痛苦；苦恼；剧痛 vi. 苦恼；使苦恼；使极度痛苦；悲痛万分；感到极度的痛苦
+  - tug /tʌɡ/ n. 猛拉；拖船；(突然的)猛拽；一股强烈的感情 v. (朝某一方向用力)拉；拖；拽
+  - knot /nɒt/
+    - n. (用绳索等打的)结；节；节疤；节子；发髻；一小群人；痉挛，郁结，哽咽，哽塞
+    - v. 把…打成结(或扎牢)；缠结；打发髻；痉挛，紧缩，使痉挛
+  - pin /pɪn/ n. 大头针，别针；
+  - accomplish /əˈkʌmplɪʃ/ vt. 完成
+  - 71 ✔️ Although Timothy was ill, he insisted on going to school.
+  - 72 ❌ We went to the famous restaurant where many people like to go.
+  - 73 ❌ William's sincerity convinced the President to help the less privileged.
+  - 74 ❌ The damaged roof is being mended by the workers.
+  - 75 ❌✔️ With diligence and wisdom, we can achieve our goals.
+  - 76 ✔️ Although Timothy was ill, he insisted on going to school.
+  - 77 ❌ We went to the famous restaurant where many people like to go.
+  - 78 ❌ William's sincerity convinced the President to help the less privileged.
+  - 79 ❌ The damaged roof is being mended by the workers.
+  - 80 ❌✔️ With diligence and wisdom, we can achieve our goals.
