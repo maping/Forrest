@@ -207,18 +207,31 @@
   - 50 ✔️
 - P302
   - practicality /ˌpræktɪˈkæləti/ n. 实用性；实际情况；可行性；实事求是；适用性；实际事物
-  - indisputable indisputable  
+  - indisputable /ˌɪndɪˈspjuːtəbl/ adj. 不容置疑的；无可争辩的；不容否认的
+  - torch /tɔːtʃ/ n. 火炬；火把；手电筒 vt. 放火烧，纵火烧(建筑物或汽车)
+  - mercury /ˈmɜːkjəri/ n. 汞；水银
+  - cadmium /ˈkædmiəm/ n. 镉
+  - nickel /ˈnɪkl/ n. 镍
+  - landfill /ˈlændfɪl/ n. 垃圾填埋；废物填埋；填埋的废物；废物填埋地(或场)
+  - leak into 泄漏到；漏入
+  - result in 导致
+  - end up in 以…结束；死在
+  - incinerator /ɪnˈsɪnəreɪtə(r)/ n. (垃圾)焚化炉
+  - vaporise 蒸发
+  - 
   - 51 ✔️
   - 52 ❌ goes
   - 53 ✔️
   - 54 ✔️
   - 55 ❌✔️
-  - 56 ❌
+  - 56 ❌ they 
   - 57 ✔️
-  - 58 ❌
+  - 58 ❌ end
   - 59 ✔️
   - 60 ✔️
-  - 61 ❌
+  - 61 ❌ polluting/contaminating
+    - contaminate /kənˈtæmɪneɪt/ vt. 污染，弄脏；玷污，毒害，腐蚀(人的思想或品德)；(加入杂质)使不纯，使变得低劣；使受放射性污染；使受毒气影响
+    - pollute
   - 62 ❌
   - 63 ✔️
   - 64 ✔️
