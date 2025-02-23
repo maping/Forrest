@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac96eb3e-7503-474b-b1bf-6d49d024acce)- P292 
+- P292 
   - 1 ✔️
     - picnicker /ˈpɪknɪkə(r)/ n. 野餐者
     - litter /ˈlɪtə(r)/ n. 垃圾；(在公共场所乱扔的)废弃物；v. 乱扔；使遍布(一般指不好的东西)；使凌乱；使饱含
