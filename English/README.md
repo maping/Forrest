@@ -7,6 +7,8 @@
 # PSLE OLEVEL ALEVEL 
 是新加坡三个国家考试：小升初，中考，高考
 
+# [IGCSE 考试大纲](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/)
+
 ## 参考
 - [A-level, AP或者IB三大体系到底如何选？看完豁然开朗](https://www.bilibili.com/video/BV1Ab4y1k7GN/)
 - [各国口音的听力材料](https://elllo.org/archive/)
