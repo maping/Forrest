@@ -57,7 +57,7 @@
     - determine /dɪˈtɜːmɪn/ v. 确定；测定；决定；决定，决心（做某事）；影响；形成；安排；裁决；查明；支配；准确算出
     - phenomena
     - charged particles
-    - solor winds
+    - solar winds
     - enormous
     - beam
     - sway
