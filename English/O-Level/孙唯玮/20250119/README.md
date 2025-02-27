@@ -138,6 +138,10 @@
   - 28 ❌
     - compassionate /kəmˈpæʃənət/ adj. 富有同情心的；有同情心的；表示怜悯的 v. 同情；怜悯
       - pity -> sympathy -> empathy -> compassion
+      - pity 只是说说而已，没有真情流露
+      - sympathy 感情流露
+      - empathy 同理心，同感，感同身受，陪你痛苦
+      - compassion 我希望通过行为帮你减轻痛苦
     - sentimental /ˌsentɪˈmentl/ adj. 情感的(而非理性的)；多愁善感的；(失之过度或不恰当地)伤感的，充满柔情的
     - temperamental /ˌtemprəˈmentl/ adj. 喜怒无常的；气质的；性格的；性情的；反复无常的；容易激动的
 - P300
