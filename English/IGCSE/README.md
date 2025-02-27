@@ -49,6 +49,18 @@ IGCSE 的英语是一大热门科目，分为 EFL 和 ESL 两种课程。
 - ESL：English as a Second Language，面向母语不是英语的学生，偏重于英语基础和应用技能
 - EFL：English as a First Language，面向母语是英语的学生，偏重于文学能力
 
+‌【EFL 0990‌】是为母语为英语的学生设计的课程，主要考察学生的阅读和写作能力。该课程分为两个部分，阅读和写作各占50%，考试中涉及多篇Essay，字数为300-750字不等‌。
+
+适用范围和考试安排
+该课程适用于母语为英语的学生，考试安排在每年的六月和十一月进行。学生可以选择在2024、2025和2026年参加考试‌。
+
+与其他课程的区别
+与0500课程相比，0990课程主要区别在于适用区域。0990课程仅适用于Zone 3地区的学校，而英国属于Zone 3，因此英国的高中和大学都认可0990课程的成绩。相比之下，0500课程则适用于全球其他地区，包括中国‌。
+
+[国际生IG英语选课学习0500、0510、0511有何不同](https://www.bilibili.com/opus/903431535936405508)
+
+[IGCSE英语语言EFL和ESL有什么区别？](https://mp.weixin.qq.com/s?__biz=MzkwMTMxMDczMg==&mid=2247504978&idx=3&sn=7549b892631604c4cbfceaeb3531cd41&chksm=c0b42431f7c3ad279e6ff8b4c8fadc4f29b9972515db184e39a5030391676d256d8ec4f75d77&scene=27)
+
 # ESL 考试内容
 ESL 考试包括三部分内容：
 - Reading and Writing | Core 60 marks，90 minutes；Extented 80 marks，120 minutes | 60%
