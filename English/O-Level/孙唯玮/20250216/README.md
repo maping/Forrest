@@ -186,3 +186,11 @@ Lemieus veered off (61), sacrificing his chance for a medal, and ferried Chan (6
 Chan and his teammate were then picked up by a (63) boat. 
 
 Officially, Lemieu finished in the eleventh (64) in the tournament, but International Olympic Committee President Juan Antonio Samaranch later (65) him the Pierre de Coubertin Medal for Sportsmanship.
+
+- P268
+  - 66
+  - 67
+  - 68
+  - 69
+  - 70
+  - 
