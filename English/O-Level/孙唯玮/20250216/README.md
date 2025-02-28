@@ -149,22 +149,23 @@
   - abide /əˈbaɪd/ v. 遵守；(abide by)接受，遵照（规则，决定，劝告）；逗留，停留
     - abide by law 遵守法律
   - tactic /ˈtæktɪk/ n. 策略；战术；手段；兵法；招数
-  - blatant /ˈbleɪtnt/ adj. 明目张胆的；公然的    
+  - blatant /ˈbleɪtnt/ adj. 明目张胆的；公然的
+  - capsize /kæpˈsaɪz/ v. 倾覆；(船)翻  
   - 51 ❌ behalf
   - 52 ❌ specialize
   - 53 ❌ bad
   - 54 ✔️
   - 55 ✔️ began
-  - 56 ✔️
-  - 57 ✔️
-  - 58 ✔️
-  - 59 ✔️
-  - 60 ✔️
-  - 61 ✔️
-  - 62 ❌ death
+  - 56 ❌ example
+  - 57 ❌ of
+  - 58 ❌ who
+  - 59 ❌
+  - 60 ❌
+  - 61 ❌
+  - 62 ❌ 
   - 63 ✔️
   - 64 ✔️
-  - 65 ❌ death
+  - 65 ❌ 
 
 Fill in each blank with a suitable word. (15 marks)
 
@@ -174,7 +175,7 @@ Regrettably, a few competitors have disregarded these high principles at past ga
 
 Undeniably, since the modern games (55) in 1896, there have been hundreds of exceptional acts of sportsmanship - often unheralded and forgotten - that embodied the Olympic ideal.
 
-An (56) of this spirit of sportsmanship happened in Seoul in 1988. During a race in the one-man Finn Class sailing competition, Larry Lemieux (57) Canada was in second place when he spotted Joseph Chan of Singapore, (58) struggling in turbulent (59) well away from his capsized boat. Chan had been thrown from his small craft and was in (60) of drowning in the turbulent seas. 
+An (56) of this spirit of sportsmanship happened in Seoul in 1988. During a race in the one-man Finn Class sailing competition, Larry Lemieux (57) Canada was in second place when he spotted Joseph Chan of Singapore, (58) was in a different race, struggling in turbulent (59) well away from his capsized boat. Chan had been thrown from his small craft and was in (60) of drowning in the turbulent seas. 
 
 Lemieus veered off (61), sacrificing his chance for a medal, and ferried Chan (62) to his overturned boat. 
 Chan and his teammate were then picked up by a (63) boat. 
