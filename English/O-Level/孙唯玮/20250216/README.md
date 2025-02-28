@@ -154,8 +154,7 @@
   - 52 ❌ specialize
   - 53 ❌ bad
   - 54 ✔️
-  - 55 ✔️
-  - 
+  - 55 ✔️ began
   - 56 ✔️
   - 57 ✔️
   - 58 ✔️
@@ -166,3 +165,18 @@
   - 63 ✔️
   - 64 ✔️
   - 65 ❌ death
+
+Fill in each blank with a suitable word. (15 marks)
+
+The opening ceremony of the Beijing Olympics was held on August 8 last year. A member of the Chinese team took an oath on (51) of the twelve-thousand assembled athletes. He vowed to abide (52) the Games' rules in the spirit of sportsmanship.
+
+Regrettably, a few competitors have disregarded these high principles at past games with win-at- any-cost tactics, blatant cheating and drug use. "There are a few (53) apples who spoil the entire spectacle," says Olympic historian, John Lucas. "It is easy to forget that there are far more patriotic and high-minded athletes (54) there are drug cheats."
+
+Undeniably, since the modern games (55) in 1896, there have been hundreds of exceptional acts of sportsmanship - often unheralded and forgotten - that embodied the Olympic ideal.
+
+An (56) of this spirit of sportsmanship happened in Seoul in 1988. During a race in the one-man Finn Class sailing competition, Larry Lemieux (57) Canada was in second place when he spotted Joseph Chan of Singapore, (58) struggling in turbulent (59) well away from his capsized boat. Chan had been thrown from his small craft and was in (60) of drowning in the turbulent seas. 
+
+Lemieus veered off (61), sacrificing his chance for a medal, and ferried Chan (62) to his overturned boat. 
+Chan and his teammate were then picked up by a (63) boat. 
+
+Officially, Lemieu finished in the eleventh (64) in the tournament, but International Olympic Committee President Juan Antonio Samaranch later (65) him the Pierre de Coubertin Medal for Sportsmanship.
