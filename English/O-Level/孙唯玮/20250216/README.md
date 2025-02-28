@@ -150,7 +150,11 @@
     - abide by law 遵守法律
   - tactic /ˈtæktɪk/ n. 策略；战术；手段；兵法；招数
   - blatant /ˈbleɪtnt/ adj. 明目张胆的；公然的
-  - capsize /kæpˈsaɪz/ v. 倾覆；(船)翻  
+  - capsize /kæpˈsaɪz/ v. 倾覆；(船)翻
+  - craft /krɑːft/ n. 手艺；工艺；技艺；飞行器；技巧；技能；小船；诡计；手腕；骗术 vt. (尤指用手工)精心制作
+  - drown /draʊn/ v. (使)淹死，溺死；淹没；压过；浸泡；盖没；浸透
+  - veer /vɪə(r)/ vi. 转向；偏离；改变；转变；突然变向；猛然转向 n. 方向的改变
+  - ferry /ˈferi/ n. 渡船；摆渡 v. 渡运；摆渡 
   - 51 ❌ behalf
   - 52 ❌ specialize
   - 53 ❌ bad
@@ -159,8 +163,8 @@
   - 56 ❌ example
   - 57 ❌ of
   - 58 ❌ who
-  - 59 ❌
-  - 60 ❌
+  - 59 ❌ waters
+  - 60 ❌ dangers
   - 61 ❌
   - 62 ❌ 
   - 63 ✔️
