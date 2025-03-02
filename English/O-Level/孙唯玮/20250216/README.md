@@ -109,7 +109,7 @@
   - 28 (2) ❌ glad vs pleased vs excited
 - P266
   - 29 ✔️
-  - 30 ❌ 
+  - 30 ❌ approach to sth.
     - approach /əˈprəʊtʃ/
       - n. 方法；(待人接物或思考问题的)方式；(距离和时间上的)接近；要求；建议；进场；接洽；通路；相似（或近似）的事物
       - v. (在数额、水平或质量上)接近；要求；建议；(在距离或时间上)靠近；接洽；着手处理
@@ -143,6 +143,7 @@
   - 48 ✔️
   - 49 ✔️
   - 50 ❌ death
+    - die dead death 
 - P268
   - oath /əʊθ/ n. 宣誓；誓言；(表示愤怒、惊异等的)咒骂，诅咒的话
   - vow /vaʊ/ n. 誓言；(尤指宗教的)誓约 v. 发誓；立誓；起誓
@@ -160,7 +161,7 @@
   - 52 ❌ specialize
   - 53 ❌ bad
   - 54 ✔️
-  - 55 ✔️ began
+  - 55 ✔️ began/started
   - 56 ❌ example
   - 57 ❌ of
   - 58 ❌ who
@@ -188,9 +189,8 @@ Chan and his teammate were then picked up by a (63) boat.
 Officially, Lemieu finished in the eleventh (64) in the tournament, but International Olympic Committee President Juan Antonio Samaranch later (65) him the Pierre de Coubertin Medal for Sportsmanship.
 
 - P268
-  - 66
-  - 67
-  - 68
-  - 69
-  - 70
-  - 
+  - 66 ✔️
+  - 67 ❌ sang
+  - 68 ✔️ Many people are afraid to go near hospitals because of an unidentified virus spreading there.
+  - 69 ✔️ Much to her embarrassment, Lily forgot the lyrics while singing in the contest.
+  - 70 ✔️ Exercise is a simple yet effective way to lose weight.
