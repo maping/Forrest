@@ -161,6 +161,7 @@
   - merest /ˈmɪərɪst/ adj. 仅仅的；只不过；只凭…就足以；mere的最高级
   - suggestion n. 建议；暗示；提议；迹象；微量
   - iris /ˈaɪrɪs/ n. 虹膜；鸢尾属植物
+  - fleck /flek/ n. 斑点；微粒；色斑；小片 vt. 使有斑点；使斑驳
   - serene /səˈriːn/ adj. 宁静的；平静的；安详的 n. 平静(的海)；晴朗(天空)
   - bride
   - 29 ✔️
@@ -168,11 +169,19 @@
   - 31 ✔️
   - 32 ✔️
   - 33 ✔️
-  - 34 ❌
+  - 34 ❌ they
   - 35 ✔️
-  - 36 ❌
+  - 36 ❌ there
   - 37 ✔️
   - 38 ✔️
+
+When I was a young child, I was given a porcelain bride doll as a birthday present from my grandmother. The doll was gowned (29) in layers of lace. The material was shot (30) through with strands of shiny silver so that if I turned her gradually in the sunlight, she sparkled. Her soft blond hair, partly covered by her mantilla-like veil and train, curled gently (31) around her face. It was her face that was made of porcelain and (32) whoever painted her features was truly an artist.
+﻿
+Her small rosebud mouth, a soft rosy pink, was curved in an everlasting introverted smile (33) and her cheeks blushed gently with the merest suggestion of colour. Her eyes, (34) they were the most amazing clear shade of blue, like clean lake water reflecting the summer sky. Her irises (35) had been painted with a small fleck of white so that (36) there appeared constantly to be a light in them. I thought that she (37) is the most serene-looking doll in the world. I knew that (38) when I became a bride, I would look just like her.
+
+当我还是个孩子的时候，祖母送给我一个瓷新娘娃娃作为生日礼物。这个娃娃穿着多层蕾丝。这种材料被闪亮的银色线穿透，所以如果我在阳光下慢慢地转动她，她就会闪闪发光。她柔软的金发，部分被曼蒂拉般的面纱和辫子遮住，轻轻地卷在脸上。她的脸是瓷器做的，画她五官的人是真正的艺术家。
+她那玫瑰色的小嘴，柔软的玫瑰粉色，弯成一个永远内向的微笑，脸颊微微泛红。她的眼睛，（34）是最令人惊叹的清澈的蓝色，就像清澈的湖水反射着夏日的天空。她的虹膜（35）被涂上了一小块白色，所以（36）里面似乎总是有光。我认为她（37岁）是世界上看起来最平静的娃娃。我知道（38）当我成为新娘时，我会看起来和她一样。
+
 - P301
   - Dengue /ˈdeŋɡi/ n. 登革热；登革；登革病毒；登革热病毒
   - debilitating /dɪˈbɪlɪteɪtɪŋ/ v. (使身心)衰弱，衰竭，虚弱；削弱(国家、机构)的力量；使软弱无力 adj. 使衰弱的
