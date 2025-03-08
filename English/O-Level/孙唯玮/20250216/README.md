@@ -167,7 +167,7 @@
   - 58 ❌ who
   - 59 ❌ waters
   - 60 ❌ dangers
-  - 61 ❌ course
+  - 61 ❌ race
   - 62 ❌ back
   - 63 ✔️ rescue
   - 64 ✔️ place
