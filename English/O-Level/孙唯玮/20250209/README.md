@@ -38,5 +38,13 @@
       - n. 大摇大摆；神气十足
       - v. 大摇大摆地走；神气十足地走
       - adj. 漂亮的
-  - 14
-  - 15
+  - 14 ✔️ cremate vs incinerate
+    - decease /dɪˈsiːs/ n. 死亡；亡故 v. 死
+    - expel /ɪkˈspel/ vt. 驱逐；排出；把…开除(或除名)；驱逐出境；喷出
+    - cremate /krəˈmeɪt/ vt. 火化；(尤指)火葬；焚烧(尸体)
+    - incinerate /ɪnˈsɪnəreɪt/ vt. 把…烧成灰烬；焚毁
+  - 15 ✔️
+    - green horn n. 新手；无经验的人；无经验易受骗之人；生手；新移民
+    - wet blanket n. 扫兴的人；泼冷水的人
+    - sticky fingers n. 小偷；顺手牵羊；粘手指；手指冒汗；惯窃
+    - cold shoulder n. 冷淡；冷落 v. 冷落；慢待
