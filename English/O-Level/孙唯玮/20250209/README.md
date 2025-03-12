@@ -190,7 +190,8 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - ranch /rɑːntʃ/ n. 大牧场；牧场，大农场(尤指北美或澳大利亚的) vt. 经营牧场；在牧场饲养…；在牧场工作经营牧场
   - veterinarian /ˌvetərɪˈneəriən/ n. 兽医
   - proficent
-  - 
+  - rewarding career
+  - affection /əˈfekʃn/ n. 感情；爱情；喜爱；钟爱
   - 51 While 孙❌马❌ While 作转折的例子
     - 当“while”用作转折连词时，它表示两个句子之间的对比或相反的情况。尽管有某种情况或事实，但另一方面却存在与之不同或相反的情况。
       - ‌While‌ we have made great progress in understanding the universe, there is still much we don't know.
@@ -200,20 +201,16 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
         - 例如：“She studied hard, but failed the exam.”（她学习很努力，但考试却失败了。）这里but凸显了前后内容的矛盾，转折语气较为直接强烈。
       - 而while作为从属连词，引导的是状语从句，主从句之间存在从属关系。它侧重对比或并存关系，同时可兼具时间或让步含义。
         - 例如：“While the design is innovative, the cost is too high.”（虽然设计很新颖，但成本太高了。）在这里，while隐含了“虽然”的让步含义，转折语气相对婉转含蓄。
-  - 52 to 孙✔️马❌
-    - be susceptible to 易受...影响的
-  - 53 academic ✔️
-  - 54 Many ✔️
-  - 55 slow 孙✔️马❌
-    - slow /sləʊ/ adj. 缓慢的；慢的；慢速的；迟缓的；低速的；迟钝的；耗时的；慢吞吞的；迟迟不…；不乐意；（胶片）曝光慢的；不忙碌的
-      - adv. 慢速地；缓慢地
-      - v. (使)放慢速度，减缓，松劲
-  - 55 devote ✔️
-  - 56 difficulty ✔️
-  - 57 compensate 孙❌马✔️
-  - 58 prolonged 孙❌马✔️
-  - 59 anxiety ✔️
-  - 60 negative ✔️
+  - 52 for 孙✔️马❌ 
+  - 53 had 孙✔️马❌
+  - 54 job 孙❌马❌
+  - 55 handling 孙❌马❌
+  - 56 beloved 孙❌马❌
+    - beloved /bɪˈlʌvd , bɪˈlʌvɪd/ adj. 亲爱的；钟爱的；深爱的；深受喜爱的 n. 心爱的人
+  - 57 philosophy/idea 孙❌马❌
+  - 58 wrong 孙❌马✔️
+  - 59 require/need 孙❌马✔️
+  - 60 like 孙❌马✔️
   - 61 孙❌马❌ 需要请教张老师
   - 62 孙❌马❌ 需要请教张老师
   - 63 孙❌马❌ 需要请教张老师
@@ -222,7 +219,7 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
 
 A typical day at work for Thomas Peter includes taking a four-hour jog with 40 dogs, big and miniature, young and aged, and none of them on leashes. (51) **While** most of these dogs belong to him, the rest are troubled dogs sent to Peter to learn good behaviour. Evidently, Peter has an extraordinary gift (52) **for** working with these animals.
 
-Growing up on a ranch in Mexico, Peter knew he (53) **wanted** to work with dogs. His first (54) **job** at age 15, was assisting a veterinarian. He was so proficient in calming nervous dogs and (55) **handling** all kinds of situations, people started calling him ‘the dog boy.’ Since then, he has built a rewarding career around his (56) **beloved** animal.
+Growing up on a ranch in Mexico, Peter knew he (53) **had** to work with dogs. His first (54) **job** at age 15, was assisting a veterinarian. He was so proficient in calming nervous dogs and (55) **handling** all kinds of situations, people started calling him ‘the dog boy.’ Since then, he has built a rewarding career around his (56) **beloved** animal.
 
 Observing dogs on the ranch where he grew up, Peter realised they need a lot of exercise to be calm. He explains his philosophy, “Exercise and discipline first, and then affection!” He says a lot of people get it wrong because they do not realise what dogs truly need. Peter does not just train dogs; he trains owners to understand that their pets need rules. He has helped celebrities like Oprah Winfrey and Will Smith and everyday people too.
 
