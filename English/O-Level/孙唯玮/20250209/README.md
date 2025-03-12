@@ -185,6 +185,8 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - 49 negative ✔️
   - 50  孙❌马❌ 需要请教张老师
 - P284
+  - miniature /ˈmɪnətʃə(r)/ adj. 很小的；小型的；微型的 n. 微型画；缩微模型；小画像；微型复制品
+  - leash /liːʃ/ n. 皮带；束缚 vt. 用皮带系住，拴住，缚住(尤指狗)
   - 51 necessity 孙❌马❌
     - necessary /ˈnesəsəri/ adj. 必要的；必需的；必然的；无法避免的 n. 必需品
     - necessity /nəˈsesəti/ n. 需要；必要；必需品；必然；必然性；必需的事物；不可避免的情况
@@ -207,3 +209,13 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - 63 孙❌马❌ 需要请教张老师
   - 64 孙❌马❌ 需要请教张老师
   - 65 孙❌马❌ 需要请教张老师
+
+A typical day at work for Thomas Peter includes taking a four-hour jog with 40 dogs, big and miniature, young and aged, and none of them on leashes. While most of these dogs belong to him, the rest are troubled dogs sent to Peter to learn good behaviour. Evidently, Peter has an extraordinary gift for working with these animals.
+
+Growing up on a ranch in Mexico, Peter knew he wanted to work with dogs. His first job at age 15, was assisting a veterinarian. He was so proficient in calming nervous dogs and handling all kinds of situations, people started calling him ‘the dog boy.’ Since then, he has built a rewarding career around his beloved animal.
+
+Observing dogs on the ranch where he grew up, Peter realised they need a lot of exercise to be calm. He explains his philosophy, “Exercise and discipline first, and then affection!” He says a lot of people get it wrong because they do not realise what dogs truly need. Peter does not just train dogs; he trains owners to understand that their pets need rules. He has helped celebrities like Oprah Winfrey and Will Smith and everyday people too.
+
+At his Dog Psychology Centre in New York, Peter also works with dogs whose dangerous behaviour has prevented them from finding homes. He trains them to be affectionate, gentle pets. Viewers can really see the transformation in dogs with troublesome behaviour on Peter’s TV show, The Dog Whisperer.
+
+To find the ideal job, Peter advises kids to do what they enjoy. Peter offers this advice, “You can always find a job. But I find that contentment comes when you follow your passion. Success followed me because I was following my dream of being the best dog trainer in the world.”
