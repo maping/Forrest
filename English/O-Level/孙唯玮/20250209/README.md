@@ -191,9 +191,15 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - veterinarian /ˌvetərɪˈneəriən/ n. 兽医
   - proficent
   - 
-  - 51 necessity 孙❌马❌
-    - necessary /ˈnesəsəri/ adj. 必要的；必需的；必然的；无法避免的 n. 必需品
-    - necessity /nəˈsesəti/ n. 需要；必要；必需品；必然；必然性；必需的事物；不可避免的情况
+  - 51 While 孙❌马❌ While 作转折的例子
+    - 当“while”用作转折连词时，它表示两个句子之间的对比或相反的情况。尽管有某种情况或事实，但另一方面却存在与之不同或相反的情况。
+      - ‌While‌ we have made great progress in understanding the universe, there is still much we don't know.
+      - ‌While‌ she is extremely intelligent, she sometimes lacks common sense.
+    - while和but在表转折时确实存在一些不同，主要体现在逻辑关系、语气强度及适用场景上。
+      - but作为并列连词，直接强调对立矛盾，连接两个语法对等的独立分句，形成前后句意的直接对立。
+        - 例如：“She studied hard, but failed the exam.”（她学习很努力，但考试却失败了。）这里but凸显了前后内容的矛盾，转折语气较为直接强烈。
+      - 而while作为从属连词，引导的是状语从句，主从句之间存在从属关系。它侧重对比或并存关系，同时可兼具时间或让步含义。
+        - 例如：“While the design is innovative, the cost is too high.”（虽然设计很新颖，但成本太高了。）在这里，while隐含了“虽然”的让步含义，转折语气相对婉转含蓄。
   - 52 to 孙✔️马❌
     - be susceptible to 易受...影响的
   - 53 academic ✔️
