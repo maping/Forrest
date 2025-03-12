@@ -241,12 +241,51 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
 
 - P286
   - 71
+    - Few prisoners had the courage to escape because the conditions were harsh, and the risk of being caught or dying from exposure in the mountains was high. Additionally, the prisoners were likely weakened and demoralized by their living conditions.
   - 72
+    - Armin's main reason for escaping was his strong desire to see his family again.
   - 73
+    - Armin's escape plan was to disguise himself as a guard and follow them as they went off duty. The difficulty he encountered was obtaining a guard's uniform.
   - 74
+    - Armin flicked a paper pellet at the guard to provoke a reaction that would lead to his being placed in a cell, where he could then execute his plan to obtain a guard's uniform.
   - 75
+    - The prisoners had to endure dire living conditions in the prison.
+      - True
+      - The passage mentions that the huts were barely big enough for more than forty people, indicating overcrowded and poor living conditions. 
+    - Armin thought of a few plans to escape.
+      - False
+      - The passage only details one specific plan that Armin devised to escape.
+    - Armin demonstrated resourcefulness and creativity in devising a weapon to attack the guard.
+      - True
+      - Armin made a catapult from pine twigs and the elastic sides of his boots, showing his resourcefulness and creativity.
   - 76
+    - Armin needed to hurry because he had to escape before the camp was fully secured for the night. Any delay risked discovery of the unconscious guard or his own absence, jeopardizing his escape plan. 
   - 77
+    - Armin wore a guard's uniform, which effectively disguised his appearance as a prisoner.
+    - He spoke in his best German, mimicking the correct response ("All correct, sir") like the other guards, which helped him blend in without raising suspicion. 
   - 78
+    - 3
+    - 1
+    - 2 
   - 79
-  - 80
+    - The sentence "It seemed too good to be true" means that Armin found his successful escape almost unbelievable because it was so perfect and unexpected. After enduring harsh conditions and planning meticulously, the ease with which he finally achieved freedom felt surreal and almost unrealistically fortunate.
+ 
+The prison camp which the Nazis sent Armin Theotoro to was in the mountains of South Poland. A few wooden huts clung to the edge of the bleak hillside. Most of the prisoners were poles, but there were Hungarians and Missions too. Each hat held about a hundred and twenty - yet it was barely big enough for more than forty. Few had the energy or the courage to escape. Some of their prison mates had slipped out of the camp before. Those who were not apprehended and sent back died of exposure in the mountains. But Armin was determined to escape. He would sit around the hat, thinking of his family and staring at the few tattered photos of them. How he yearned to see them again!
+
+He decided to wait till early spring, when the nights were not so bitter. Very prudently he laid his plans. There was only one way out - the way the guards went, through the gate and past the guard-house. His idea was to disguise himself as one of them and follow them as they went off duty. But how was he to get hold of the uniform?
+
+One March day, during the morning inspection, he flicked a paper pellet at the guard. It stung him behind the ear and made him turn round. Within five minutes Armin was in a cell in 'the cooler'. For two days he stamped up and down, 'to keep himself warm. Twice a day a guard delivered food to him. On the third evening, the guard came as usual. When Armin heard the soft thud of his footsteps in the snow, he crouched down on the floor at the back of his tiny cell. He had a smooth round stone and a catapult in his hands. He had made the catapult from pine twigs and the elastic sides of his boots. In a while the guard would unlock the door, look inside and hand in the food.
+
+Armin waited apprehensively. He heard the key grate in the rusty lock of the outside door of 'the cooler'. The hinges creaked open. Armin drew back the elastic. He heard the padlock on the door being unlocked. The guard had not seen Armin when the stone struck him in the middle of his forehead and knocked him down. The floor trembled as he tumbled. A few moments later Armin was kneeling beside the unconscious man, hurriedly stripping off the uniform. There was no time to lose. Already the locking up of the prisoners had started and he could hear the guards shouting at them outside.
+
+Armin felt warm and comfortable in the guard's uniform. Turning up the coller so that the tips touched his cheek-bones, he went out into the night. He hid behind the hat until the trumpet sounded like change of guard. Hundreds of times he had watch the guards fall in and march out of camp. It seemed to him quite natural now to be lining up with the others. The officer walked up to each guard.
+
+"Anything to report?" the officer asked each of them in turn.
+
+"All correct, sir," they answered.
+
+"All correct, sir," said Armin in his best German.
+
+"Guard, dismissal" said the officer.
+
+Armin dropped to the rear and followed the other soldiers out - out of the great spiked gate and into freedom. It seemed too good to be true.
