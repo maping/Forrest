@@ -270,6 +270,7 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
   - creak /kriːk/ v. 嘎吱作响(开门或踩上木地板等时发出的声音) n. 嘎吱声
   - tremble
   - tumble
+  - dire /ˈdaɪə(r)/ adj. 危急的；极其严重的；极差的；极糟的
   - spike /spaɪk/
     n. 尖峰；穗；尖刺；(赛跑用的)钉鞋；尖头；猛增；尖状物；(防滑)鞋钉
     v. 阻挠；迅速升值；在…中偷偷掺入(烈酒、毒药或毒品)；用尖物刺入(或扎破)；阻止…传播；拒绝发表
@@ -278,7 +279,7 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
     - Few prisoners had the courage to escape because the conditions were harsh, and the risk of being caught or dying from exposure in the mountains was high. Additionally, the prisoners were likely weakened and demoralized by their living conditions.
   - 72
     - Armin's main reason for escaping was his strong desire to see his family again.
-  - 73
+  - 73 
     - Armin's escape plan was to disguise himself as a guard and follow them as they went off duty. The difficulty he encountered was obtaining a guard's uniform.
   - 74
     - Armin flicked a paper pellet at the guard to provoke a reaction that would lead to his being placed in a cell, where he could then execute his plan to obtain a guard's uniform.
@@ -298,16 +299,18 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
     - Armin wore a guard's uniform, which effectively disguised his appearance as a prisoner.
     - He spoke in his best German, mimicking the correct response ("All correct, sir") like the other guards, which helped him blend in without raising suspicion. 
   - 78
+    - 2
     - 3
-    - 1
-    - 2 
+    - 1 
   - 79
     - The sentence "It seemed too good to be true" means that Armin found his successful escape almost unbelievable because it was so perfect and unexpected. After enduring harsh conditions and planning meticulously, the ease with which he finally achieved freedom felt surreal and almost unrealistically fortunate.
   - 80
     - Paragraph 2: Perturbed
+      - perturbed /pəˈtɜːbd/ 忐忑
     - Paragraph 4: Nervous
     - Paragraph 5: Confident
     - Paragraph 10: Elated
+      - elated /iˈleɪtɪd/ adj. 兴高采烈的；兴高采烈；欢欣鼓舞；得意洋洋；心花怒放 
 
 The prison camp which the Nazis sent Armin Theotoro to was in the mountains of South Poland. A few wooden huts clung to the edge of the bleak hillside. Most of the prisoners were poles, but there were Hungarians and Missions too. Each hat held about a hundred and twenty - yet it was barely big enough for more than forty. Few had the energy or the courage to escape. Some of their prison mates had slipped out of the camp before. Those who were not apprehended and sent back died of exposure in the mountains. But Armin was determined to escape. He would sit around the hat, thinking of his family and staring at the few tattered photos of them. How he yearned to see them again!
 
