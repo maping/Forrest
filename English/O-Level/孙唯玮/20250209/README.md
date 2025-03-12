@@ -144,11 +144,30 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
 (38) **Although** there have been documented cases, a connection between a specific behaviour and the occurrence of a quake has never been made. In the 1970s, a few studies on animal prediction were conducted but nothing conclusive came out of it.
 
 - P283
-  - 39 C 孙✔️马❌
-  - 40 A 孙✔️马❌
-  - 41 F 孙✔️马❌
-  - 42 M 孙❌马❌
-  - 43 J 孙✔️马❌
+  - adequate
+  - susceptible /səˈseptəbl/ adj. 易受影响(或伤害等)；可能…的；可以…的；过敏；敏感；容许…的；善感的；感情丰富的；好动感情的
+  - detriment /ˈdetrɪmənt/ n. 损害；伤害；造成伤害(或损害)的事物
+  - deprivation /ˌdeprɪˈveɪʃn/ n. 缺乏；贫困；丧失；剥夺
+  - least alert
+  - motor /ˈməʊtə(r)/ n. 马达；汽车；发动机
+     - adj. 汽车的；机动车的；运动神经的；肌肉运动的；有引擎的；由发动机推动的
+     - vi. 驾车旅行；乘车旅行
+  - 39 necessary 孙❌马✔️
+    - necessary /ˈnesəsəri/ adj. 必要的；必需的；必然的；无法避免的 n. 必需品
+  - 40 to 孙✔️马❌
+    - be susceptible to 易受...影响的
+  - 41 academic ✔️
+  - 42 Many ✔️
+  - 43 slow 孙✔️马❌
+    - slow
+英/sləʊ/
+美/sloʊ/
+adj.
+缓慢的；慢的；慢速的；迟缓的；低速的；迟钝的；耗时的；慢吞吞的；迟迟不…；不乐意；（胶片）曝光慢的；不忙碌的
+adv.
+慢速地；缓慢地
+v.
+(使)放慢速度，减缓，松劲 
   - 44 B ✔️
   - 45 G ✔️
   - 46 H 孙❌马❌
