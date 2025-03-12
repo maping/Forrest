@@ -124,6 +124,7 @@
     - v. 哭哭啼啼；哀鸣；嘎嘎响；哭嚷；惨叫；嗖嗖响；嘎吱嘎吱响
     - n. 嘎嘎声；嘎吱声；吱吱声；(儿童发出的)哭喊声；抱怨的语调；(狗发出的)号叫声
   - earthquake-prone adj. 易发生地震的
+  - devastation /ˌdevəˈsteɪʃn/ n. (尤指大面积的)破坏；毁灭；蹂躏
   - 29 C 孙✔️马❌
   - 30 A 孙✔️马❌
   - 31 F 孙✔️马❌
@@ -152,25 +153,30 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - motor /ˈməʊtə(r)/ n. 马达；汽车；发动机
      - adj. 汽车的；机动车的；运动神经的；肌肉运动的；有引擎的；由发动机推动的
      - vi. 驾车旅行；乘车旅行
-  - 39 necessary 孙❌马✔️
+  - function /ˈfʌŋkʃn/ n. 功能；函数；作用；职能；机能；宴会；典礼；社交聚会；子例行程序
+     - v. 起作用；运转；正常工作
+  - puberty /ˈpjuːbəti/ n. 青春期
+  - hormones /ˈhɔːməʊnz/ n. 激素；荷尔蒙
+  - digestion
+  - cardiovascular /ˌkɑːdiəʊˈvæskjələ(r)/ adj. 心血管的
+  - attest /əˈtest/ v. 证明；证实；是…的证据；作证(如在法庭上)
+  - sullen /ˈsʌlən/ adj. 愠怒的，赌气的；闷闷不乐的，郁郁寡欢的，面有愠色的；（天色或天气）阴沉的，阴郁的；（水流）停滞的，迟缓的
+  - irritable /ˈɪrɪtəbl/ adj. 易怒的；暴躁的
+  - prolong /prəˈlɒŋ/ vt. 延长
+  - 39 necessity 孙❌马❌
     - necessary /ˈnesəsəri/ adj. 必要的；必需的；必然的；无法避免的 n. 必需品
+    - necessity /nəˈsesəti/ n. 需要；必要；必需品；必然；必然性；必需的事物；不可避免的情况
   - 40 to 孙✔️马❌
     - be susceptible to 易受...影响的
   - 41 academic ✔️
   - 42 Many ✔️
   - 43 slow 孙✔️马❌
-    - slow
-英/sləʊ/
-美/sloʊ/
-adj.
-缓慢的；慢的；慢速的；迟缓的；低速的；迟钝的；耗时的；慢吞吞的；迟迟不…；不乐意；（胶片）曝光慢的；不忙碌的
-adv.
-慢速地；缓慢地
-v.
-(使)放慢速度，减缓，松劲 
-  - 44 B ✔️
-  - 45 G ✔️
-  - 46 H 孙❌马❌
+    - slow /sləʊ/ adj. 缓慢的；慢的；慢速的；迟缓的；低速的；迟钝的；耗时的；慢吞吞的；迟迟不…；不乐意；（胶片）曝光慢的；不忙碌的
+      - adv. 慢速地；缓慢地
+      - v. (使)放慢速度，减缓，松劲
+  - 44 devote ✔️
+  - 45 difficulty ✔️
+  - 46 compensate 孙❌马✔️
   - 47 Q 孙✔️马❌
   - 48 K 孙✔️马❌
   - 49 K 孙✔️马❌
