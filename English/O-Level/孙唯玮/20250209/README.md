@@ -229,3 +229,24 @@ Observing dogs on the ranch where he grew up, Peter realised they need a lot of 
 At his Dog Psychology Centre in New York, Peter also works with dogs whose dangerous behaviour has (61)**prevented** them from finding homes. He (62)**trains** them to be affectionate, gentle pets. Viewers can really see the (63)**transformation** in dogs with troublesome behaviour on Peter’s TV show, The Dog Whisperer.
 
 To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter offers this advice, “You can always find a job. But I find that contentment comes when you follow your (65)**passion**. Success followed me because I was following my dream of being the best dog trainer in the world.”
+
+- P285
+  - 66
+  - 67
+    - reprimand /ˈreprɪmɑːnd/ v. 斥责；训斥；申斥 n. 谴责；训斥；惩戒 
+  - 68
+    - neigh /neɪ/ vi. 嘶叫；(马)嘶鸣 n. 马嘶声 
+  - 69 孙✔️马❌
+  - 70
+
+- P286
+  - 71
+  - 72
+  - 73
+  - 74
+  - 75
+  - 76
+  - 77
+  - 78
+  - 79
+  - 80
