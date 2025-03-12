@@ -269,7 +269,12 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
     - 2 
   - 79
     - The sentence "It seemed too good to be true" means that Armin found his successful escape almost unbelievable because it was so perfect and unexpected. After enduring harsh conditions and planning meticulously, the ease with which he finally achieved freedom felt surreal and almost unrealistically fortunate.
- 
+  - 80
+    - Paragraph 2: Perturbed
+    - Paragraph 4: Nervous
+    - Paragraph 5: Confident
+    - Paragraph 10: Elated
+
 The prison camp which the Nazis sent Armin Theotoro to was in the mountains of South Poland. A few wooden huts clung to the edge of the bleak hillside. Most of the prisoners were poles, but there were Hungarians and Missions too. Each hat held about a hundred and twenty - yet it was barely big enough for more than forty. Few had the energy or the courage to escape. Some of their prison mates had slipped out of the camp before. Those who were not apprehended and sent back died of exposure in the mountains. But Armin was determined to escape. He would sit around the hat, thinking of his family and staring at the few tattered photos of them. How he yearned to see them again!
 
 He decided to wait till early spring, when the nights were not so bitter. Very prudently he laid his plans. There was only one way out - the way the guards went, through the gate and past the guard-house. His idea was to disguise himself as one of them and follow them as they went off duty. But how was he to get hold of the uniform?
