@@ -248,6 +248,32 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
   - apprehend /ˌæprɪˈhend/ vt. 逮捕；理解；领会；拘押；认识到
   - exposure /ɪkˈspəʊʒə(r)/ n. 暴露；曝光时间；面临，遭受(危险或不快)；（照一张照片的）软片，底片，胶片；揭露；(在电视、报纸等上的)亮相，被报道；挨冻
   - tatter n. 碎布；破布条 vt. 扯碎，撕碎，使破烂 vi. 变得破烂
+  - bitter /ˈbɪtə(r)/
+    - adj. 苦的；严寒的；味苦的；愤愤不平的；令人不快的；充满愤怒与仇恨的；使人悲痛的；由痛苦引起的；激烈而不愉快的
+    - n. 苦啤酒(在英国很受欢迎)；苦酒原汁(从植物中提取的苦酒精液体，可增加其他酒精饮料的味道)
+    - vt. 使变苦
+    - adv. 剧烈
+  - disguise /dɪsˈɡaɪz/ 
+    - vt. 伪装；掩饰；假扮；装扮；掩蔽
+    - n. 伪装；假扮；装扮；伪装物；化装用具
+  - go off duty
+  - flick /flɪk/
+    - v. 轻弹；轻拂；(尤指用手指或手快速地)轻击；（快速地）按（开关），按（键）；（用…）轻挥，轻打；向…笑了一下(或瞥了一眼等)；(使)突然快速移动
+    - n. 电影；浏览；电影院；(用鞭子等的)轻打；(身体部位的)快的小动作；草草翻阅
+  - pellet /ˈpelɪt/ n. 丸；小球；弹丸；团粒
+  - stamp up and down
+  - thud /θʌd/ n. 砰的一声；扑通一声 v. 怦怦地跳；砰地落下；飕的一声击中；有力地跳动
+  - catapult /ˈkætəpʌlt/ n. 弹射器(用以从舰船上弹射飞机升空)；弹弓；(旧时的)石弩，弩炮 v. (被)猛掷，猛扔
+  - twig /twɪɡ/ n. 细枝；嫩枝；小枝 v. (突然地)懂得，理解，明白，意识到
+  - apprehensive /ˌæprɪˈhensɪv/ adj. 担心的；忧虑；恐惧的；疑惧的
+  - hinge /hɪndʒ/ n. 铰链；合叶 vt. 给(某物)装铰链
+  - creak /kriːk/ v. 嘎吱作响(开门或踩上木地板等时发出的声音) n. 嘎吱声
+  - tremble
+  - tumble
+  - spike /spaɪk/
+    n. 尖峰；穗；尖刺；(赛跑用的)钉鞋；尖头；猛增；尖状物；(防滑)鞋钉
+    v. 阻挠；迅速升值；在…中偷偷掺入(烈酒、毒药或毒品)；用尖物刺入(或扎破)；阻止…传播；拒绝发表
+    
   - 71
     - Few prisoners had the courage to escape because the conditions were harsh, and the risk of being caught or dying from exposure in the mountains was high. Additionally, the prisoners were likely weakened and demoralized by their living conditions.
   - 72
