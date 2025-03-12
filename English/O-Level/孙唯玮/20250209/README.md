@@ -192,6 +192,9 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - proficent
   - rewarding career
   - affection /əˈfekʃn/ n. 感情；爱情；喜爱；钟爱
+  - Psychology
+  - Dog Whisperer
+  - Windtalkers
   - 51 While 孙❌马❌ While 作转折的例子
     - 当“while”用作转折连词时，它表示两个句子之间的对比或相反的情况。尽管有某种情况或事实，但另一方面却存在与之不同或相反的情况。
       - ‌While‌ we have made great progress in understanding the universe, there is still much we don't know.
@@ -211,11 +214,11 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - 58 wrong 孙❌马✔️
   - 59 require/need 孙❌马✔️
   - 60 like 孙❌马✔️
-  - 61 孙❌马❌ 需要请教张老师
-  - 62 孙❌马❌ 需要请教张老师
-  - 63 孙❌马❌ 需要请教张老师
-  - 64 孙❌马❌ 需要请教张老师
-  - 65 孙❌马❌ 需要请教张老师
+  - 61 prevented 孙❌马❌ 想对词了，时态还要注意啊
+  - 62 trains 孙❌马❌ 想对词了，时态还要注意啊
+  - 63 changes/transformation 孙✔️马❌
+  - 64 advises/encourages 孙❌马✔️ 
+  - 65 heart/passion 孙❌马❌
 
 A typical day at work for Thomas Peter includes taking a four-hour jog with 40 dogs, big and miniature, young and aged, and none of them on leashes. (51) **While** most of these dogs belong to him, the rest are troubled dogs sent to Peter to learn good behaviour. Evidently, Peter has an extraordinary gift (52) **for** working with these animals.
 
