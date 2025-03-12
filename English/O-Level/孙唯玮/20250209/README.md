@@ -184,3 +184,26 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - 48 anxiety ✔️
   - 49 negative ✔️
   - 50  孙❌马❌ 需要请教张老师
+- P284
+  - 51 necessity 孙❌马❌
+    - necessary /ˈnesəsəri/ adj. 必要的；必需的；必然的；无法避免的 n. 必需品
+    - necessity /nəˈsesəti/ n. 需要；必要；必需品；必然；必然性；必需的事物；不可避免的情况
+  - 52 to 孙✔️马❌
+    - be susceptible to 易受...影响的
+  - 53 academic ✔️
+  - 54 Many ✔️
+  - 55 slow 孙✔️马❌
+    - slow /sləʊ/ adj. 缓慢的；慢的；慢速的；迟缓的；低速的；迟钝的；耗时的；慢吞吞的；迟迟不…；不乐意；（胶片）曝光慢的；不忙碌的
+      - adv. 慢速地；缓慢地
+      - v. (使)放慢速度，减缓，松劲
+  - 55 devote ✔️
+  - 56 difficulty ✔️
+  - 57 compensate 孙❌马✔️
+  - 58 prolonged 孙❌马✔️
+  - 59 anxiety ✔️
+  - 60 negative ✔️
+  - 61 孙❌马❌ 需要请教张老师
+  - 62 孙❌马❌ 需要请教张老师
+  - 63 孙❌马❌ 需要请教张老师
+  - 64 孙❌马❌ 需要请教张老师
+  - 65 孙❌马❌ 需要请教张老师
