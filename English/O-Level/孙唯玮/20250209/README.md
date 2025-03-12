@@ -142,3 +142,17 @@ Accounts of related animal anticipation of earthquakes have surfaced across the 
 Scientists have no way of knowing precisely when or where an earthquake will hit. One of the world’s most earthquake-prone countries is Japan, (36) **where** devastation has taken numerous lives and caused substantial damage to property. Researchers (37) **there** have long studied animals to use that sense as a prediction tool.
 
 (38) **Although** there have been documented cases, a connection between a specific behaviour and the occurrence of a quake has never been made. In the 1970s, a few studies on animal prediction were conducted but nothing conclusive came out of it.
+
+- P283
+  - 39 C 孙✔️马❌
+  - 40 A 孙✔️马❌
+  - 41 F 孙✔️马❌
+  - 42 M 孙❌马❌
+  - 43 J 孙✔️马❌
+  - 44 B ✔️
+  - 45 G ✔️
+  - 46 H 孙❌马❌
+  - 47 Q 孙✔️马❌
+  - 48 K 孙✔️马❌
+  - 49 K 孙✔️马❌
+  - 50 K 孙✔️马❌
