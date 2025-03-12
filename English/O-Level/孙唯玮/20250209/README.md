@@ -163,6 +163,9 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - sullen /ˈsʌlən/ adj. 愠怒的，赌气的；闷闷不乐的，郁郁寡欢的，面有愠色的；（天色或天气）阴沉的，阴郁的；（水流）停滞的，迟缓的
   - irritable /ˈɪrɪtəbl/ adj. 易怒的；暴躁的
   - prolong /prəˈlɒŋ/ vt. 延长
+  - outburst /ˈaʊtbɜːst/ n. 爆发；(感情的)迸发；(态度)激化；(活动)激增
+  - caffeine /ˈkæfiːn/ n. 咖啡因；咖啡碱
+  - alcoho 
   - 39 necessity 孙❌马❌
     - necessary /ˈnesəsəri/ adj. 必要的；必需的；必然的；无法避免的 n. 必需品
     - necessity /nəˈsesəti/ n. 需要；必要；必需品；必然；必然性；必需的事物；不可避免的情况
@@ -177,7 +180,7 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - 44 devote ✔️
   - 45 difficulty ✔️
   - 46 compensate 孙❌马✔️
-  - 47 Q 孙✔️马❌
-  - 48 K 孙✔️马❌
-  - 49 K 孙✔️马❌
-  - 50 K 孙✔️马❌
+  - 47 prolonged 孙❌马✔️
+  - 48 anxiety ✔️
+  - 49 negative ✔️
+  - 50  孙❌马❌ 需要请教张老师
