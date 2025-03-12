@@ -240,6 +240,14 @@ To find the ideal job, Peter (64)**advises** kids to do what they enjoy. Peter o
   - 70
 
 - P286
+  - cling /klɪŋ/
+    - vi. 附着于；坚持，墨守，忠实于；附着；(尤指因感情需要而)依恋，依附；（因害怕等）抓紧，紧握，紧抱；缠着，黏着；粘住；抓住(职位或财产)不放；挨近，靠拢；(使)发出丁当声
+    - n. 坚持，墨守；依附；执着；黏核桃，黏核；丁当声
+    - adj. 黏核的
+  - bleak /bliːk/ adj. 凄凉的；荒凉的；暗淡的；阴冷的；不乐观的；无望的；无遮掩的；索然无味的
+  - apprehend /ˌæprɪˈhend/ vt. 逮捕；理解；领会；拘押；认识到
+  - exposure /ɪkˈspəʊʒə(r)/ n. 暴露；曝光时间；面临，遭受(危险或不快)；（照一张照片的）软片，底片，胶片；揭露；(在电视、报纸等上的)亮相，被报道；挨冻
+  - tatter n. 碎布；破布条 vt. 扯碎，撕碎，使破烂 vi. 变得破烂
   - 71
     - Few prisoners had the courage to escape because the conditions were harsh, and the risk of being caught or dying from exposure in the mountains was high. Additionally, the prisoners were likely weakened and demoralized by their living conditions.
   - 72
