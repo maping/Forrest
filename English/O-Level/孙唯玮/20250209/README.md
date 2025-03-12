@@ -113,3 +113,32 @@
   - 28 ✔️
     - allocate /ˈæləkeɪt/ vt. 分配；拨…(给)；划…(归)
     - onset /ˈɒnset/ n. 开端，发生，肇始(尤指不快的事件) 
+- P282
+  - weasel /ˈwiːzl/ n. 黄鼠狼；鼬 v. 逃避；含糊其辞
+  - desert /ˈdezət , dɪˈzɜːt/ n. 沙漠；荒漠；荒原
+    - v. 抛弃，离弃，遗弃(某人)；废弃；开小差；舍弃，离弃(某地方)；逃走；擅离(部队)；背离
+    - adj. 沙漠的；无人的；不毛的
+  - in droves 成群结队；成群结队地；陆陆续续
+  - inexplicably adv. 莫名其妙地；说不清的；无法说明地；令人难以理解地
+  - whine /waɪn/
+    - v. 哭哭啼啼；哀鸣；嘎嘎响；哭嚷；惨叫；嗖嗖响；嘎吱嘎吱响
+    - n. 嘎嘎声；嘎吱声；吱吱声；(儿童发出的)哭喊声；抱怨的语调；(狗发出的)号叫声
+  - earthquake-prone adj. 易发生地震的
+  - 29 C 孙✔️马❌
+  - 30 A 孙✔️马❌
+  - 31 F 孙✔️马❌
+  - 32 M 孙❌马❌
+  - 33 J 孙✔️马❌
+  - 34 B ✔️
+  - 35 G ✔️
+  - 36 H 孙❌马❌
+  - 37 Q 孙✔️马❌
+  - 38 K 孙✔️马❌
+ 
+In 373 B.C., historians recorded that animals, including rats, snakes and weasels, deserted (29) **the** Greek city of Helice in droves (30) **just** days before a major quake.
+
+Accounts of related animal anticipation of earthquakes have surfaced across the centuries (31) **before**. Catfish moving violently, chickens (32) **however** stop laying eggs and bees parting their hive in anxiety have been reported. Countless pet owners claimed to have witnessed their cats and dogs acting inexplicably (33) **when** the ground shook - barking or whining (34) **for** no apparent reason. But exactly (35) **what** animals sense, if they feel anything at all, is a mystery.
+
+Scientists have no way of knowing precisely when or where an earthquake will hit. One of the world’s most earthquake-prone countries is Japan, (36) **where** devastation has taken numerous lives and caused substantial damage to property. Researchers (37) **there** have long studied animals to use that sense as a prediction tool.
+
+(38) **Although** there have been documented cases, a connection between a specific behaviour and the occurrence of a quake has never been made. In the 1970s, a few studies on animal prediction were conducted but nothing conclusive came out of it.
