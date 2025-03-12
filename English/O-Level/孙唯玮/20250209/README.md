@@ -81,6 +81,7 @@
    - typify /ˈtɪpɪfaɪ/ vt. 作为…的典型；是…的典范；成为…的特征
 - P278-281
   - head down
+  - assessment
   - lucky draw n. 幸运抽奖；抽奖，幸运抽奖
   - quality time n. (尤指关爱子女，增进感情的)黄金时光
   - conduct /kənˈdʌkt , ˈkɒndʌkt/ 
@@ -99,7 +100,16 @@
   - conversely /ˈkɒnvɜːsli/ adv. 相反地；反过来
   - 21 ✔️
   - 22 孙✔️马❌
-  - 23
-  - 24
-  - 25
-  
+  - 23 ✔️
+  - 24 ✔️
+    - call the exercise 
+  - 25 ✔️ 为啥 1 不对？
+    - exaggerate /ɪɡˈzædʒəreɪt/ v. 夸张；夸大；言过其实
+    - conspicuous /kənˈspɪkjuəs/ adj. 明显的；引人注目的；易见的；惹人注意的
+  - 26 孙✔️马❌ 值得讨论的一道题
+    - determination /dɪˌtɜːmɪˈneɪʃn/ n. 决心；测定；计算；(正式)决定，确定，规定；坚定；查明；果断
+  - 27 孙✔️马❌ 为啥 4 不对？
+    - refrain /rɪˈfreɪn/ vi. 避免；克制；抑制；节制 n. 副歌；迭句；经常重复的评价(或抱怨)；迭歌
+  - 28 ✔️
+    - allocate /ˈæləkeɪt/ vt. 分配；拨…(给)；划…(归)
+    - onset /ˈɒnset/ n. 开端，发生，肇始(尤指不快的事件) 
