@@ -38,13 +38,68 @@
       - n. 大摇大摆；神气十足
       - v. 大摇大摆地走；神气十足地走
       - adj. 漂亮的
-  - 14 ✔️ cremate vs incinerate
+ - 14 ✔️
     - decease /dɪˈsiːs/ n. 死亡；亡故 v. 死
     - expel /ɪkˈspel/ vt. 驱逐；排出；把…开除(或除名)；驱逐出境；喷出
     - cremate /krəˈmeɪt/ vt. 火化；(尤指)火葬；焚烧(尸体)
     - incinerate /ɪnˈsɪnəreɪt/ vt. 把…烧成灰烬；焚毁
+    - sactter over s散开；把…洒（撒）在…上
   - 15 ✔️
-    - green horn n. 新手；无经验的人；无经验易受骗之人；生手；新移民
+    - green horn n. 新手;无经验的人;无经验易受骗之人;生手;新移民;
     - wet blanket n. 扫兴的人；泼冷水的人
-    - sticky fingers n. 小偷；顺手牵羊；粘手指；手指冒汗；惯窃
+    - sticky fingers 小偷；顺手牵羊；粘手指；手指冒汗；惯窃
     - cold shoulder n. 冷淡；冷落 v. 冷落；慢待
+- P277
+ - landscape /ˈlændskeɪp/ 
+    - n. 景观；地形，地貌；(陆上，尤指乡村的)风景，景色；<喻>全景；（形势或活动的）主要特色；(文件的)横向打印格式；乡村风景画，乡村风景画的风格
+    - v. 美化…的环境；对…做景观美化；给…做园林美化；从事景观美化工作
+ - enclosure /ɪnˈkləʊʒə(r)/ n. 圈占地；圈地；围场；(信中)附件；圈用地
+ - moat /məʊt/ n. 护城河
+ - conceal
+ - leopard /ˈlepəd/ n. 豹；豹子
+ - jaguar /ˈdʒæɡjuə(r)/ n. 美洲虎；美洲豹
+ - 16 ✔️
+   - expansive /ɪkˈspænsɪv/ adj. 膨胀的；广泛的；广阔的；全面的；辽阔的；浩瀚的；开朗的；友善健谈的；刺激经济扩展的
+   - ludicrous /ˈluːdɪkrəs/ adj. 荒谬的；不合理的；不能当真的
+ - 17 ✔️
+   - mutilate /ˈmjuːtɪleɪt/ vt. 毁伤；使残缺不全；毁坏；使残废；严重损毁
+   - simulate /ˈsɪmjuleɪt/ vt. (用计算机或模型等)模拟；模仿；假装；冒充；装作
+   - stimulate /ˈstɪmjuleɪt/ vt. 刺激；促进；激发；激励；使兴奋；促进(身体某部分)的功能
+ - 18 孙❌马❌
+   - herbs /hɜːbz/ n. 草本植物；药草；香草
+   - vegetation /ˌvedʒəˈteɪʃn/ n. 植被；(统称)植物；草木；(尤指某地或环境的)植物群落 
+ - 19 孙❌马✔️
+   - barrage /ˈbærɑːʒ/
+     - n. 火力网；堰；水坝；拦河坝；弹幕射击；接二连三的一大堆(质问或指责等)；(尤指)掩护炮火
+     - vt. 以密集火力攻击（或阻击）
+   - hazard /ˈhæzəd/ n. 危险；危害 v. 使处于危险；冒…的风险；冒险猜测；冒失地提出
+   - hump /hʌmp/ n. (尤指)驼峰；(某些动物的)峰；(人的)驼背；(尤指)土墩，丘，冈；(平面上的)大隆起物
+   - barrier /ˈbæriə(r)/ n. 障碍；屏障；隔阂；关卡；阻力；分界线；难以逾越的数量（或水平、数目
+   - obstacles /ˈɒbstəklz/ n. 障碍；障碍物；阻碍；绊脚石；障碍栅栏
+ - 20 孙✔️马❌
+   - represent /ˌreprɪˈzent/ v. 代表，表示；（在竞赛或体育赛事中）代表（国家或地区）；（标志或符号）意味着，代表着，标志着；
+   - typify /ˈtɪpɪfaɪ/ vt. 作为…的典型；是…的典范；成为…的特征
+- P278-281
+  - head down
+  - lucky draw n. 幸运抽奖；抽奖，幸运抽奖
+  - quality time n. (尤指关爱子女，增进感情的)黄金时光
+  - conduct /kənˈdʌkt , ˈkɒndʌkt/ 
+    - n. 行为；(人在某地或某种情况下的)举止；经营方式；管理方法；实施办法
+    - v. 实施；传导（热或电等能量）；组织；执行；安排；引导；指挥(歌唱或音乐演奏)；举止；带领；为(某人)导游
+  - reap /riːp/ v. 收获；收割(庄稼)；取得(成果)
+    - reap what you sow
+  - be coupled with 与…耦合；和…联合，结合
+  - metabolism /məˈtæbəlɪzəm/ n. 新陈代谢
+  - diabetes /ˌdaɪəˈbiːtiːz/ n. 糖尿病；多尿症
+  - cardiovascular /ˌkɑːdiəʊˈvæskjələ(r)/ adj. 心血管的
+  - regime /reɪˈʒiːm/ n. 政权；政体；管理体制；(尤指未通过公正选举的)统治方式；统治制度；组织方法
+  - blatant /ˈbleɪtnt/ adj. 明目张胆的；公然的
+  - propaganda /ˌprɒpəˈɡændə/ n. 宣传；鼓吹
+  - sedentary /ˈsedntri/ adj. 坐着的，（惯于）久坐不动的；定居的；（贝壳等）固定附着的，静止的；（工作等）需要久坐的；（鸟等）定栖的，不迁徙的；(蜘蛛)坐网的
+  - conversely /ˈkɒnvɜːsli/ adv. 相反地；反过来
+  - 21 ✔️
+  - 22 孙✔️马❌
+  - 23
+  - 24
+  - 25
+  
