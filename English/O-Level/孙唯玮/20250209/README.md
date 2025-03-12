@@ -210,7 +210,7 @@ Scientists have no way of knowing precisely when or where an earthquake will hit
   - 64 孙❌马❌ 需要请教张老师
   - 65 孙❌马❌ 需要请教张老师
 
-A typical day at work for Thomas Peter includes taking a four-hour jog with 40 dogs, big and miniature, young and aged, and none of them on leashes. While most of these dogs belong to him, the rest are troubled dogs sent to Peter to learn good behaviour. Evidently, Peter has an extraordinary gift for working with these animals.
+A typical day at work for Thomas Peter includes taking a four-hour jog with 40 dogs, big and miniature, young and aged, and none of them on leashes. (51) **While** most of these dogs belong to him, the rest are troubled dogs sent to Peter to learn good behaviour. Evidently, Peter has an extraordinary gift (51) **for** working with these animals.
 
 Growing up on a ranch in Mexico, Peter knew he wanted to work with dogs. His first job at age 15, was assisting a veterinarian. He was so proficient in calming nervous dogs and handling all kinds of situations, people started calling him ‘the dog boy.’ Since then, he has built a rewarding career around his beloved animal.
 
