@@ -272,9 +272,9 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
       - The family had fun playing games like hide-and-seek and games of their own invention around the house.
       - When the writer was in her mid-teens, the house got electricity, which improved their living conditions with a fluorescent tube in the living room and light bulbs in the bedrooms and kitchen.
     - 77
-      - 3
+      - 2
       - 1
-      - 2 
+      - 3 
     - 78
       - The writer's house was haunted.
         - False
