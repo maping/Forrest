@@ -243,18 +243,55 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
       - n. 上级；上司；级别(或地位、职位)更高的人；用作宗教团体领导的头衔
     - unhygienic /ˌʌnhaɪˈdʒiːnɪk/ adj. 不卫生的；不清洁的；易致病(或感染)的
     - unrefined /ˌʌnrɪˈfaɪnd/ adj. 未精制的；粗俗的；未提炼的；不文雅的；缺乏教养的
-  - 第五段单词
+  - 第五六七八段单词
     - fluorescent /ˌflɔːˈresnt/ adj. 发荧光的；发亮的；强烈反光的 n. 荧光灯；荧光灯模式
-  - 71
-  - 72
-  - 73
-  - 74
-  - 75
-  - 76
-  - 77
-  - 78
-  - 79
-  - 80 
+    - horrid /ˈhɒrɪd/ adj. 可怕的；非常讨厌的；很不友好的
+    - eyesore /ˈaɪsɔː(r)/ n. 碍眼的建筑；丑陋的东西；令人厌恶的东西
+    - backdrop /ˈbækdrɒp/ n. (事态或活动的)背景；(舞台的)背景幕布；(事件发生时)周围陪衬景物
+    - picturesque /ˌpɪktʃəˈresk/ adj. 优美的；生动的；栩栩如生的；古色古香的；古雅的
+    - all of a sudden 突然地，出乎意料地
+  - 分析最后一句话的主谓宾
+
+  - 答案解析  
+    - 71
+      - The phrase which tells you that the house was too small for the writer's family is "The tiny collection of rooms inside could scarcely contain all our family." 
+    - 72
+      - The writer mentioned that they 'seemed to live in perpetual darkness' to describe the lack of sunlight during the day due to the surrounding trees blocking the light and the absence of electricity at night, which made the house very dark and gloomy. 
+    - 73
+      - When the writer was young
+        - Fearful and superstitious
+        - The house was dark and gloomy, and the writer's mother passed on superstitious fears about ghosts and malicious spirits.
+      - When the writer was a teenager
+        - Dissatisfied and embarrassed
+        - The writer compared her home to those of her friends, which had proper plumbing and were more hygienic, leading to feelings of shame and dissatisfaction.
+    - 74
+      - The chamber-pots were used as a substitute for a proper toilet. The family did not have a toilet, so they used chamber-pots for relieving themselves. These pots had to be emptied manually, which sometimes led to embarrassing situations when friends visited unexpectedly. 
+    - 75
+      - The writer was ‘overwhelmed by shame’ when her friends dropped by unexpectedly because her family used chamber-pots instead of a proper toilet. If the chamber-pots had not been emptied, they would be in full view or emit an unpleasant smell, which made the writer feel embarrassed and ashamed about the lack of hygiene and proper facilities in her home compared to her friends' houses. 
+    - 76
+      - The family had fun playing games like hide-and-seek and games of their own invention around the house.
+      - When the writer was in her mid-teens, the house got electricity, which improved their living conditions with a fluorescent tube in the living room and light bulbs in the bedrooms and kitchen.
+    - 77
+      - 3
+      - 1
+      - 2 
+    - 78
+      - The writer's house was haunted.
+        - False
+        - The writer mentioned that her relatives thought the house was haunted, but there is no evidence in the story to confirm that it actually was.
+      - The writer was bothered about what Mr. Heex thought when he saw the emptying of the chamber–pot.
+        - True
+        - The writer expressed a wish to be anywhere else at that moment and imagined Mr. Heex thinking negatively about her family's hygiene and refinement.
+      - Mr. Yong was impressed by the writer's house.
+        - True
+        - Mr. Yong admired the house's picturesque setting and the natural beauty of the trees forming the backdrop.
+    - 79
+      - The word in the passage that has the same meaning as 'beautiful and attractive' is "picturesque."   
+    - 80
+      - Word which refers to the prejudices that the writer had against the house
+        - "veil" 
+      - Significance of sentence
+        - The sentence signifies that the writer's negative perceptions and prejudices about her house, which had blinded her to its beauty, were lifted when she saw it from Mr. Yong's artistic perspective. This allowed her to appreciate the natural beauty and charm of her home that she had previously overlooked.
 
 When I was young, we lived in a ramshackle wooden house on the outskirts of Kudat, a small town in northern Sabah, Malaysia. It stood on wooden stilts and had a steep sloping roof of corrugated zinc sheets, which made the house scorching hot during the day. The tiny collection of rooms inside could scarcely contain all our family - Father, Mother, and 9 children.
 
