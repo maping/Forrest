@@ -188,9 +188,27 @@ Chan and his teammate were then picked up by a (63) boat.
 
 Officially, Lemieu finished in the eleventh (64) in the tournament, but International Olympic Committee President Juan Antonio Samaranch later (65) him the Pierre de Coubertin Medal for Sportsmanship.
 
-- P268
+- P268-269
   - 66 ✔️
   - 67 ❌ sang
   - 68 ✔️ Many people are afraid to go near hospitals because of an unidentified virus spreading there.
   - 69 ✔️ Much to her embarrassment, Lily forgot the lyrics while singing in the contest.
   - 70 ✔️ Exercise is a simple yet effective way to lose weight.
+
+- P270-272
+
+When I was young, we lived in a ramshackle wooden house on the outskirts of Kudat, a small town in northern Sabah, Malaysia. It stood on wooden stilts and had a steep sloping roof of corrugated zinc sheets, which made the house scorching hot during the day. The tiny collection of rooms inside could scarcely contain all our family - Father, Mother, and 9 children.
+
+We seemed to live in perpetual darkness. During the day, the surrounding trees blocked out much of the sunlight. Furthermore, the nights were always brooding, foreboding times. This was the 1950s and early 1960s, and we had no electricity. We lit kerosene lamps, which produced only dim light. The gloom was exacerbated by the superstitious fears Mother passed on to us. Raised on a mixture of Chinese ancestral worship and Taoist and Buddhist beliefs, we believed in ghosts and malicious wandering spirits. Our friends, undoubtedly afraid of the dark and the eerie appearance of the house, rarely came over to play. I once overheard one of my relatives telling her children that our house was haunted. We preferred to play rounders and tag in a big field in the center of the town. At dusk, I would reluctantly return home with a feeling of dread.
+
+By the time I was a teenager, my superstitious fears had been replaced by feelings of dissatisfaction and embarrassment. All my friends had nicer homes with proper plumbing. We did not even have a toilet. Instead, we used chamber-pots. If friends dropped by out of the blue before the chamber-pots had been emptied, I would be overwhelmed by shame. Sometimes the pots were placed in the laundry area in full view. Even if they were hidden away in the bedroom, I was certain my friends could smell them.
+
+When I was 13, I sprained my ankle at school, and my principal, a Canadian named Mr. Heex, drove me home. We arrived just in time to see my younger sister, Mel Fong, empty a chamber-pot. Everything was in full view - sister, chamber-pot, and cascading urine mixed with excrement. I wished I could have been anywhere else at that moment. I saw Mr. Heex as culturally superior, and although he did not say anything, I imagined him thinking, "What an unhygienic and unrefined family!"
+
+I admit that life was not always awful. We had fun playing hide-and-seek and games of our own invention around the house. And when I was in my mid-teens, we got electricity. A fluorescent tube lit the living room, and the bedrooms and kitchen each had a light bulb.
+
+Still, I could see nothing much to appreciate about my home. To me, it was horrid, rotten - an eyesore.
+
+Then, when I was 21, some teachers from my school came to visit. As my art teacher, Mr. Yong, entered, he said, "Mel Siew, your house is placed in such a lovely setting. I had to stop and admire it from the road. All those trees forming the backdrop made it look so picturesque."
+
+All of a sudden, I saw my house in a different light - from Mr. Yong's artistic point of view. The veil that had prevented me from noticing the beauty that had been there all the time fell away.
