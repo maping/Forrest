@@ -196,6 +196,21 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
   - 70 ✔️ Exercise is a simple yet effective way to lose weight.
 
 - P270-272
+  - ramshackle /ˈræmʃækl/ adj. 摇摇欲坠的；破烂不堪的；组织松散(不能持久)的；行将瓦解的
+  - outskirts /ˈaʊtskɜːts/ n. 郊区；市郊；(市镇的)边缘地带
+  - corrugate adj. 起皱的；波状的 v. （使某物）起皱褶；加工成波纹（瓦垅）板 n. 皱；车辙；沟
+  - zinc /zɪŋk/ n. 锌；(非洲某些地方用于搭建屋顶、棚子等的)波纹铁板，瓦楞铁板
+    - vt. 镀锌于…；在…上镀锌
+  - 71
+  - 72
+  - 73
+  - 74
+  - 75
+  - 76
+  - 77
+  - 78
+  - 79
+  - 80 
 
 When I was young, we lived in a ramshackle wooden house on the outskirts of Kudat, a small town in northern Sabah, Malaysia. It stood on wooden stilts and had a steep sloping roof of corrugated zinc sheets, which made the house scorching hot during the day. The tiny collection of rooms inside could scarcely contain all our family - Father, Mother, and 9 children.
 
