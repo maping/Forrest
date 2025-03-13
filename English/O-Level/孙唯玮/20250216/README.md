@@ -226,6 +226,25 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
       - at dusk
     - dread /dred/ v. 畏惧；担忧，忧虑；厌恶，不愿 n. 畏惧，恐惧；担忧，忧虑；厌恶；令人生畏的人，可怖的事物
       - adj. 可怕的；令人担忧的；<古>令人敬畏的
+  - 第三段单词
+    - plumbing /ˈplʌmɪŋ/ n. (建筑物的)管路系统，自来水管道；水暖工的工作
+    - chamber-pot 夜壶
+    - drop by 顺道拜访
+    - out of the blue 突然；出乎意料地
+    - laundry /ˈlɔːndri/ n. 洗衣房；洗衣店；洗衣物；要(或正在)洗的衣物；刚洗好的衣物；洗衣物的活
+  - 第四段单词
+    - sprain /spreɪn/ vt. 扭伤(关节) n. 扭伤
+    - cascading /kæˈskeɪdɪŋ/ v. 倾泻；流注；大量落下；大量垂悬
+    - urine /ˈjʊərɪn/ n. 尿；小便
+    - excrement /ˈekskrɪmənt/ n. 粪便；排泄物
+    - culturally /ˈkʌltʃərəli/ adv. 文化上；文化地；文化上地
+    - superior /suːˈpɪəriə(r)/
+      - adj. 优越的；(在品质上)更好的；(在级别、重要性或职位上)更高的；占优势；更胜一筹；高傲的；有优越感的；质量卓越的
+      - n. 上级；上司；级别(或地位、职位)更高的人；用作宗教团体领导的头衔
+    - unhygienic /ˌʌnhaɪˈdʒiːnɪk/ adj. 不卫生的；不清洁的；易致病(或感染)的
+    - unrefined /ˌʌnrɪˈfaɪnd/ adj. 未精制的；粗俗的；未提炼的；不文雅的；缺乏教养的
+  - 第五段单词
+    - fluorescent /ˌflɔːˈresnt/ adj. 发荧光的；发亮的；强烈反光的 n. 荧光灯；荧光灯模式
   - 71
   - 72
   - 73
