@@ -196,11 +196,36 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
   - 70 ✔️ Exercise is a simple yet effective way to lose weight.
 
 - P270-272
-  - ramshackle /ˈræmʃækl/ adj. 摇摇欲坠的；破烂不堪的；组织松散(不能持久)的；行将瓦解的
-  - outskirts /ˈaʊtskɜːts/ n. 郊区；市郊；(市镇的)边缘地带
-  - corrugate adj. 起皱的；波状的 v. （使某物）起皱褶；加工成波纹（瓦垅）板 n. 皱；车辙；沟
-  - zinc /zɪŋk/ n. 锌；(非洲某些地方用于搭建屋顶、棚子等的)波纹铁板，瓦楞铁板
-    - vt. 镀锌于…；在…上镀锌
+  - 第一段单词
+    - ramshackle /ˈræmʃækl/ adj. 摇摇欲坠的；破烂不堪的；组织松散(不能持久)的；行将瓦解的
+    - outskirts /ˈaʊtskɜːts/ n. 郊区；市郊；(市镇的)边缘地带
+    - corrugate adj. 起皱的；波状的 v. （使某物）起皱褶；加工成波纹（瓦垅）板 n. 皱；车辙；沟
+    - zinc /zɪŋk/ n. 锌；(非洲某些地方用于搭建屋顶、棚子等的)波纹铁板，瓦楞铁板
+      - vt. 镀锌于…；在…上镀锌
+    - scarcely /ˈskeəsli/ adv. 几乎不；刚；简直不；勉强；(表示接连发生)刚一…就；根本不可能；实在不应该
+  - 第二段单词
+    - perpetual /pəˈpetʃuəl/ adj. 永恒的，永久的；终身的，永久的；不间断的，持续的，长久的；一再反复的，无尽无休的，没完没了的；终年开花的，四季开花的；（投资）永不还本的
+    - brooding /ˈbruːdɪŋ/ adj. 忧思的；幽怨的；森然的；险恶的 v. 焦虑，忧思(使人厌烦、担忧或不安的事)；孵(蛋)
+    - foreboding /fɔːˈbəʊdɪŋ/ n. (对不祥或危险事情的强烈)预感 v. 预示；预感；预兆
+    - kerosene /ˈkerəsiːn/ n. 煤油
+    - gloom /ɡluːm/ n. 忧郁；黑暗；幽暗；昏暗；愁闷；无望 vt. 忧郁；沮丧；使忧伤；变暗；变黑；沮丧使变黑
+    - exacerbate /ɪɡˈzæsəbeɪt/ vt. 加剧；使恶化；使加重
+    - superstitious /ˌsuːpəˈstɪʃəs/ adj. 迷信的；有迷信观念的
+    - ancestral /ænˈsestrəl/ adj. 祖传的；祖先的
+    - worship /ˈwɜːʃɪp/
+      - n. (对上帝或神的)崇拜，敬仰，礼拜；崇拜；崇敬；爱慕；(对治安官或市长的尊称)阁下
+      - v. 崇敬，崇拜(上帝或神)；爱慕，崇拜(尤指达到看不到缺点的地步)；(尤指在宗教场所)做礼拜；热爱；到宗教场所参加礼拜
+    - Taoist /ˈdaʊɪst/ n. 道士，道教信徒 adj. 道教的
+    - Buddist n. 佛教徒
+    - malicious /məˈlɪʃəs/ adj. 恶意的；恶毒的
+    - undoubtedly
+    - eerie /ˈɪəri/ adj. 怪异的；诡异的；恐怖的；神秘的
+    - haunt /hɔːnt/ vt. 困扰；(鬼魂)出没；(不快的事情)萦绕于脑际，难以忘却；长期不断地缠扰(某人)
+      - n. 常去的场所；消磨时光的去处
+    - dusk /dʌsk/ n. 黄昏；傍晚 v. 变暗；使变暗
+      - at dusk
+    - dread /dred/ v. 畏惧；担忧，忧虑；厌恶，不愿 n. 畏惧，恐惧；担忧，忧虑；厌恶；令人生畏的人，可怖的事物
+      - adj. 可怕的；令人担忧的；<古>令人敬畏的
   - 71
   - 72
   - 73
