@@ -10,6 +10,6 @@
   - 6 ✔️ 请解释一下
   - 7 ❌ 犯了中文英语的错误，is 只能表示是什么
     - Please tell me when the schedule for today's meeting will start?
-  - 8 ✔️
-  - 9 ✔️
-  - 10 ✔️
+  - 8 ✔️ 请解释一下 主格和宾格
+  - 9 ✔️ no sooner... than
+  - 10 ✔️ hear sb do sth. /  hear sb doing sth. 
