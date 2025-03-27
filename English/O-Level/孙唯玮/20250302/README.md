@@ -13,3 +13,12 @@
   - 8 ✔️ 请解释一下 主格和宾格
   - 9 ✔️ no sooner... than
   - 10 ✔️ hear sb do sth. /  hear sb doing sth. 
+- P226
+  - 11 ❌
+    - bridegroom /ˈbraɪdɡruːm/ n. 新郎；即将(或刚刚)结婚的男子
+    - grin /ɡrɪn/ v. 咧嘴笑，露齿而笑，咧着嘴笑，龇着牙笑；n. 咧着嘴笑，露齿的笑，龇牙咧嘴的笑
+    - wear a grin 面带笑容，表示持续保持的笑容状态 
+  - 12
+  - 13
+  - 14
+  - 15 
