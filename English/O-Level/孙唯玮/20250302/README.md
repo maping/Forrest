@@ -1,8 +1,11 @@
 - P224-225
   - 1 ✔️ 主谓宾
   - 2 ✔️
-  - 3 ✔️
-  - 4 ✔️
+  - 3 ✔️ 2选1 用 between，3选1 用 among
+    - best of both worlds 两全其美 
+  - 4 ✔️ Neither nor 就近原则
+    - Neither the teacher nor the students were interested in the movie.
+    - Neither the students nor the teacher was interested in the movie.
   - 5 ✔️
   - 6 ✔️
   - 7 ❌
