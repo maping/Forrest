@@ -7,8 +7,9 @@
     - Neither the teacher nor the students were interested in the movie.
     - Neither the students nor the teacher was interested in the movie.
   - 5 ✔️
-  - 6 ✔️
-  - 7 ❌
+  - 6 ✔️ 请解释一下
+  - 7 ❌ 犯了中文英语的错误，is 只能表示是什么
+    - Please tell me when the schedule for today's meeting will start?
   - 8 ✔️
   - 9 ✔️
   - 10 ✔️
