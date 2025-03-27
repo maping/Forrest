@@ -39,10 +39,40 @@
       - adj. 原来的；最早的；起初的；独创的；原作的；首创的；有独创性的；真迹的；非复制的
       - n. 原件；正本；原稿；原作；(思想、行为、衣着等)不同寻常的人，独特的人，怪人
 - P226
+  - 单词
+    - fortnight /ˈfɔːtnaɪt/ n. 两星期
+    - nip /nɪp/ v. 夹；掐；咬住；损害；伤害；啃咬；快速去(某处)；急忙赶往
+      - n. 掐；寒冷；寒意；啃咬；少量的烈酒
+      - nipping /ˈnɪpɪŋ/ adj. 锋利的；刺骨的；尖酸刻薄的 v. 啃咬；掐；咬住；夹住
+    - propane /ˈprəʊpeɪn/ n. 丙烷
+    - frantically /'fræntɪklɪ/ adv. 疯狂地；疯狂似地
+    - regrettably adv. 令人遗憾地，抱歉地
+    - aftermath /ˈɑːftəmæθ/ n. (战争、事故、不快事情的)后果，创伤
+      - in the aftermath 事后
   - 16 ❌ 考察词汇
-    - 
-  - 17
-  - 18
-  - 19
-  - 20
+    - absentia /æbˈsenʃiə/ 缺席
+    - amnesia /æmˈniːziə/ n. 失忆症；遗忘(症)；记忆缺失
+    - anaemia /əˈniːmiə/ n. 贫血(症)
+    - arrhythmia /əˈrɪðmɪə/ n. 心律失常；无节律性；心律不齐（失常）
+  - 17 ✔️ 考察词汇
+    - distinguish /dɪˈstɪŋɡwɪʃ/ v. 区分；辨别；分清；使有别于；使出众；认出；看清；使具有…的特色；听出；成为…的特征
+    - extinguish /ɪkˈstɪŋɡwɪʃ/ vt. 熄灭；扑灭；消灭；使破灭；毁灭
+    - relinquish /rɪˈlɪŋkwɪʃ/ vt. (尤指不情愿地)放弃
+    - vanquish /ˈvæŋkwɪʃ/ vt. 征服；战胜；彻底击败
+  - 18 ✔️ 考察词汇
+    - discharged /dɪsˈtʃɑːdʒd/ v. 排出；释放；流出；放出；解雇；准许(某人)离开 adj. 放电的；泻出的
+    - eliminated /ɪˈlɪmɪneɪtɪd/ v. 消除；排除；消灭，干掉(尤指敌人或对手)；清除；(比赛中)淘汰
+    - evacuated /ɪˈvækjueɪtɪd/ v. (把人从危险的地方)疏散，转移，撤离；排空(胃肠)；(从危险的地方)撤出，搬出，撤空；排泄(粪便)
+      - adj. 疏散；排空的，撤退者的
+    - excavated /ˈekskəveɪtɪd/ v. 挖掘，开凿，挖空(洞、隧道等)；发掘，挖出(古建筑或古物)
+  - 19 ✔️ 考察词汇
+    - diminished /dɪˈmɪnɪʃt/ v. 减少；降低；(使)减弱，缩减；贬低；贬损；轻视 adj. 减少的；减弱的；被贬低的；
+    - perished /ˈperɪʃt/ adj. 极冷 v. 死亡；毁灭；丧失；(使橡胶等)老化，脆裂；湮灭；暴死
+    - vanished /ˈvænɪʃt/ v. 消失了；消亡；绝迹；(莫名其妙地)突然消失；不复存在
+      - n. 销声匿迹，无影无踪
+  - 20 ✔️ 考察词汇
+    - adequately adv. 充分；充分地；足够地；适当地
+    - appropriately /ə'prəʊprɪətlɪ/ adv. 合适的；适当地；相称地
+    - posthumously 在死后；死后；于死后；死后的；死后出版的
+    - subsequently /ˈsʌbsɪkwəntli/ adv. 随后；之后；接着；后来
 - 
