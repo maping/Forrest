@@ -82,8 +82,31 @@
     - voucher /ˈvaʊtʃə(r)/ n. 代金券；票券；代币券
     - miniature /ˈmɪnətʃə(r)/ adj. 很小的；小型的；微型的 n. 微型画；缩微模型；小画像；微型复制品
     - printing press 印刷机
-   
-    THE INVENTION OF The Printing Press
+    - meticulously adv. 一丝不苟；一丝不苟地
+    - scribe /skraɪb/ n. 抄写员；(印刷术发明之前的)抄书吏
+    - monastery /ˈmɒnəstri/ n. 修道院；寺院；隐修院
+    - outline /ˈaʊtlaɪn/ vt. 概述；略述；显示…的轮廓；勾勒…的外形 n. 概述；轮廓线；梗概；略图
+    - painstakingly /'peɪnzteɪkɪŋlɪ/ adv. 极力地
+    - illuminator /ɪˈljuːmɪneɪtə/ n. （底片观察用）光源；照明器（灯，装置）；发光体（器）；反光板（镜）；施照体（器）
+    - supplement /ˈsʌplɪmənt , ˈsʌplɪment/
+      - vt. 补充；增补
+      - n. 补充(物)；(书籍的)补编，补遗，附录；增补(物)；(报纸的)增刊；添加物；额外费用，附加费
+    - dip /dɪp/ v. 蘸；浸；(使)下降，下沉；给洗药浴；把(汽车前灯的)远光调为近光
+      - n. (通常指暂时的)减少，下降，衰退；浏览；泡一泡；调味酱；药浴液，清洗液；（降而复升的）一动；凹陷处；游一游；低洼处
+    - realise /ˈrɪəlaɪz/ v. 意识到；实现；了解，认识到；变卖，赚得
+    - despise /dɪˈspaɪz/ vt. 鄙视；看不起；蔑视
+  - 21 ✔️
+  - 22
+    - on offer 表示特价出售
+    - on sale 表示待售
+      - on sale 也可以表示打折，但会明确说出折扣：All clothes are on sale with a 50% discount.  
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+THE INVENTION OF The Printing Press
     
 Dark & Middle Ages
 
