@@ -254,4 +254,26 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
   - 77
   - 78
   - 79
-  - 80 
+  - 80
+ 
+The two divers in snorkeling gear dropped backwards off the inflatable raft into the Pacific Ocean. Vigilantly, they swam towards the humpback whale lying exhausted in the waves. A huge flipper, about three metres long—the whale's left pectoral fin—rose up a metre away. One slap could kill a man.
+
+Thick nylon ropes, called blue steel because of their strength, were wound around the fin, through the whale's mouth and over its head. In some parts, the lines sliced so deeply, they disappeared into the animal's flesh. Left like this, the whale would die.
+
+Swimming downwards, the divers, Leon and Ken, saw the animal was a female, some 16 metres in length. Her tail was securely wrapped with about twenty ropes wound upwards and around her flipper. She was stuck fast—and using every ounce of energy to keep her blowhole above water.
+
+Leon's heart sank as he looked at the tangled mess. There's no way we're going to save this whale, he thought, but he realised they had to try.
+
+Using their dive knives, the two men started sawing at the 12-millimetre-thick blue rope. Instead of thrashing at them with her fin, the whale stopped moving entirely. Even after they cut her flipper free, she remained calm and still. I think she knows we're trying to help her, Leon thought.
+
+The blue ropes still ran across the whale's head and through her mouth from side to side, like a gag. She had struggled so aggressively against the ropes earlier that they had cut into her flesh. Ken severed the ropes, then tugged with all his strength to remove the pieces. It was like pulling giant dental floss. This had to be terrifying for her, hurting her, but remarkably, she remained calm.
+
+It was well after three hours after the rescuers arrived at the scene before Stan finally got down to the last few ropes. They were so deeply embedded in the blubber of the tail that he could not pry them loose. Not knowing how the animal would react, he shoved his knife in and began cutting. "I'm almost there," he muttered through his breathing apparatus. "Just two more ropes. I'll be done and you'll be released."
+
+He made the final cut and surfaced with a shout of celebration. "Whoo-hoo! She's free!" Ken joined in the chorus. Finally liberated, the whale did a shallow dive. Leon turned around. "Where did she go?" he called out.
+
+The next thing he knew, she was coming up from below and straight at him. Hey! I just saved you, he thought, relief turning to anxiety as she rushed at him. The humpback stopped thirty centimeters from his chest, nudged him, then turned and did the same to Ken. Then it swam in a circle around the divers. It swam with them for a good ten minutes.
+
+Leon, who has had more than his share of adrenaline-inducing adventures, says, "I've spent twenty-six years in the military doing high-risk rescues, but nothing's more gratifying than this one. Nothing."
+
+
