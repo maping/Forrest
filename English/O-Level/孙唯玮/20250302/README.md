@@ -81,4 +81,30 @@
       - promotional coupon
     - voucher /ˈvaʊtʃə(r)/ n. 代金券；票券；代币券
     - miniature /ˈmɪnətʃə(r)/ adj. 很小的；小型的；微型的 n. 微型画；缩微模型；小画像；微型复制品
-    -    
+    - printing press 印刷机
+   
+    THE INVENTION OF The Printing Press
+    
+Dark & Middle Ages
+
+Any writings and drawings had to be completed meticulously by hand. Such tasks were reserved for scribes who lived and worked in monasteries. They would work in silence, first outlining the layouts and then painstakingly copying the text from another book. Later, the illuminator would take over to supplement the pages with designs.
+
+1300S - 1400S
+
+A simple method of printing, which involved letters or images cut on blocks of wood, had been developed. These blocks would be dipped in ink and then stamped onto paper.
+
+Late 1430S
+
+A German man named Johann Gutenberg realised that if he could use cut blocks within a machine, he could make the printing process more efficient. Furthermore, he would be able to reproduce texts in larger quantities. However, instead of using wooden blocks, he used metal instead. This was the printing press, in which the metal block letters could be rearranged to create new words.
+
+Initially, the noble classes despised the cheaper, mass-produced books. To them, hand-inked books were a symbol of luxury. Thus, printed materials were at first more popular with the lower classes. However, the printing business developed into a new trade as soon as words of the printing press spread.
+
+Printed texts became a new way to spread information to vast audiences quickly and cheaply. This increased the discussion and development of new ideas. A revolution of communication is hence said to have taken place with the invention of the printing press.
+
+Towards the 19th century
+
+Other inventors created steam-powered printing presses that did not require a hand operator.
+
+Today
+
+Printing presses are electronic and automated, and can print much faster than before!
