@@ -140,3 +140,34 @@ Other inventors created steam-powered printing presses that did not require a ha
 Today
 
 Printing presses are electronic and automated, and can print much faster than before!
+
+- P232
+  - 单词
+    - track event n. 径赛项目
+    - field event n. 田赛项目
+    - sprint race n. 短跑
+    - starting blocks n. 起跑器
+    - hundredths of a second n. 百分之一秒
+    - apart /əˈpɑːt/ adv. 分开；分离；(指空间或时间)相隔，相距；除外；分开地；不在一起；成碎片
+      - adj. (与众)不同的
+    - torso /ˈtɔːsəʊ/ n. (身体的)躯干；躯干雕像
+    - endurance /ɪnˈdjʊərəns/ n. 耐力；忍耐力；耐久力
+
+  - 29 ❌ 初看 in/at/over 都可以，先放一放
+  - 30
+  - 31 in 比较合适
+  - 32
+  - 33 at 比较合适
+  - 34
+  - 35
+  - 36
+  - 37
+  - 38 ❌ 
+
+Track events decide the best competitor (29) **over** a certain distance. Field events test the competitor's ability to throw (30) **and** or jump the furthest or the highest.
+
+(31) **In** sprint races, athletes begin using starting blocks and sprint at (32) **almost** full speed for the duration of the race. (33) **At** the finish, the runners are often just hundredths of a second (34) **apart**.
+
+Sprinters must abide (35) **by** the rules and remain in their lanes throughout the race. The winner is the one (36) **whose** torso crosses the finishing line the earliest.
+
+Long distance runners need to train to improve their endurance rather (37) **than** their speed. They pace (38) **themselves** throughout the race so that they still have adequate energy for a final burst of strength at the finish of the race.
