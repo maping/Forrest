@@ -273,17 +273,56 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
       - n. (肘部的)轻推，碰
     - adrenaline /əˈdrenəlɪn/ n. 肾上腺素(情绪激动时肾上腺分泌的一种化学物质，能加快心跳并产生更多能量)
     - induce /ɪnˈdjuːs/ vt. 诱导；引起；导致；诱使；引产；劝说；催生
-  - 71
-  - 72
+      
+  - 71 Vigilantly
+  - 72 The whale was entangled in thick, strong nylon ropes called "blue steel," which were wrapped around its left pectoral fin, mouth, and head. The ropes had cut so deeply into its flesh that they were hidden in some areas. Its tail was also tightly bound by about twenty ropes, leaving it exhausted and struggling to keep its blowhole above water to breathe. Without help, it would have died from suffocation or severe injuries.
   - 73
+    - The ropes had cut deeply into its flesh, with some lines even disappearing into its body, indicating severe wounds.
+    - It had been struggling aggressively against the ropes earlier, which would have worsened the injuries and caused distress. 
   - 74
+    - After they began cutting the ropes, the whale stopped moving entirely and remained calm and still, even after its flipper was freed.
+    - Unlike a panicked animal, it did not thrash or resist, suggesting it understood their actions were beneficial. 
   - 75
+    - The process of cutting and removing the deeply embedded ropes from the whale's mouth and head, which was painful and terrifying for the whale.
   - 76
+    - The ropes were extremely thick (12mm) and strong ("blue steel"), requiring slow, careful cutting with dive knives.
+    - Some ropes were deeply embedded in the whale's blubber and flesh, making them difficult to pry loose without causing further harm. 
   - 77
+    - 3
+    - 2
+    - 1 
   - 78
+    - The whale struggled to stay afloat to breathe.
+      - True
+      - The text states the whale was "using every ounce of energy to keep her blowhole above water."
+    - Leon initially gave up on the rescue mission when he saw how tangled the mess was.
+      - False
+      - Though Leon thought, "There's no way we're going to save this whale," he still decided to try.
+    - Leon cut the blubber of the tail by accident.
+      - False
+      - Leon intentionally cut the ropes embedded in the blubber, saying, "I shoved my knife in and began cutting."
   - 79
-  - 80
- 
+    - 
+      - The whale might have been attacking or threatening the divers in retaliation or confusion.
+      - The whale came up from below and rushed straight at Leon.
+    -
+      - The whale was expressing gratitude or gentle interaction, possibly acknowledging the divers' help.
+      - The whale stopped about thirty centimetres from Leon's chest, nudged him, then turned away and did the same to Ken.
+  - 80 
+    - P4
+      - Dismayed
+      - (Leon's heart sank as he saw the tangled mess and doubted they could save the whale.)
+    - P7
+      - Uncertain
+      - (Leon was unsure how the whale would react when cutting the deeply embedded ropes.)
+    - P8
+      - Satisfied
+      - (Leon felt relief and accomplishment after making the final cut and freeing the whale.)
+    - P9
+      - Triumphant
+      - (Leon celebrated with a shout of "Whoo-hoo! She's free!" and felt profound joy as the whale interacted gently with them.)
+    - Dismayed (initial hopelessness) → Uncertain (caution during delicate cutting) → Satisfied (relief after success) → Triumphant (pure joy and celebration).
+    
 The two divers in snorkeling gear dropped backwards off the inflatable raft into the Pacific Ocean. Vigilantly, they swam towards the humpback whale lying exhausted in the waves. A huge flipper, about three metres long—the whale's left pectoral fin—rose up a metre away. One slap could kill a man.
 
 Thick nylon ropes, called blue steel because of their strength, were wound around the fin, through the whale's mouth and over its head. In some parts, the lines sliced so deeply, they disappeared into the animal's flesh. Left like this, the whale would die.
