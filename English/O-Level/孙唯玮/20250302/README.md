@@ -240,11 +240,39 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
     - No sooner had Mrs. Ang drunk her tea than the waitress offered to refill her cup.
     - 结构：no sooner had + 主语 + 过去分词 + than + 主语 + 过去时态动词。这种结构强调第一个动作刚刚完成，第二个动作就发生了。 
   - 67 The sight of his neighbour's house on fire shocked Willy.
-  - 68 Maintaining peace and order in the neighbourhood being the priority, the police officer stayed awake for two whole nights.
+  - 68 With maintaining peace and order in the neighbourhood being the priority, the police officer stayed awake for two whole nights.
   - 69 Not knowing the way to the cafe, the tourist asked the guide.
   - 70 Both courtesy and punctuality are needed to get an excellent conduct grade.
 
 - P236
+  - 单词
+    - Vigilant /ˈvɪdʒɪlənt/ adj. 警戒；警惕；警惕的
+    - humpback /ˈhʌmpbæk/ n. 座头鲸
+    - flipper /ˈflɪpə(r)/ n. (潜水、游泳用的)脚蹼，蛙鞋，鸭脚板，橡皮脚掌；(海豹、海龟等的)鳍肢，鳍足
+    - pectoral /ˈpektərəl/ adj. 胸的；胸部的 n. 胸肌
+    - slap /slæp/ v. （用手掌）打，拍，掴；掴，拍打；
+    - nylon /ˈnaɪlɒn/ n. 尼龙；(女用)尼龙长袜，尼龙连裤袜
+    - slice /slaɪs/ n. 片；(切下的食物)薄片；部分；份额；削球；锅铲；(餐桌用)小铲
+      - v. 切；把…切成(薄)片；削(球)；割；划；斜切打；大幅度削减；（无意中）打出弧线球
+    - flesh /fleʃ/ n. (动物或人的)肉；肉体；果肉；
+    - securely
+    - ounce /aʊns/ n. 盎司(重量单位，¹⁄₁₆磅，等于28.35克)；一点点；丝毫；少许；少量
+    - blowhole /ˈbləʊhəʊl/ n. (鲸头顶的)呼吸孔；(供海豹等呼吸的)冰窟窿
+    - gag /ɡæɡ/ n. (尤指专业喜剧演员的)插科打诨，笑话，噱头；恶作剧；封口布；塞口布；禁刊令(阻止公开报道或讨论某事的法令)
+      - v. 捂住，塞住(某人的嘴)；作呕；压制…的言论自由；使缄默
+    - sever /ˈsevə(r)/ v. 切断，割断；把……分隔开，（使）分离，（使）分裂；断绝，中断；区别，辨别；把……割下；
+    - tug /tʌɡ/ n. 猛拉；拖船；(突然的)猛拽；一股强烈的感情
+      - v. (朝某一方向用力)拉；拖；拽
+    - floss /flɒs/ n. 丝线 v. 用牙线剔(牙)
+    - blubber /ˈblʌbə(r)/ n. 鲸脂；海兽脂 v. 大声哭
+    - mutter /ˈmʌtə(r)/ v. 咕哝；(私下)抱怨，发牢骚；嘟囔；嘀咕 n. 嘀咕；嘟哝；低语声
+    - apparatus /ˌæpəˈreɪtəs/ n. 装置；仪器；(尤指政党或政府的)机构，组织，机关；器械；器官
+    - chorus /ˈkɔːrəs/ n. 副歌；歌队，合唱队；齐声，异口同声；合唱团；歌舞队；合唱曲；歌咏队；朗诵演员
+      - v. 合唱；异口同声地说；齐声说
+    - nudge /nʌdʒ/ v. 轻推；（使）达到，接近；(用肘)轻触；(朝某方向)渐渐推动；用胳膊肘挤开往前走
+      - n. (肘部的)轻推，碰
+    - adrenaline /əˈdrenəlɪn/ n. 肾上腺素(情绪激动时肾上腺分泌的一种化学物质，能加快心跳并产生更多能量)
+    - induce /ɪnˈdjuːs/ vt. 诱导；引起；导致；诱使；引产；劝说；催生
   - 71
   - 72
   - 73
