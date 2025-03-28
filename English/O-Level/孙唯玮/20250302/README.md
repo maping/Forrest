@@ -243,3 +243,15 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
   - 68 Maintaining peace and order in the neighbourhood being the priority, the police officer stayed awake for two whole nights.
   - 69 Not knowing the way to the cafe, the tourist asked the guide.
   - 70 Both courtesy and punctuality are needed to get an excellent conduct grade.
+
+- P236
+  - 71
+  - 72
+  - 73
+  - 74
+  - 75
+  - 76
+  - 77
+  - 78
+  - 79
+  - 80 
