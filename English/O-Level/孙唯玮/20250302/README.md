@@ -193,10 +193,22 @@ Long distance runners need to train to improve their endurance rather (37) **tha
     - in place 在正确的位置；适当的，适时的；在适当位置，在合适的（或常处的、原来的、指定的）位置；在原地；在工作，准备就绪；相称的；准备妥当；现存可用地，现成地
     - glue /ɡluː/ n. 胶；胶水 vt. (用胶水)粘合，粘牢，粘贴
     - sturdy /ˈstɜːdi/ adj. 结实的；坚固的；强壮的；坚定的；健壮的；顽强的；坚决的
+    - as if by magic 不可思议地
+    - canine /ˈkeɪnaɪn/ adj. 犬的；似犬的 n. (人或动物的)犬齿；犬
+    - stealthily adv. 偷偷地
+    - plunge /plʌndʒ/ v.（骤然或鲁莽地）陷入；暴跌，骤降，突降；（猛力）把…投入（或插入、刺进）
+    - undo /ʌnˈduː/ v. 取消，撤销；消除，取消，废止(某事的影响)；打开，解开，拆开；毁坏，破坏；
+    - stifle /ˈstaɪfl/ v. 压制；(使)窒息，无法自如地呼吸，感觉窒闷；抑制；扼杀；阻止
+    - giggle /ˈɡɪɡl/ v. 咯咯笑；(因感到有趣、窘迫或紧张而)咯咯地笑；傻笑
+      - n. 傻笑；咯咯笑；玩笑；趣事；止不住的咯咯笑；可笑的事
+    - eerie /ˈɪəri/ adj. 怪异的；诡异的；恐怖的；神秘的
+    - in defeat 处于失败状态中，但其内涵超越了单纯的“失败结果”，更侧重于失败发生时的即时反应与后续应对
+      - She smiled in defeat， acknowledging her opponent’s superior strategy.
+    - stand a chance 有机会；有可能,有希望
   - 51
   - 52
   - 53
-  - 54
+  - 54 unfold 怎么想到的？👍
   - 55
   - 56
   - 57
@@ -206,20 +218,20 @@ Long distance runners need to train to improve their endurance rather (37) **tha
   - 61
   - 62
   - 63
-  - 64
+  - 64 ❌
   - 65 
 
 Marcos flapped his wings anxiously. It was a long way (51) **down** to the beach. Everything was in place. The feathers were glued on pretty well. The wooden stunts were sturdy. But could he fly?
 
-"Go on," said Jing Hui. "There's only one (52) way to know." Dino barked noisily and ran around their legs, waiting (53) for the fun to begin. As if by magic, the canine stopped 'playing' and moved stealthily to the side, waiting patiently for whatever drama was going to (54) happen.
+"Go on," said Jing Hui. "There's only one (52) **way** to know." Dino barked noisily and ran around their legs, waiting (53) **for** the fun to begin. As if by magic, the canine stopped 'playing' and moved stealthily to the side, waiting patiently for whatever drama was going to (54) **happen**.
 
-"It's all right for you," said Marcos. "You're not going for the competition." Suddenly he ran towards the edge of the stone wall facing the waters and jumped. He plunged into mid air and flapped his arms furiously. Ponic (55) clenched his face. He flapped (56) even harder. "No!" he yelled.
+"It's all right for you," said Marcos. "You're not going for the competition." Suddenly he ran towards the edge of the stone wall facing the waters and jumped. He plunged into mid air and flapped his arms furiously. Panic (55) **twisted** his face. He flapped (56) **even** harder. "No!" he yelled.
 
-He plunged down, rolled (57) over in the sand and lay still. Jing Hui ran down to meet him. "Are you alright?" he hollered. Marcos lifted up a sandy face, spat out some granules of sand and nodded. He undid both (58) wings and very calmly and consciously left (59) them on the sand.
+He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran down to meet him. "Are you alright?" he hollered. Marcos lifted up a sandy face, spat out some granules of sand and nodded. He undid both (58) **wings** and very calmly and consciously left (59) **them** on the sand.
 
-"I'll never work," said Jing Hui. "You'll never win the Flyboy competition like that. You can't jump off the (60) edge of a jetty in those. You'll just drop (61) like a deadweight. An awfully wet deadweight," Jing Hui unsuccessfully tried to stifle a giggle. Marcos looked down at the ground as if in (62) defeat but then an almost eerie winning grin formed on his lips.
+"It'll never work," said Jing Hui. "You'll never win the Flyboy competition like that. You can't jump off the (60) **edge** of a jetty in those. You'll just drop (61) **like** a deadweight. An awfully wet deadweight," Jing Hui unsuccessfully tried to stifle a giggle. Marcos looked down at the ground as if in (62) **defeat** but then an almost eerie winning grin formed on his lips.
 
-"It doesn't (63) matter," said Marcos. "I'm going to pick up my Uncle Zohr's bang-glider this evening. A real one. You watch me fly over the waves (64) once I get that. This year my opponent Ray isn't going to win for once."
+"It doesn't (63) **matter**," said Marcos. "I'm going to pick up my Uncle Zohr's bang-glider this evening. A real one. You watch me fly over the waves (64) **once** I get that. This year my opponent Ray isn't going to win for once."
 
 "My uncle's aerodynamic and lightweight 'flyer' will beat Ray's and anybody else's entry. Nobody will stand a (65) chance!"
 
