@@ -188,6 +188,11 @@ Long distance runners need to train to improve their endurance rather (37) **tha
   - 50 ✔️
 
 - P234
+  - 单词
+    - flap /flæp/ n. 拍打；（飞行器的）襟翼；封盖；拍击；(上下或左右)振(翅)； v. 摆动；(使上下或左右)拍击；振(翅)
+    - in place 在正确的位置；适当的，适时的；在适当位置，在合适的（或常处的、原来的、指定的）位置；在原地；在工作，准备就绪；相称的；准备妥当；现存可用地，现成地
+    - glue /ɡluː/ n. 胶；胶水 vt. (用胶水)粘合，粘牢，粘贴
+    - sturdy /ˈstɜːdi/ adj. 结实的；坚固的；强壮的；坚定的；健壮的；顽强的；坚决的
   - 51
   - 52
   - 53
@@ -203,3 +208,18 @@ Long distance runners need to train to improve their endurance rather (37) **tha
   - 63
   - 64
   - 65 
+
+Marcos flapped his wings anxiously. It was a long way (51) **down** to the beach. Everything was in place. The feathers were glued on pretty well. The wooden stunts were sturdy. But could he fly?
+
+"Go on," said Jing Hui. "There's only one (52) way to know." Dino barked noisily and ran around their legs, waiting (53) for the fun to begin. As if by magic, the canine stopped 'playing' and moved stealthily to the side, waiting patiently for whatever drama was going to (54) happen.
+
+"It's all right for you," said Marcos. "You're not going for the competition." Suddenly he ran towards the edge of the stone wall facing the waters and jumped. He plunged into mid air and flapped his arms furiously. Ponic (55) clenched his face. He flapped (56) even harder. "No!" he yelled.
+
+He plunged down, rolled (57) over in the sand and lay still. Jing Hui ran down to meet him. "Are you alright?" he hollered. Marcos lifted up a sandy face, spat out some granules of sand and nodded. He undid both (58) wings and very calmly and consciously left (59) them on the sand.
+
+"I'll never work," said Jing Hui. "You'll never win the Flyboy competition like that. You can't jump off the (60) edge of a jetty in those. You'll just drop (61) like a deadweight. An awfully wet deadweight," Jing Hui unsuccessfully tried to stifle a giggle. Marcos looked down at the ground as if in (62) defeat but then an almost eerie winning grin formed on his lips.
+
+"It doesn't (63) matter," said Marcos. "I'm going to pick up my Uncle Zohr's bang-glider this evening. A real one. You watch me fly over the waves (64) once I get that. This year my opponent Ray isn't going to win for once."
+
+"My uncle's aerodynamic and lightweight 'flyer' will beat Ray's and anybody else's entry. Nobody will stand a (65) chance!"
+
