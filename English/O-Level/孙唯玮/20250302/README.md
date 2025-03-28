@@ -157,12 +157,13 @@ Printing presses are electronic and automated, and can print much faster than be
   - 30
   - 31 in 比较合适
   - 32
-  - 33 at 比较合适
+  - 33 at 比较合适，这时可以知道 29 是 over
   - 34
   - 35
   - 36
   - 37
-  - 38 ❌ 
+  - 38 ❌ 没有 pace on 这个词组
+    - pace oneself 悠着点，那你的节奏来 
 
 Track events decide the best competitor (29) **over** a certain distance. Field events test the competitor's ability to throw (30) **and** or jump the furthest or the highest.
 
