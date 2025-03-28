@@ -233,5 +233,5 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
 
 "It doesn't (63) **matter**," said Marcos. "I'm going to pick up my Uncle Zohr's bang-glider this evening. A real one. You watch me fly over the waves (64) **once** I get that. This year my opponent Ray isn't going to win for once."
 
-"My uncle's aerodynamic and lightweight 'flyer' will beat Ray's and anybody else's entry. Nobody will stand a (65) chance!"
+"My uncle's aerodynamic and lightweight 'flyer' will beat Ray's and anybody else's entry. Nobody will stand a (65) **chance**!"
 
