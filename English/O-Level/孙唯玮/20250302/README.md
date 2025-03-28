@@ -235,3 +235,11 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
 
 "My uncle's aerodynamic and lightweight 'flyer' will beat Ray's and anybody else's entry. Nobody will stand a (65) **chance**!"
 
+- P235
+  - 66 ❌
+    - No sooner had Mrs. Ang drunk her tea than the waitress offered to refill her cup.
+    - 结构：no sooner had + 主语 + 过去分词 + than + 主语 + 过去时态动词。这种结构强调第一个动作刚刚完成，第二个动作就发生了。 
+  - 67 The sight of his neighbour's house on fire shocked Willy.
+  - 68 Maintaining peace and order in the neighbourhood being the priority, the police officer stayed awake for two whole nights.
+  - 69 Not knowing the way to the cafe, the tourist asked the guide.
+  - 70 Both courtesy and punctuality are needed to get an excellent conduct grade.
