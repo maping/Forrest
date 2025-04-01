@@ -302,10 +302,10 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
       - False
       - Leon intentionally cut the ropes embedded in the blubber, saying, "I shoved my knife in and began cutting."
   - 79
-    - 
+    - 1
       - The whale might have been attacking or threatening the divers in retaliation or confusion.
       - The whale came up from below and rushed straight at Leon.
-    -
+    - 2
       - The whale was expressing gratitude or gentle interaction, possibly acknowledging the divers' help.
       - The whale stopped about thirty centimetres from Leon's chest, nudged him, then turned away and did the same to Ken.
   - 80 
