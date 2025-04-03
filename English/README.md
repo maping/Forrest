@@ -38,8 +38,7 @@ AP课程全称Advanced Placement，中文译为大学先修课程，是由美国
 　　· AP Capstone：研讨（AP Seminar）和研究（AP Research）
 ## IBDP
 
-# PSLE -> O-Level -> A-Level 
-新加坡政府体系的三个重要考试：
+# 新加坡政府教育体系：PSLE -> O-Level -> A-Level 
 - PSLE（Primary School Leaving Examination）小六离校考试，相当于中国的小升初
   - 新加坡小学六年级学生的关键学术评估。这场考试涵盖四个科目：英语、母语（如中文、马来语或泰米尔语）、数学和科学
 - O-Level（Ordinary Level Examination）相当于中国的中考
