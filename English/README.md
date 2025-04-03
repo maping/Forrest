@@ -48,7 +48,7 @@
 # [IGCSE 考试大纲](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/)
 
 ## 参考
-- [为什么新加坡学生申请牛津剑桥录取率最高？](https://www.bilibili.com/video/BV12V411s73K/)
+- [哪个海外国家学生申请牛津剑桥录取率最高？](https://www.bilibili.com/video/BV12V411s73K/)
 - [A-level、AP、IB三大课程体系到底如何选？](https://www.bilibili.com/video/BV1Ab4y1k7GN/)
 - [A-level、AP、IB三大课程体系应该怎么选？](https://baike.baidu.com/item/A-Level/1600533)
 - [各国口音的听力材料](https://elllo.org/archive/)
