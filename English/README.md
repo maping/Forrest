@@ -16,26 +16,17 @@
   - 考试时间通常为每年的5-6月和10-11月，成绩分别在8月和次年2月公布
   - 成绩采用等级制，从高到低为 A*-U，学生可以根据模块化考试逐步提升成绩
 
-## AP
-AP课程全称Advanced Placement，中文译为大学先修课程，是由美国大学理事会（College Board）提供的在高中阶段开设的具有大学水平的课程。AP课程的宗旨是为优秀的高中生提供高质量的学术课程，帮助为大学学习做好准备。
+## AP（Advanced Placement）
+- 由美国大学理事会（College Board）提供的在高中阶段开设的具有大学水平的课程。其宗旨是为优秀的高中生提供高质量的学术课程，帮助为大学学习做好准备。
+- AP 课程共有38门，涵盖七大类学科：
+  - 艺术类：艺术史、音乐理论、艺术创作
+  - 英语写作和文学：英语语言和写作、英语文学和写作
+  - 历史和社会科学类：对比政府和政治、欧洲历史、人文地理、宏观经济学、微观经济学、心理学、美国政府和政治、美国历史、世界历史
+  - 科学类：生物、化学、物理1、物理2、物理C：电和磁学、物理C：力学、环境科学
+  - 数学和计算机：微积分、微积分BC、统计学、计算机科学A、计算机原理
+  - 世界语言和文化：汉语语言和文化、法语语言和文化、德语语言和文化、意大利语言和文化、日本语言和文化、拉丁文、西班牙语言和文化、西班牙文学和文化
+  - AP Capstone：研讨（AP Seminar）和研究（AP Research）
 
-　　AP课程的分类
-
-　　目前，AP课程共有38门，涵盖七大类学科：
-
-　　· 艺术类：艺术史、音乐理论、艺术创作
-
-　　· 英语写作和文学：英语语言和写作、英语文学和写作
-
-　　· 历史和社会科学类：对比政府和政治、欧洲历史、人文地理、宏观经济学、微观经济学、心理学、美国政府和政治、美国历史、世界历史
-
-　　· 科学类：生物、化学、物理1、物理2、物理C：电和磁学、物理C：力学、环境科学
-
-　　· 数学和计算机：微积分、微积分BC、统计学、计算机科学A、计算机原理
-
-　　· 世界语言和文化：汉语语言和文化、法语语言和文化、德语语言和文化、意大利语言和文化、日本语言和文化、拉丁文、西班牙语言和文化、西班牙文学和文化
-
-　　· AP Capstone：研讨（AP Seminar）和研究（AP Research）
 ## IBDP
 
 # 新加坡政府教育体系：PSLE -> O-Level -> A-Level 
@@ -56,6 +47,7 @@ AP课程全称Advanced Placement，中文译为大学先修课程，是由美国
 # [IGCSE 考试大纲](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/)
 
 ## 参考
-- [A-level, AP或者IB三大体系到底如何选？](https://www.bilibili.com/video/BV1Ab4y1k7GN/)
+- [A-level、AP、IB三大课程体系到底如何选？](https://www.bilibili.com/video/BV1Ab4y1k7GN/)
+- [A-level、AP、IB三大课程体系应该怎么选？](https://baike.baidu.com/item/A-Level/1600533)
 - [各国口音的听力材料](https://elllo.org/archive/)
 - [Youtube 包含关键词的视频](https://youglish.com/)
