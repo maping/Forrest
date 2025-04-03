@@ -71,6 +71,33 @@
     - 获得45分的学生往往被牛津、剑桥、常春藤等顶尖大学优先录取，部分院校还会给予学分减免或奖学金。
   - 此外，IBDP 还要求学生在两年内完成150个小时的社会实践活动。
 
+
+
+# IGCSE（International General Certificate of Secondary Education）
+- IGCSE 的中文全称是“国际普通初级中学毕业文凭”，由剑桥国际考试局（CIE，剑桥大学国际考试中心的前称）于1988年开发。
+- 它是目前全球认可度极高的初高中阶段国际课程过渡体系之一。
+- IGCSE 课程通常被国际学校设计为一年制或两年制，作为 IB 或 A-Level 课程的衔接课程，主要面向 14-16岁 的学生 相当于中国的初三和高一的课程内容。
+- IGCSE课程的证书广受认可，凡是以英语为主要语言的国家和地区，几乎都会接受该资格认证。
+- 对于有志进入英国大学，尤其是剑桥大学、牛津大学等顶尖学府的学生来说，IGCSE 成绩是申请的重要参考指标之一，其权威性和含金量毋庸置疑。
+- IGCSE 课程内容和结构
+  - IGCSE 有70多个科目供学生选择，其中有30多门语言类学科。
+  - 通常要求学生至少选修5门课程，其中包括必修科目和自己感兴趣的选修科目。每个科目按照难度又分为Core（核心课程）和Extended（扩展课程）。
+  - 必修课：英语，数学，科学。
+    - 英文按照难度细分为: 第一语言，第二语言以及英国文学
+      - 在国际学校学习时间超过3年的孩子都会把英文作为第一语言来学习。更有70% 的孩子水平可以达到学习英国文学的水平。
+    - 数学按照难度细分为：普通数学和高等数学
+      - 只有5%的孩子能够达到学高等数学的要求。
+    - 科学包含物、化、生三门，这三门中学生必须选一科进行学习。
+  - 选修课：分为7个大类：语言类，人文社科类，科学类，数学类，全球文学人文类，经济艺术类
+    - 语言类：汉语、法语、德语、意大利语、日语、西班牙语
+    - 人文和社科类：地理、历史、部分中东国家研究、宗教研究
+    - 科学类：农业、生物、化学、环境管理、物理
+    - 数学类：数学、国际数学等
+    - 全球文学人文类：全球视角社会
+    - 经济艺术类: 会计、经济研究、经济商务、艺术和设计、音乐、戏剧
+
+>注意：ACS International 的 IGCSE 没有计算机课程。
+
 # 新加坡政府教育体系：PSLE -> O-Level -> A-Level 
 - PSLE（Primary School Leaving Examination）小六离校考试，相当于中国的小升初
   - 新加坡小学六年级学生的关键学术评估。这场考试涵盖四个科目：英语、母语（如中文、马来语或泰米尔语）、数学和科学
@@ -86,12 +113,11 @@
   - 部分国家（如加拿大）的大学接受 O-Level英语成绩替代雅思/托福成绩。
 - A-Level（General Certificate of Education Advanced Level）相当于中国的高考
 
-# [IGCSE 考试大纲](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/)
->注意：ACS 国际 IGCSE 没有计算机课程。
-
 ## 参考
 - [哪个海外国家学生申请牛津剑桥录取率最高？](https://www.bilibili.com/video/BV12V411s73K/)
 - [A-level、AP、IB三大课程体系到底如何选？](https://www.bilibili.com/video/BV1Ab4y1k7GN/)
 - [A-level、AP、IB三大课程体系应该怎么选？](https://baike.baidu.com/item/A-Level/1600533)
+- [IGCSE 课程到底是什么?](https://mp.weixin.qq.com/s?__biz=MzUyNDMwMDE1OQ==&mid=2247551622&idx=1&sn=0b008c6570da3275288ec0e5aded5fb9&chksm=fba1ec20883c121f92e262a24e5ac62dd0517c75a981e1e0aa0420b174d15f62505ed48a9950&scene=27)
+- [IGCSE 考试大纲](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/)
 - [各国口音的听力材料](https://elllo.org/archive/)
 - [Youtube 包含关键词的视频](https://youglish.com/)
