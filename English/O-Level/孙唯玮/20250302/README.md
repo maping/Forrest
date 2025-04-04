@@ -286,7 +286,7 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
       - n. (肘部的)轻推，碰
     - adrenaline /əˈdrenəlɪn/ n. 肾上腺素(情绪激动时肾上腺分泌的一种化学物质，能加快心跳并产生更多能量)
     - induce /ɪnˈdjuːs/ vt. 诱导；引起；导致；诱使；引产；劝说；催生
-      
+    - gratify /ˈɡrætɪfaɪ/ vt. 满足(愿望、需要等)；使满意；使高兴   
   - 71 Vigilantly
   - 72 The whale was entangled in thick, strong nylon ropes called "blue steel," which were wrapped around its left pectoral fin, mouth, and head. The ropes had cut so deeply into its flesh that they were hidden in some areas. Its tail was also tightly bound by about twenty ropes, leaving it exhausted and struggling to keep its blowhole above water to breathe. Without help, it would have died from suffocation or severe injuries.
   - 73
@@ -298,6 +298,7 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
   - 75
     - The process of cutting and removing the deeply embedded ropes from the whale's mouth and head, which was painful and terrifying for the whale.
   - 76
+    - tedious /ˈtiːdiəs/ adj. 乏味的；冗长的；令人厌烦的；啰唆的 
     - The ropes were extremely thick (12mm) and strong ("blue steel"), requiring slow, careful cutting with dive knives.
     - Some ropes were deeply embedded in the whale's blubber and flesh, making them difficult to pry loose without causing further harm. 
   - 77
@@ -323,18 +324,21 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
       - The whale stopped about thirty centimetres from Leon's chest, nudged him, then turned away and did the same to Ken.
   - 80 
     - P4
+      - dismay /dɪsˈmeɪ/ n. 沮丧；惊愕；灰心；诧异；丧气 vt. 使失望；使惊愕；使诧异
+        - to one's dismay  
       - Dismayed
       - (Leon's heart sank as he saw the tangled mess and doubted they could save the whale.)
     - P7
       - Uncertain
       - (Leon was unsure how the whale would react when cutting the deeply embedded ropes.)
     - P8
-      - Satisfied
-      - (Leon felt relief and accomplishment after making the final cut and freeing the whale.)
-    - P9
+      - triumphant /traɪˈʌmfənt/ adj. 胜利的；欢欣鼓舞的；大获全胜的；耀武扬威的；巨大成功的；扬扬得意的；高奏凯歌的
+        - triumphal arch n.凯旋门 
       - Triumphant
       - (Leon celebrated with a shout of "Whoo-hoo! She's free!" and felt profound joy as the whale interacted gently with them.)
-    - Dismayed (initial hopelessness) → Uncertain (caution during delicate cutting) → Satisfied (relief after success) → Triumphant (pure joy and celebration).
+    - P9
+      - Satisfied
+    - Dismayed (initial hopelessness) → Uncertain (caution during delicate cutting) → Triumphant (pure joy and celebration) → Satisfied (relief after success)  .
     
 The two divers in snorkeling gear dropped backwards off the inflatable raft into the Pacific Ocean. Vigilantly, they swam towards the humpback whale lying exhausted in the waves. A huge flipper, about three metres long—the whale's left pectoral fin—rose up a metre away. One slap could kill a man.
 
@@ -355,5 +359,3 @@ He made the final cut and surfaced with a shout of celebration. "Whoo-hoo! She's
 The next thing he knew, she was coming up from below and straight at him. Hey! I just saved you, he thought, relief turning to anxiety as she rushed at him. The humpback stopped thirty centimeters from his chest, nudged him, then turned and did the same to Ken. Then it swam in a circle around the divers. It swam with them for a good ten minutes.
 
 Leon, who has had more than his share of adrenaline-inducing adventures, says, "I've spent twenty-six years in the military doing high-risk rescues, but nothing's more gratifying than this one. Nothing."
-
-
