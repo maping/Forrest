@@ -223,7 +223,7 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
     - Taoist /ˈdaʊɪst/ n. 道士，道教信徒 adj. 道教的
     - Buddist n. 佛教徒
     - malicious /məˈlɪʃəs/ adj. 恶意的；恶毒的
-    - undoubtedly
+    - undoubtedly /ʌnˈdaʊtɪdli/ adv. 无疑；必定；毋庸置疑地
     - eerie /ˈɪəri/ adj. 怪异的；诡异的；恐怖的；神秘的
     - haunt /hɔːnt/ vt. 困扰；(鬼魂)出没；(不快的事情)萦绕于脑际，难以忘却；长期不断地缠扰(某人)
       - n. 常去的场所；消磨时光的去处
@@ -239,6 +239,7 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
     - laundry /ˈlɔːndri/ n. 洗衣房；洗衣店；洗衣物；要(或正在)洗的衣物；刚洗好的衣物；洗衣物的活
   - 第四段单词
     - sprain /spreɪn/ vt. 扭伤(关节) n. 扭伤
+    - Canadian /kəˈneɪdiən/ n. 加拿大人 adj. 加拿大的
     - cascading /kæˈskeɪdɪŋ/ v. 倾泻；流注；大量落下；大量垂悬
     - urine /ˈjʊərɪn/ n. 尿；小便
     - excrement /ˈekskrɪmənt/ n. 粪便；排泄物
@@ -255,8 +256,11 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
     - backdrop /ˈbækdrɒp/ n. (事态或活动的)背景；(舞台的)背景幕布；(事件发生时)周围陪衬景物
     - picturesque /ˌpɪktʃəˈresk/ adj. 优美的；生动的；栩栩如生的；古色古香的；古雅的
     - all of a sudden 突然地，出乎意料地
-  - 分析最后一句话的主谓宾
 
+   - 分析主谓宾
+    - The gloom was exacerbated by the superstitious fears Mother passed on to us.
+    - The veil that had prevented me from noticing the beauty that had been there all the time fell away.
+      
   - 答案解析  
     - 71
       - The phrase which tells you that the house was too small for the writer's family is "The tiny collection of rooms inside could scarcely contain all our family." 
