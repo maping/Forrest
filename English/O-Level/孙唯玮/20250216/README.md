@@ -201,7 +201,8 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
     - outskirts /ˈaʊtskɜːts/ n. 郊区；市郊；(市镇的)边缘地带
       - suburbs‌：通常指城市中心（urban section）外围的住宅区，距离市中心较近，人口密度较低，环境较好，多为独栋住宅。
       ‌- outskirts‌：指城市与乡村的交界区域，距离市中心更远，通常不强调具体功能，而是强调位置。
-    - corrugate adj. 起皱的；波状的 v. （使某物）起皱褶；加工成波纹（瓦垅）板 n. 皱；车辙；沟
+    - stilt /stɪlt/ n. 高跷；(支撑建筑物高出地面或水面的)桩子，支柱
+    - corrugate /ˈkɒrəɡeɪtɪd/ adj. 起皱的；波状的 v. （使某物）起皱褶；加工成波纹（瓦垅）板 n. 皱；车辙；沟
     - zinc /zɪŋk/ n. 锌；(非洲某些地方用于搭建屋顶、棚子等的)波纹铁板，瓦楞铁板
       - vt. 镀锌于…；在…上镀锌
     - scarcely /ˈskeəsli/ adv. 几乎不；刚；简直不；勉强；(表示接连发生)刚一…就；根本不可能；实在不应该
