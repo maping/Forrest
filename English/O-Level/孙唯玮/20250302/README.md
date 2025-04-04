@@ -252,7 +252,7 @@ He plunged down, rolled (57) **over** in the sand and lay still. Jing Hui ran do
     - pectoral /ˈpektərəl/ adj. 胸的；胸部的 n. 胸肌
     - slap /slæp/ v. （用手掌）打，拍，掴；掴，拍打；
     - nylon /ˈnaɪlɒn/ n. 尼龙；(女用)尼龙长袜，尼龙连裤袜
-    - wind /wɪnd , waɪnd/ n. 风；气流；(运动或吹奏乐器时的)呼吸；（管弦乐团的）管乐器，管乐器组；胃气；肠气；(随食物或饮料)吞下的气
+    - wind /wɪnd , waɪnd/ n. 风；气流；(运动或吹奏乐器时的)呼吸；
       - v. 卷绕，倒（磁带、胶卷等）；缠绕
     - slice /slaɪs/ n. 片；(切下的食物)薄片；部分；份额；削球；锅铲；(餐桌用)小铲
       - v. 切；把…切成(薄)片；削(球)；割；划；斜切打；大幅度削减；（无意中）打出弧线球
