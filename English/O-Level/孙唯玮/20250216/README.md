@@ -205,6 +205,8 @@ Officially, Lemieu finished in the eleventh (64) in the tournament, but Internat
     - corrugate /ˈkɒrəɡeɪtɪd/ adj. 起皱的；波状的 v. （使某物）起皱褶；加工成波纹（瓦垅）板 n. 皱；车辙；沟
     - zinc /zɪŋk/ n. 锌；(非洲某些地方用于搭建屋顶、棚子等的)波纹铁板，瓦楞铁板
       - vt. 镀锌于…；在…上镀锌
+    - scorch /skɔːtʃ/ v. 烧焦；烤焦(物体表面)；(使)枯黄，枯萎(尤指因曝晒或化学品的作用)；(把…)烫坏，烧煳；飞驰；疾驰
+      - n. 烧焦；(汽车等的)高速疾驰
     - scarcely /ˈskeəsli/ adv. 几乎不；刚；简直不；勉强；(表示接连发生)刚一…就；根本不可能；实在不应该
   - 第二段单词
     - perpetual /pəˈpetʃuəl/ adj. 永恒的，永久的；终身的，永久的；不间断的，持续的，长久的；一再反复的，无尽无休的，没完没了的；终年开花的，四季开花的；（投资）永不还本的
