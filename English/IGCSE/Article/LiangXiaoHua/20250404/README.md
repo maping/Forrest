@@ -52,9 +52,13 @@ Forrest还是把第一段的背景想复杂了。Forrest记住这些万能的思
 
 【课后作业】
 1 -> 作文 (advertisement)
+
 2 -> IGCSE ESL summary
+
 3 -> Vocabulary Quiz (补)
+
 4 -> 重新整理上次作业的作文
+
 *修改开头，补全background + personal opinion
 *第三段内容改成“支持素食”
 *结尾根据前三段内容改
