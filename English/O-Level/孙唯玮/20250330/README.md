@@ -20,7 +20,18 @@
     - barricaded /ˌbærɪˈkeɪdɪd/ v. 阻挡；设路障防护 adj. 设置路障的
     - disqualified /dɪsˈkwɒlɪfaɪd/ v. 使不合格；取消(某人)的资格；使不适合 adj. 不合格的；被取消资格的
 - P177
+  - 单词
+    - set aside 放弃（信仰、原则或情感）；留出…用于；留作…之用；置…于不顾
+    - statesman /ˈsteɪtsmən/ n. 政治家
+    - Calcutta /kælˈkʌtə/ n. 加尔各答；加尔各答，印度东北部的港市
   - 16
+    - dismayed /dɪsˈmeɪd/ v. 使失望；使惊愕；使诧异
+      - adj. 担心的；失望的
+    - distracted /dɪˈstræktɪd/ adj. 心烦意乱；注意力分散的；思想不集中的
+      - v. 分散(思想)；使分心；转移(注意力)
+    - dishevelled /dɪˈʃevld/ adj. 凌乱的；衣冠不整的；不整洁的
+    - disillusioned /ˌdɪsɪˈluːʒnd/ adj. 幻想破灭的；大失所望的；不再抱幻想的
+      - v. 使醒悟；使理想破灭；使不再抱幻想
   - 17
   - 18
   - 19
