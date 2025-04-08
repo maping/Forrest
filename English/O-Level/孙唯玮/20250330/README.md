@@ -25,6 +25,7 @@
     - statesman /ˈsteɪtsmən/ n. 政治家
     - Calcutta /kælˈkʌtə/ n. 加尔各答；加尔各答，印度东北部的港市
   - 16
+  - 17
     - dismayed /dɪsˈmeɪd/ v. 使失望；使惊愕；使诧异
       - adj. 担心的；失望的
     - distracted /dɪˈstræktɪd/ adj. 心烦意乱；注意力分散的；思想不集中的
@@ -32,7 +33,16 @@
     - dishevelled /dɪˈʃevld/ adj. 凌乱的；衣冠不整的；不整洁的
     - disillusioned /ˌdɪsɪˈluːʒnd/ adj. 幻想破灭的；大失所望的；不再抱幻想的
       - v. 使醒悟；使理想破灭；使不再抱幻想
-  - 17
   - 18
   - 19
-  - 20 
+    - allocate
+    - reserve
+    - preserve
+    - consecrate /ˈkɒnsɪkreɪt/ vt. 为……祝圣；给（某人）祝圣，使就圣职；（尤指为宗教而）奉献，献身；（通过宗教仪式）将（某地、某物）奉为神圣
+      - adj. 供…专用
+  - 20
+    - barely /ˈbeəli/ adv. 仅仅；几乎没有；几乎不；刚刚；刚好；
+    - virtually /ˈvɜːtʃuəli/ adv. 实际上；几乎；虚拟；模拟；事实上；差不多；以模拟现实技术
+    - scarcely /ˈskeəsli/ adv. 几乎不；刚；简直不；勉强；(表示接连发生)刚一…就；根本不可能；实在不应该
+    - approximately /əˈprɒksɪmətli/ adv. 大概；大约；约莫
+
