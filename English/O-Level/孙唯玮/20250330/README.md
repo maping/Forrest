@@ -153,6 +153,16 @@ He has been winning major (59) **awards** since he was a teenager and now excels
         - The house will not be yours till after your mother's decease
       - perish : 书面用词，多指夭折或不幸暴亡。
         - Three hundred people perished in the earthquake.
+    - 第二段单词
+      - monsoon /ˌmɒnˈsuːn/ n. 季风
+      - snowslide /ˈsnəʊslaɪd/ n. 雪崩
+      - sustain /səˈsteɪn/ v. 维持，保持；为……提供食物（或生计）
+      - ridge /rɪdʒ/ n. 山脊；脊；隆起；
+      - fridge /frɪdʒ/ n. 冰箱
+      - clip /klɪp/ n. 夹子；修剪；(金属或塑料的)回形针；电影片段；剪短；（用手）猛击，抽打；子弹夹；首饰别针
+        - v. 修剪；剪(掉)；夹住；被夹住；剪下；碰撞(某物的边缘或侧面)；别住
+      - harness /ˈhɑːnɪs/ n. 马具；挽具；(用于人，起固定或保护作用的)背带，保护带
+        - vt. 控制，利用(以产生能量等)；给(马等)上挽具；用挽具把…套到…上
   - 71
   - 72
   - 73
