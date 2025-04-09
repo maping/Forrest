@@ -149,8 +149,10 @@ He has been winning major (59) **awards** since he was a teenager and now excels
         - death: n. 死亡
         - dying: adj. 垂死的；临终的；临死的；
         - He is afraid of death vs He is afraid of dying
-      - 
- 
+      - decease: 正式用词，多指法律上的用语。
+        - The house will not be yours till after your mother's decease
+      - perish : 书面用词，多指夭折或不幸暴亡。
+        - Three hundred people perished in the earthquake.
   - 71
   - 72
   - 73
