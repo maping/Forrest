@@ -122,7 +122,7 @@ He has been winning major (59) **awards** since he was a teenager and now excels
     - 作动词 可以直接接 sth. 或者 fear for 对....担心 I fear for his safety.
  
 - P186-189
-  - 单词
+  - 第一段单词
     - whirling /ˈwɜːlɪŋ/ v. (使)旋转，回旋，打转；(头脑、思想等)混乱不清，激动，恍惚 n. 旋转
     - mountain face n. 山坡，山壁
     - haul /hɔːl/ vt. 拖；(用力)拽；使某人出庭受审；用力缓慢挪动到(某处)；强迫(某人)去某处
@@ -134,6 +134,13 @@ He has been winning major (59) **awards** since he was a teenager and now excels
       - haul : 指用力拖或拉，不涉及方向
       - tug : 多指一阵阵地用力拖或拉，但不一定使被拉的人或物移动。
       - tow : 特指用绳子或链条等拖或拉本身无动力或无法使用自身动力的东西。
+    - spiked boots
+    - plunge /plʌndʒ/
+      - v. （骤然或鲁莽地）陷入；暴跌，骤降，突降；（猛力）把…投入（或插入、刺进）；一头进入；陡峭地向下倾斜；
+      - n. （价格、数量的）暴跌，猛降，骤减；跳水，投身入水；卷入，参与；阵雨；突然跌落，突然分离；开始从事，突然的开始
+    - solo /ˈsəʊləʊ/ n. 独奏；独唱；单飞；独舞；单人表演
+      - adj. 独奏的；独唱的；独自的；单独的
+      - adv. 单独地，独自地
   - 71
   - 72
   - 73
