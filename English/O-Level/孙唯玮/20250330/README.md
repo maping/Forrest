@@ -116,4 +116,8 @@ He has been winning major (59) **awards** since he was a teenager and now excels
 
 "It's great to travel the (64) **world** to perform. That's an excellent perk," he said. "Meeting (65) **fans** and checking out places like the Night Safari at the Singapore Zoological Gardens, now that's the real pleasure," he added. A musical titan he may be, but it is evident that this virtuoso is still young at heart.
 
+- P185
+  - fear /fɪə(r)/ n. 害怕；担忧；惧怕 v. 担心；害怕；担忧；惧怕；畏惧；(引出不好的事情)恐怕
+    - 作名词 fear of 对...的害怕，her fear of spiders is irrational.
+    - 作动词 可以直接接 sth. 或者 fear for 对....担心 I fear for his safety.
  
