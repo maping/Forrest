@@ -141,6 +141,16 @@ He has been winning major (59) **awards** since he was a teenager and now excels
     - solo /ˈsəʊləʊ/ n. 独奏；独唱；单飞；独舞；单人表演
       - adj. 独奏的；独唱的；独自的；单独的
       - adv. 单独地，独自地
+    - scale v. 攀登
+    - perish /ˈperɪʃ/ v. 死亡；毁灭；丧失；(使橡胶等)老化，脆裂；湮灭；暴死
+    - 复习一下：死亡有哪些单词
+      - die : v. 最普通用词，指某人或某物失去生命而永远不存在。
+        - dead：adj. 意思是“死亡的，无生命的”表示状态
+        - death: n. 死亡
+        - dying: adj. 垂死的；临终的；临死的；
+        - He is afraid of death vs He is afraid of dying
+      - 
+ 
   - 71
   - 72
   - 73
