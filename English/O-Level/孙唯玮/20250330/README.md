@@ -72,4 +72,35 @@ On the other hand, the ancient Greek musicians (35) **had** scales and a form of
 
 In 16th century England, there were already orchestras which were (37) **even** more on par with modern ones. The first operas, performed in 17th century Italy, had singers accompanied by small orchestras of mixed musical instruments—though probably half (38) **were** viols, the ancestors of modern stringed instruments.
 
+- P183
+  - 43 restricted 不知道，不应该啊
 
+- P184
+  - 51 ❌
+    - snooze /snuːz/ vi. (尤指在白天)小睡，打盹 n. 小睡 
+  - 52 ❌
+  - 53
+  - 54 ❌
+  - 55 ❌
+  - 56 ❌
+  - 57
+  - 58 ❌
+  - 59
+  - 60 ❌
+  - 61 ❌
+  - 62
+  - 63 ❌
+  - 64
+  - 65 
+
+At four, American drummer Aaron Branson Jr. was already banging the drums at his musician father's jam sessions. "Or I'd be snoozing in guitar cases during the sessions," the 21-year-old drummer said in an (51) **interview** with a local reporter lately.
+
+The California native was in (52) town to perform at the Singapore Drum Fest 2013 (53) held at the Suntec International Convention and Exhibition Centre. Billed as the first (54) international drum festival in Asia, it featured a drum performance that (55) lasted eight hours every day.
+
+(56) Besides Branson, also slated to perform were other celebrated (57) drummers and homegrown percussionist Jimmy Lee. Nonetheless, Branson was indisputably one of the festival's major (58) attractions, performing with his trademark—blazing hand movements and foot speed.
+
+He has been winning major (59) awards since he was a teenager and now excels at several musical genres—funk, rock, rhythm and blues as (60) well as jazz, and has (61) collaborated with musical greats like Billy Cobham, Sheila E. and Branford Marsalis. But for (62) someone who has achieved much at a young age, Branson seems unfazed by his (63) fame.
+
+"It's great to travel the (64) world to perform. That's an excellent perk," he said. "Meeting (65) people and checking out places like the Night Safari at the Singapore Zoological Gardens, now that's the real pleasure," he added. A musical titan he may be, but it is evident that this virtuoso is still young at heart.
+
+ 
