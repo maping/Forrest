@@ -81,26 +81,39 @@ In 16th century England, there were already orchestras which were (37) **even** 
   - 52 ❌
   - 53
   - 54 ❌
+    - bill /bɪl/
+      - n. (餐馆的)账单；(提交议会讨论的)议案，法案；海报；鸟嘴；（剧院等的）节目单；有…形喙的
+      - vt. 给(某人)开账单，发账单(要求付款)；把(某人或事物)宣传为…；宣布…将做某事 
   - 55 ❌
   - 56 ❌
+    - slate /sleɪt/ vt. 计划；预定；安排；选定
+    - celebrated /ˈselɪbreɪtɪd/ adj. 著名的；闻名的；驰名的
+    - percussionist /pəˈkʌʃənɪst/ n. 打击乐手；打击乐器演奏员
   - 57
   - 58 ❌
+    - Whiplash /ˈwɪplæʃ/ 鞭子；爆裂鼓手 
   - 59
+    - genres /ˈ(d)ʒɑːŋrəz/ n. (文学、艺术、电影或音乐的)体裁，类型
   - 60 ❌
   - 61 ❌
   - 62
   - 63 ❌
+    - unfazed /ʌnˈfeɪzd/ adj. 未受干扰；不觉担忧 
   - 64
-  - 65 
+    - perk /pɜːk/ n. 额外待遇；(工资之外的)补贴；津贴 v. 使振作；竖起；打扮 
+  - 65
+    - titan n. 泰坦；巨人；提坦；太阳神
+    - virtuoso /ˌvɜːtʃuˈəʊsəʊ/ n. 大师；(尤指)演奏家；技艺超群的人
+      - adj. 技艺精湛的；技巧超群的
 
 At four, American drummer Aaron Branson Jr. was already banging the drums at his musician father's jam sessions. "Or I'd be snoozing in guitar cases during the sessions," the 21-year-old drummer said in an (51) **interview** with a local reporter lately.
 
-The California native was in (52) town to perform at the Singapore Drum Fest 2013 (53) held at the Suntec International Convention and Exhibition Centre. Billed as the first (54) international drum festival in Asia, it featured a drum performance that (55) lasted eight hours every day.
+The California native was in (52) **town** to perform at the Singapore Drum Fest 2013 (53) **held** at the Suntec International Convention and Exhibition Centre. Billed as the first (54) **international** drum festival in Asia, it featured a drum performance that (55) **lasted** eight hours every day.
 
-(56) Besides Branson, also slated to perform were other celebrated (57) drummers and homegrown percussionist Jimmy Lee. Nonetheless, Branson was indisputably one of the festival's major (58) attractions, performing with his trademark—blazing hand movements and foot speed.
+(56) **Besides** Branson, also slated to perform were other celebrated (57) **drummers** and homegrown percussionist Jimmy Lee. Nonetheless, Branson was indisputably one of the festival's major (58) **attractions**, performing with his trademark——blazing hand movements and foot speed.
 
-He has been winning major (59) awards since he was a teenager and now excels at several musical genres—funk, rock, rhythm and blues as (60) well as jazz, and has (61) collaborated with musical greats like Billy Cobham, Sheila E. and Branford Marsalis. But for (62) someone who has achieved much at a young age, Branson seems unfazed by his (63) fame.
+He has been winning major (59) **awards** since he was a teenager and now excels at several musical genres——funk, rock, rhythm and blues as (60) **well** as jazz, and has (61) **collaborated** with musical greats like Billy Cobham, Sheila E. and Branford Marsalis. But for (62) **himself** who has achieved much at a young age, Branson seems unfazed by his (63) **fame**.
 
-"It's great to travel the (64) world to perform. That's an excellent perk," he said. "Meeting (65) people and checking out places like the Night Safari at the Singapore Zoological Gardens, now that's the real pleasure," he added. A musical titan he may be, but it is evident that this virtuoso is still young at heart.
+"It's great to travel the (64) **world** to perform. That's an excellent perk," he said. "Meeting (65) **fans** and checking out places like the Night Safari at the Singapore Zoological Gardens, now that's the real pleasure," he added. A musical titan he may be, but it is evident that this virtuoso is still young at heart.
 
  
