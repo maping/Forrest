@@ -121,3 +121,14 @@ He has been winning major (59) **awards** since he was a teenager and now excels
     - 作名词 fear of 对...的害怕，her fear of spiders is irrational.
     - 作动词 可以直接接 sth. 或者 fear for 对....担心 I fear for his safety.
  
+- P186-189
+  - 71
+  - 72
+  - 73
+  - 74
+  - 75
+  - 76
+  - 77
+  - 78
+  - 79
+  - 80 
