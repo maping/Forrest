@@ -184,6 +184,12 @@ He has been winning major (59) **awards** since he was a teenager and now excels
     - ease /iːz/ v. 缓解；减轻；缓和；降低；(使)宽慰；使…容易些；(使)小心缓缓地移动
       - n. 容易；自在；舒适；安逸；轻易；无忧无虑；不费劲
     - pendulum /ˈpendjələm/ n. 钟摆
+  - 第五段单词
+    - hover /ˈhɒvə(r)/ v. （使）（直升机等）悬停；（鸟等）翱翔，盘旋；n. 盘旋；徘徊，犹豫；翱翔；差停
+    - cockpit /ˈkɒkpɪt/ n. 驾驶舱；(飞机、船或赛车的)驾驶座
+    - ease /iːz/ v. 缓解；减轻；缓和；降低；(使)宽慰；使…容易些；(使)小心缓缓地移动
+      - n. 容易；自在；舒适；安逸；轻易；无忧无虑；不费劲
+    - pendulum /ˈpendjələm/ n. 钟摆
   - 71
   - 72
   - 73
