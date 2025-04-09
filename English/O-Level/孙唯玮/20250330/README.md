@@ -45,4 +45,31 @@
     - virtually /ˈvɜːtʃuəli/ adv. 实际上；几乎；虚拟；模拟；事实上；差不多；以模拟现实技术
     - scarcely /ˈskeəsli/ adv. 几乎不；刚；简直不；勉强；(表示接连发生)刚一…就；根本不可能；实在不应该
     - approximately /əˈprɒksɪmətli/ adv. 大概；大约；约莫
+- P178-181
+  - 22
+- P182
+  - 29
+  - 30 ❌ as，表示轻度原因
+  - 31
+  - 32
+  - 33
+  - 34 ❌
+    - accompany to sth 伴随，陪同，陪伴，为…伴奏，与…同时发生 
+  - 35
+    - scale 音阶
+    - notation /nəʊˈteɪʃn/ n. 符号；(数学、科学和音乐中的)记号；谱号 
+  - 36 ❌
+  - 37 ❌
+    - par /pɑː(r)/ n. 标准（尤指某人的工作或健康）水准； 
+  - 38 ❌
+    - viol /ˈvaɪəl/ n. 维奥尔琴(一种早期的拉弦乐器)
+
+An orchestra is a group of musicians, playing instruments of diverse types and comprising almost (29) **any** number of people.
+
+The ancient Egyptians probably had orchestras of a sort, (30) **as** there is verification of primitive stringed instruments and drums (31) which were used by musicians playing together. (32) **However**, they had no means of writing (33) **down** their music, so it must have been simply used as accompaniment (34) **to** dancing or story-telling.
+
+On the other hand, the ancient Greek musicians (35) **had** scales and a form of musical notation. Tunes were composed by musicians playing jointly, and so they had a type of orchestra (36) **more** like the ones we know today.
+
+In 16th century England, there were already orchestras which were (37) **even** more on par with modern ones. The first operas, performed in 17th century Italy, had singers accompanied by small orchestras of mixed musical instruments—though probably half (38) **were** viols, the ancestors of modern stringed instruments.
+
 
