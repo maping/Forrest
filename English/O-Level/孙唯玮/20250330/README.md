@@ -144,3 +144,18 @@ He has been winning major (59) **awards** since he was a teenager and now excels
   - 78
   - 79
   - 80 
+
+With snow whirling around him, Kenny drove two ice axes into the frozen mountain face. Slowly, he hauled himself another 25 centimetres. Beneath his spiked boots, a wall of ice and rock plunged almost four kilometres straight down. He still had about one kilometre to climb to the summit. Kenny was on a solo attempt to scale the world’s highest vertical rock wall. Many had perished on the 8,125 metre Nanga Parbat, thus it was known as the Killer Mountain.
+
+Despite the cold, a warm monsoon wind was melting the ice. With snowslides coming down every few minutes, Kenny knew he could not sustain long and needed to find shelter. He reached a vertical ridge of snow and started hacking into it with his ice axe. Kenny dug out a hole half the size of a fridge. He fixed a safety line at the back of the cave and clipped it to his harness and folded his knees under his chin. At least for now, he was safe.
+
+Kenny had sent radio calls pleading for help. At the base camp, two pilots, Keith and Khal, were deployed to rescue him. They realised that the situation was worse than what they had visualised. The ice face was virtually vertical. With the rotor blades of the helicopter jutting out 5.5 metres, how would they get near enough to even pass Kenny a rope? Besides, vibration from the blades could also cause some snow above Kenny to collapse. This would hit the rotors and the helicopter might crash into the mountain. Nevertheless, the pilots went ahead. There was a hook under the helicopter. A sling was looped over the hook and the other end was attached to a bag filled with stones to keep it steady in the turbulent air. Kenny’s only chance was to grab the sling, clip it with the short rope attached to his harness and then, cut the safety line anchoring him to the ice-wall.
+
+The next morning, the pilots took off. Keith circled in and hovered about 12 metres above Kenny. From the cockpit, he saw Kenny swinging his ice axe wildly to catch the sling but it was nowhere near him. Keith eased closer. Even when Kenny leaned far out into space, he still could not grab the sling, as the bag of stones continued to swing outwards like a pendulum.
+
+Taking over the controls, Keith flew the helicopter and stopped hazardously close to the rock face. The bag of stones smashed into the snow. Kenny grabbed the bag filled with stones and gripped it between his thighs. He clipped the hook of his harness over the helicopter’s sling line.
+
+Now that Kenny was attached to the helicopter, he had to cut the safety line that anchored him to the ice-wall. But with his frozen fingers and the air from the rotor blades beating down on him, he dropped the knife. Fortunately, the safety line broke when Keith tilted the helicopter to prevent the blades from hitting the ice. Then they rose into the air.
+
+Later, the helicopter hovered above the base camp and lowered Kenny gradually. Faint with relief, Kenny saw the ground rise to greet him. Weeping, he fell forward and buried his face in the grass.
+
