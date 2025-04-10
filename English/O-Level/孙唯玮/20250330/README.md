@@ -204,8 +204,25 @@ He has been winning major (59) **awards** since he was a teenager and now excels
       - sob 抽泣、呜咽
       - weep 小哭或无声地哭，侧重流泪，属于书面用词
   - 71
+    - Two words which suggest that Kenny was climbing the mountain alone | "solo attempt" |
+    - Other name for the world’s highest vertical rock wall | "Killer Mountain" (Nanga Parbat) |
   - 72
+    - Danger that Kenny faced
+      - Warm monsoon winds melting the ice, causing frequent snowslides.
+    - Kenny’s decision
+      - To abandon his climb and seek immediate shelter. 
+    - Measures taken to ensure his own safety
+      - Dug a snow cave, anchored a safety line inside it, and clipped himself to his harness while curled in a protective position.
   - 73
+    - Climbing the mountain was a treacherous activity.
+      - True
+      - The text describes Nanga Parbat as the "Killer Mountain" where "many had perished," and Kenny faced life-threatening dangers like avalanches and a near-vertical ice wall.
+    - Kenny intended to continue climbing the mountain after the monsoon wind passed.
+      - False
+      - Kenny abandoned his climb to seek shelter and later had to be rescued by helicopter; there was no mention of plans to resume.
+    - The pilots were determined to rescue Kenny.
+      - True
+      - Despite extreme risks (e.g., rotor blades near the ice face, avalanche threats), they persisted and successfully executed a dangerous maneuver to save him. 
   - 74
   - 75
   - 76
@@ -228,3 +245,5 @@ Now that Kenny was attached to the helicopter, he had to cut the safety line tha
 
 Later, the helicopter hovered above the base camp and lowered Kenny gradually. Faint with relief, Kenny saw the ground rise to greet him. Weeping, he fell forward and buried his face in the grass.
 
+------------------
+Mayday—this is Kenny! I’m at 7,200 meters, west face—can’t hold out much longer
