@@ -34,4 +34,15 @@
   - 25
   - 26
   - 27
-  
+- P200
+  - 单词
+    - peddle /ˈpedl/ vt. 兜售；宣传；传播(思想、消息)；挨户销售；巡回销售
+  - 32
+  - 35
+  - 37
+ 
+Since he was seven years old, Mr. Tse has been peddling bread on wheels. He first started out from his bicycle (29) **before** switching to his motorbike when he was in his mid-twenties. He took (30) **over** the business from his father who, prior (31) **to** the Japanese Occupation, had sold bread (32) **from** a basket balanced on the top of his head.
+
+It has been (33) **a** usual sight seeing Mr. Tse doing his rounds in the western part of Singapore (34) **for** the past thirty five years. He used to work the entire day but he has (35) (P) then shortened his working hours as age has caught up (36) (D) over him. He now starts at about one in the afternoon and finishes (37) (M) at ten at night.
+
+Although business is slower, (38) (C) during holidays and rainy days, he still manages to earn an average of $1200 a month selling everything from kaya bread to curry puffs.
