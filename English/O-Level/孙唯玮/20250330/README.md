@@ -224,12 +224,28 @@ He has been winning major (59) **awards** since he was a teenager and now excels
       - True
       - Despite extreme risks (e.g., rotor blades near the ice face, avalanche threats), they persisted and successfully executed a dangerous maneuver to save him. 
   - 74
+    - The near-vertical ice face made it extremely difficult for the helicopter to get close enough to safely reach Kenny or pass him a rope without risking a collision.
+    - The helicopter's rotor blades could trigger avalanches due to vibrations, which might bury Kenny or cause the helicopter to crash into the mountain. 
   - 75
+    - The bag of stones was tied to the sling to stabilize it in the turbulent wind, preventing it from swinging uncontrollably and making it easier for Kenny to grab. 
   - 76
+    - Word suggesting desperation: "wildly" (as in "swinging his ice axe wildly")
+    - Difficulty he faced: The sling was out of reach due to the swinging motion of the stone bag, which moved "like a pendulum" in the turbulent air. 
   - 77
+    - Frozen fingers impaired his grip due to extreme cold.
+    - Violent rotor wash from the helicopter's blades battered him, making it impossible to hold onto the knife. 
   - 78
+    - Purpose of tilting the helicopter
+      - To prevent the rotor blades from hitting the ice wall, which could have caused a catastrophic crash. 
+    - Another outcome of this act
+      - The safety line anchoring Kenny to the ice wall broke, freeing him to be lifted away by the helicopter.
   - 79
-  - 80 
+    - 3
+    - 2
+    - 1
+  - 80
+    - Overwhelming relief and emotion after surviving the life-threatening ordeal, causing him to weep uncontrollably.
+    - Physical and mental exhaustion from the extreme climb and rescue, leaving him too weak to stand.
 
 With snow whirling around him, Kenny drove two ice axes into the frozen mountain face. Slowly, he hauled himself another 25 centimetres. Beneath his spiked boots, a wall of ice and rock plunged almost four kilometres straight down. He still had about one kilometre to climb to the summit. Kenny was on a solo attempt to scale the world’s highest vertical rock wall. Many had perished on the 8,125 metre Nanga Parbat, thus it was known as the Killer Mountain.
 
