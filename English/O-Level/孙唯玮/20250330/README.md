@@ -198,8 +198,11 @@ He has been winning major (59) **awards** since he was a teenager and now excels
       - n. 倾斜；倾侧；尝试；(意欲赢得某物或战胜某人的)企图
   - 第七段单词
     - faint with relief
-    - weep /wiːp/ v. 哭泣；(通常因悲伤)流泪；流出，渗出(液体)
-      - n. 哭泣；落泪
+    - weep /wiːp/ v. 哭泣；(通常因悲伤)流泪；流出，渗出(液体) n. 哭泣；落泪
+    - 复习一下：哭泣有哪些单词
+      - cry 因痛苦、悲哀或伤感等出声地哭
+      - sob 抽泣、呜咽
+      - weep 小哭或无声地哭，侧重流泪，属于书面用词
   - 71
   - 72
   - 73
