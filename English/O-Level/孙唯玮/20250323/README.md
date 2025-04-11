@@ -79,3 +79,24 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
   - 复习 Hardly ... when
 ‌    - 基本结构‌：hardly+句子A，when+句子B。意思是“几乎还没完成A，就紧接着开始B”。它常用于过去时态，描述在某个动作刚刚开始或发生之后，另一个动作或情况就立即发生。
     - ‌句首倒装：当hardly位于句首时，主句要用倒装结构。例如：Hardly had I finished eating when he came in.（我刚吃完他就进来了。）
+
+- P204-206
+
+Lady Heather had totally lost her eyesight, so she went to an ophthalmologist to help her see again. She made a bargain with the doctor in the presence of a few witnesses. The bargain was that if he could cure her and make her see again, he would be paid handsomely. However, if he could not, she would not be obliged to pay him anything. In other words, he would not obtain a single cent for any treatment he has done to her. He agreed to this pact.
+
+The doctor had an unusual ointment. When it was applied to the eyes for a certain period of time, it restored the eyesight of anyone who was blind. Thus he was confident of receiving his payment. The doctor began to visit his new patient everyday to apply the ointment. Lady Heather was well-to-do and her house was full of luxurious and rare items. Knowing that she could not see, the doctor started pilfering the valuables in her house, one by one. When there was nothing left to steal, he decided to cure her and demand his payment.
+
+Lady Heather was a shrewd old lady. When she recovered her eyesight, she saw her valuables had been stolen. She suspected that the doctor must be the thief since her servants had been with her foThe judge asked the old woman why she declined to pay the doctor.
+
+She answered, "Sir, the doctor is telling the truth. I did promise to give him money if I recovered my sight. However, if I remained blind, I was to give him nothing. Now he declares that he has healed me and so I should pay him but I am still blind."
+
+Everyone in the courtroom looked at the old woman in great astonishment.
+
+"How can you say a thing like that? Everyone in the courtroom can see that your eyesight has been restored since you are obviously able to see me and the furniture in the room," said the judge firmly.
+
+"Your Honour," replied the old woman. "I really can't see. Before I lost the use of my eyes, I had seen a lot of valuable goods in my house, but now, though the doctor swears I am cured of my blindness, I am not able to see a single thing of value in it."
+
+The judge smiled and understood what Lady Heather was attempting to convey. He said, "If that is the case, I agree that you are undeniably still blind. Perhaps if the doctor continues his treatment for another week, he can ensure that your eyesight is fully restored and you are able to see all your valuables at home once again."
+
+The judge was looking at the doctor unsympathetically as he gave his judgement. The doctor bowed his head and agreed to follow the judge's advice. Lady Heather was contented and agreed to this arrangement.r many years and were all devoted and trustworthy. An eye for an eye, Lady Heather insisted that she was not cured and refused to pay the doctor. He was stunned when she refused to pay and insisted on his fees. The old woman refused again and the two went to court to settle the matter.
+
