@@ -87,7 +87,10 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - handsomely adv. 慷慨地；大方地
     - oblige /əˈblaɪdʒ/ v. 迫使；(以法律、义务等)强迫；(根据要求或需要)帮忙；效劳
       - be obliged to do sth.
+    - pact /pækt/ n. 契约；协议；条约；公约
   - 第二段单词
+    - ointment /ˈɔɪntmənt/ n. 软膏；药膏；油膏
+    - well-to-do adj. 有钱的；富有的；富裕的 
   - 第三段单词
   - 第四段单词
   - 第五段单词
