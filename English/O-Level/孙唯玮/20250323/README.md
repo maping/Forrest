@@ -81,6 +81,12 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - ‌句首倒装：当hardly位于句首时，主句要用倒装结构。例如：Hardly had I finished eating when he came in.（我刚吃完他就进来了。）
 
 - P204-206
+  - 第一段单词
+  - 第二段单词
+  - 第三段单词
+  - 第四段单词
+  - 第五段单词
+  - 第六段单词
 
 Lady Heather had totally lost her eyesight, so she went to an ophthalmologist to help her see again. She made a bargain with the doctor in the presence of a few witnesses. The bargain was that if he could cure her and make her see again, he would be paid handsomely. However, if he could not, she would not be obliged to pay him anything. In other words, he would not obtain a single cent for any treatment he has done to her. He agreed to this pact.
 
