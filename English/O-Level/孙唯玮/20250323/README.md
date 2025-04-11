@@ -65,4 +65,17 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - ‌thrilled‌：强调人的主观感受
       - I was thrilled to receive the offer from Harvard. 
   - 48
+    - nestle /ˈnesl/ v. 舒适地坐(或卧)；依偎；安置；抱；使（舒适地）安顿下来；位处，坐落(于安全、隐蔽之处)；为……供巢，把……安置于巢中
     - amidst /əˈmɪdst/ prep. 在…中；中间；在…过程中；同 amid
+
+- P202
+  - 65 分析句子的主谓宾
+    - You have to be sure that (60) **whoever** posted the information knows what they are talking (61) **about**, particularly if you are doing research! If you are just emailing people, you need to be very cautious. You should never give out any (62) **personal** details to someone you do not know, not (63) **even** your name! And just like you cannot (64) **trust** the information on every website out there, you cannot rely on what strangers you 'meet' on the internet (65) **tell** you either. They may be making things up about themselves to trick you!
+   
+- P203
+  - 69 复习 No sooner ... than
+    - 基本结构‌：no sooner+句子A，than+句子B。意思是“刚做完A这件事，就做B这件事”。它也常用于描述过去发生的事件，强调两个事件之间的紧密连贯性。
+    - ‌倒装结构‌：当no sooner位于句首时，主句要用倒装结构。例如：No sooner had he arrived than he started talking.（他刚到就开始讲话。）
+  - 复习 hardly when
+‌    - 基本结构‌：hardly+句子A，when+句子B。意思是“几乎还没完成A，就紧接着开始B”。它常用于过去时态，描述在某个动作刚刚开始或发生之后，另一个动作或情况就立即发生。
+    - ‌倒装结构‌：当hardly位于句首时，主句要用倒装结构。例如：Hardly had I finished eating when he came in.（我刚吃完他就进来了。）
