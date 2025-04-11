@@ -101,10 +101,9 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - trustworthy /ˈtrʌstwɜːði/ adj. 值得信赖的；可靠的；值得信任的；可信赖的
     - an eye for an eye 以眼还眼
     - a tooth for a tooth 以牙还牙
-    - 
-  - 第四段单词
-  - 第五段单词
-  - 第六段单词
+    - settle /ˈsetl/ v. 解决(分歧、纠纷等)；
+  - 第四五六七段单词
+
 
 Lady Heather had totally lost her eyesight, so she went to an ophthalmologist to help her see again. She made a bargain with the doctor in the presence of a few witnesses. The bargain was that if he could cure her and make her see again, he would be paid handsomely. However, if he could not, she would not be obliged to pay him anything. In other words, he would not obtain a single cent for any treatment he has done to her. He agreed to this pact.
 
