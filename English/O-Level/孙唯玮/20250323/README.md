@@ -57,3 +57,10 @@ Since he was seven years old, Mr. Tse has been peddling bread on wheels. He firs
 It has been (33) **a** usual sight seeing Mr. Tse doing his rounds in the western part of Singapore (34) **for** the past thirty five years. He used to work the entire day but he has (35) **since** shortened his working hours as age has caught up (36) **with** him. He now starts at about one in the afternoon and finishes (37) **up** at ten at night.
 
 Although business is slower, (38) **during** holidays and rainy days, he still manages to earn an average of $1200 a month selling everything from kaya bread to curry puffs.
+
+- P201
+  - 41 thrilling‌ vs thrilled‌ | exciting vs excited
+    - ‌thrilling‌：事物本身令人激动
+      - I had a thrilling experience skydiving yesterday. 
+    - ‌thrilled‌：强调人的主观感受
+      - I was thrilled to receive the offer from Harvard. 
