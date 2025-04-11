@@ -75,7 +75,7 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
 - P203
   - 69 复习 No sooner ... than
     - 基本结构‌：no sooner+句子A，than+句子B。意思是“刚做完A这件事，就做B这件事”。它也常用于描述过去发生的事件，强调两个事件之间的紧密连贯性。
-    - ‌倒装结构‌：当no sooner位于句首时，主句要用倒装结构。例如：No sooner had he arrived than he started talking.（他刚到就开始讲话。）
-  - 复习 hardly when
+    - ‌句首倒装：当no sooner位于句首时，主句要用倒装结构。例如：No sooner had he arrived than he started talking.（他刚到就开始讲话。）
+  - 复习 Hardly ... when
 ‌    - 基本结构‌：hardly+句子A，when+句子B。意思是“几乎还没完成A，就紧接着开始B”。它常用于过去时态，描述在某个动作刚刚开始或发生之后，另一个动作或情况就立即发生。
-    - ‌倒装结构‌：当hardly位于句首时，主句要用倒装结构。例如：Hardly had I finished eating when he came in.（我刚吃完他就进来了。）
+    - ‌句首倒装：当hardly位于句首时，主句要用倒装结构。例如：Hardly had I finished eating when he came in.（我刚吃完他就进来了。）
