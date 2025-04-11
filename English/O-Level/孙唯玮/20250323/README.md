@@ -64,3 +64,5 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
       - I had a thrilling experience skydiving yesterday. 
     - ‌thrilled‌：强调人的主观感受
       - I was thrilled to receive the offer from Harvard. 
+  - 48
+    - amidst /əˈmɪdst/ prep. 在…中；中间；在…过程中；同 amid
