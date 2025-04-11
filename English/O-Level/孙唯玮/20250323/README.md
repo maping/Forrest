@@ -37,17 +37,23 @@
 - P200
   - 单词
     - peddle /ˈpedl/ vt. 兜售；宣传；传播(思想、消息)；挨户销售；巡回销售
+    - curry puffs n. 咖喱卜；咖喱角
   - 32
   - 33
-    - u 开头的单词，前面用 a 还是 an？
-      - 使用“a”还是“an”取决于单词开头的发音（音素），而非字母本身。对于以字母“U”开头的单词：
-        - 如果发元音音素（如“umbrella”读作/ʌmˈbrɛlə/），用 “an”（例如：an umbrella）。
-        - 如果发**/juː/**音（如“university”读作/juːnɪˈvɜːrsɪti/），用 “a”，因为/j/是半元音（例如：a university）。 
-  - 35
-  - 37
- 
+    - 使用“a”还是“an”取决于单词开头的发音（音素），而非字母本身。对于以字母“U”开头的单词：
+      - 如果发元音音素（如“umbrella”读作/ʌmˈbrɛlə/），用 “an”（例如：an umbrella）。
+      - 如果发**/juː/**音（如“university”读作/juːnɪˈvɜːrsɪti/），用 “a”，因为/j/是半元音（例如：a university）。 
+  - 35 这个有些难
+    - 表示从工作 35 年以后至今，
+  - 37 考察 finish vs finish up
+    - finish 基本意思是“完成”，通常用于描述一项具体任务的结束。
+      - I finished my homework.
+    - finish up 也表示“完成”，但更侧重于完成一系列事情中的最后一部分，或者以一种总结性的方式来完成某件事情。
+      - After cleaning the kitchen, I finished up by wiping down the counters.
+      - “Let's finish up the meeting and go home.”
+         
 Since he was seven years old, Mr. Tse has been peddling bread on wheels. He first started out from his bicycle (29) **before** switching to his motorbike when he was in his mid-twenties. He took (30) **over** the business from his father who, prior (31) **to** the Japanese Occupation, had sold bread (32) **from** a basket balanced on the top of his head.
 
-It has been (33) **a** usual sight seeing Mr. Tse doing his rounds in the western part of Singapore (34) **for** the past thirty five years. He used to work the entire day but he has (35) (P) then shortened his working hours as age has caught up (36) (D) over him. He now starts at about one in the afternoon and finishes (37) (M) at ten at night.
+It has been (33) **a** usual sight seeing Mr. Tse doing his rounds in the western part of Singapore (34) **for** the past thirty five years. He used to work the entire day but he has (35) **since** shortened his working hours as age has caught up (36) **with** him. He now starts at about one in the afternoon and finishes (37) **up** at ten at night.
 
-Although business is slower, (38) (C) during holidays and rainy days, he still manages to earn an average of $1200 a month selling everything from kaya bread to curry puffs.
+Although business is slower, (38) **during** holidays and rainy days, he still manages to earn an average of $1200 a month selling everything from kaya bread to curry puffs.
