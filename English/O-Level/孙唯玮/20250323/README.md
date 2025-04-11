@@ -90,8 +90,18 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - pact /pækt/ n. 契约；协议；条约；公约
   - 第二段单词
     - ointment /ˈɔɪntmənt/ n. 软膏；药膏；油膏
-    - well-to-do adj. 有钱的；富有的；富裕的 
+    - well-to-do adj. 有钱的；富有的；富裕的
+    - pilfer /ˈpɪlfə(r)/ v. (尤指员工)偷窃；小偷小摸
+    - demand /dɪˈmɑːnd/ n. 需要；(尤指困难、使人劳累、令人烦恼等的)要求；(顾客的)需求；所需之物
+      - v. 需要；强烈要求
   - 第三段单词
+    - shrewd /ʃruːd/ adj. 精明的；敏锐的；高明的；有眼光的；判断得准的；精于盘算的
+    - devoted /dɪˈvəʊtɪd/ adj. 忠诚的；全心全意的；专心致志；挚爱的
+      - v. 献(身)；奉献，投入(时间、精力等)；将(文章或讲话的某一部分)专用(于)
+    - trustworthy /ˈtrʌstwɜːði/ adj. 值得信赖的；可靠的；值得信任的；可信赖的
+    - an eye for an eye 以眼还眼
+    - a tooth for a tooth 以牙还牙
+    - 
   - 第四段单词
   - 第五段单词
   - 第六段单词
@@ -100,7 +110,9 @@ Lady Heather had totally lost her eyesight, so she went to an ophthalmologist to
 
 The doctor had an unusual ointment. When it was applied to the eyes for a certain period of time, it restored the eyesight of anyone who was blind. Thus he was confident of receiving his payment. The doctor began to visit his new patient everyday to apply the ointment. Lady Heather was well-to-do and her house was full of luxurious and rare items. Knowing that she could not see, the doctor started pilfering the valuables in her house, one by one. When there was nothing left to steal, he decided to cure her and demand his payment.
 
-Lady Heather was a shrewd old lady. When she recovered her eyesight, she saw her valuables had been stolen. She suspected that the doctor must be the thief since her servants had been with her foThe judge asked the old woman why she declined to pay the doctor.
+Lady Heather was a shrewd old lady. When she recovered her eyesight, she saw her valuables had been stolen. She suspected that the doctor must be the thief since her servants had been with her for many years and were all devoted and trustworthy. An eye for an eye, Lady Heather insisted that she was not cured and refused to pay the doctor. He was stunned when she refused to pay and insisted on his fees. The old woman refused again and the two went to court to settle the matter.
+
+The judge asked the old woman why she declined to pay the doctor.
 
 She answered, "Sir, the doctor is telling the truth. I did promise to give him money if I recovered my sight. However, if I remained blind, I was to give him nothing. Now he declares that he has healed me and so I should pay him but I am still blind."
 
