@@ -123,5 +123,4 @@ Everyone in the courtroom looked at the old woman in great astonishment.
 
 The judge smiled and understood what Lady Heather was attempting to convey. He said, "If that is the case, I agree that you are undeniably still blind. Perhaps if the doctor continues his treatment for another week, he can ensure that your eyesight is fully restored and you are able to see all your valuables at home once again."
 
-The judge was looking at the doctor unsympathetically as he gave his judgement. The doctor bowed his head and agreed to follow the judge's advice. Lady Heather was contented and agreed to this arrangement.r many years and were all devoted and trustworthy. An eye for an eye, Lady Heather insisted that she was not cured and refused to pay the doctor. He was stunned when she refused to pay and insisted on his fees. The old woman refused again and the two went to court to settle the matter.
-
+The judge was looking at the doctor unsympathetically as he gave his judgement. The doctor bowed his head and agreed to follow the judge's advice. Lady Heather was contented and agreed to this arrangement.
