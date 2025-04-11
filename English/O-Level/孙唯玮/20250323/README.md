@@ -103,8 +103,17 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - a tooth for a tooth 以牙还牙
     - settle /ˈsetl/ v. 解决(分歧、纠纷等)；
   - 第四五六七段单词
-
-
+  - 71
+  - 72
+  - 73
+  - 74
+  - 75
+  - 76
+  - 77
+  - 78
+  - 79
+  - 80
+  
 Lady Heather had totally lost her eyesight, so she went to an ophthalmologist to help her see again. She made a bargain with the doctor in the presence of a few witnesses. The bargain was that if he could cure her and make her see again, he would be paid handsomely. However, if he could not, she would not be obliged to pay him anything. In other words, he would not obtain a single cent for any treatment he has done to her. He agreed to this pact.
 
 The doctor had an unusual ointment. When it was applied to the eyes for a certain period of time, it restored the eyesight of anyone who was blind. Thus he was confident of receiving his payment. The doctor began to visit his new patient everyday to apply the ointment. Lady Heather was well-to-do and her house was full of luxurious and rare items. Knowing that she could not see, the doctor started pilfering the valuables in her house, one by one. When there was nothing left to steal, he decided to cure her and demand his payment.
