@@ -104,11 +104,25 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - settle /ˈsetl/ v. 解决(分歧、纠纷等)；
   - 第四五六七段单词
   - 71
+    - If the doctor successfully cured her blindness, she would pay him a handsome fee.
+    - If he failed to restore her eyesight, she would not owe him any payment at all. 
   - 72
+    - He possessed an unusual ointment that had successfully restored eyesight in blind patients before.
+    - He believed the treatment would work on Lady Heather, ensuring her cure and thus guaranteeing his payment under their agreement. 
   - 73
+    - No, the doctor did not strive to cure Lady Heather's eyes promptly.
+    - Reason: He deliberately delayed her full recovery so he could continue stealing her valuables while she remained blind. Only after he had stolen everything did he finally cure her, revealing his greed and dishonesty.
+    - promptly‌ vs quickly‌
+      - ‌promptly‌ 强调“及时性”和“准时性”，通常指在接收到某种信号或要求后迅速作出反应，且不拖延。例如，完成任务或回应请求时，强调在规定时间内完成。
+      - ‌quickly‌ 则更侧重于“动作本身的速度快”，强调完成某事所需的时间短，不涉及是否及时或准时。例如，快速喝完一杯水或快速跑完一段路。 
   - 74
-  - 75
+    - Exclusive Opportunity: He was the only outsider with regular access to her home during her blindness, while her long-serving servants were trusted and loyal.
+    - Timing of Thefts: The valuables disappeared only after his visits began, and stopped once he declared her "cured" ——— a clear link to his presence. 
+  - 75 An eye for an eye.
   - 76
+    - 3
+    - 1
+    - 2
   - 77
   - 78
   - 79
