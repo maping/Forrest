@@ -124,7 +124,13 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
     - 1
     - 2
   - 77
+    - "Everyone in the courtroom looked at the old woman in great astonishment."
+    - Reason for their reaction: They were shocked because she clearly could see (e.g., observing the judge and furniture), yet she claimed to still be "blind." Her literal interpretation of the bargain (inability to see her stolen valuables) was not immediately understood, making her statement seem absurd at first. 
   - 78
+    - Yes, Lady Heather was extremely clever.
+    - Reasons:
+      - Wordplay as Justice: She exploited the literal terms of the agreement—claiming she was still "blind" because she couldn’t see her stolen valuables—to outwit the doctor and deny him payment.
+      - Strategic Retaliation: Her "eye for an eye" approach forced the doctor to return her belongings (by continuing "treatment") without directly accusing him, using the judge’s authority to ensure fairness. 
   - 79
   - 80
   
