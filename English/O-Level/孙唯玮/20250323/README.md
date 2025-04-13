@@ -132,7 +132,25 @@ Although business is slower, (38) **during** holidays and rainy days, he still m
       - Wordplay as Justice: She exploited the literal terms of the agreement—claiming she was still "blind" because she couldn’t see her stolen valuables—to outwit the doctor and deny him payment.
       - Strategic Retaliation: Her "eye for an eye" approach forced the doctor to return her belongings (by continuing "treatment") without directly accusing him, using the judge’s authority to ensure fairness. 
   - 79
+    - Judge’s understanding of the case
+      - The judge realized Lady Heather was using the term "blind" metaphorically—she couldn’t see her stolen valuables, proving the doctor’s dishonesty.
+    - Arrangement
+      - He ruled that the doctor must continue "treating" her for another week, implying he must return the stolen goods to "fully restore" her eyesight.
+    - Purpose of arrangement
+      - To ensure justice:
+        - (1) Force the doctor to return the stolen items,
+        - (2) Uphold the original bargain’s fairness, and
+        - (3) Punish the doctor’s greed without outright accusing him in court.
   - 80
+    - The doctor had stolen all valuables from Lady Heather's house.
+      - True
+      - The text states he stole items "one by one" until "nothing was left to steal."
+    - The judge showed disapproval for the doctor's actions when he gave his judgement.
+      - True
+      - The judge looked at the doctor "unsympathetically," signaling moral condemnation.
+    - The doctor was not willing to heed the judge's advice.
+      - False
+      - He "bowed his head and agreed," showing compliance with the ruling. 
   
 Lady Heather had totally lost her eyesight, so she went to an ophthalmologist to help her see again. She made a bargain with the doctor in the presence of a few witnesses. The bargain was that if he could cure her and make her see again, he would be paid handsomely. However, if he could not, she would not be obliged to pay him anything. In other words, he would not obtain a single cent for any treatment he has done to her. He agreed to this pact.
 
