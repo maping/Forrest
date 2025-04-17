@@ -51,3 +51,15 @@
 It sits on a shelf at the top of my closet. Once it was a shoe-box, decorated for Valentine’s Day and given to me by my oldest child. This shoe-box valentine is (16) wrinkled and moldy where the jellybeans and gumdrops have run together. It is sticky in places but it is a repository of (17) objects from their childhood given to me by my children. They have (18) scrawled their names on little slips of papers - a product of love in its most uncomplicated and (19) authentic state.
 ﻿
 The children are grown now. They still love me though it is harder sometimes to get any (20) information to prove it. Once in a while I take it down and open it. It is something I can touch and hold and believe in, now that there are no small arms around my neck.
+
+- P212-215
+  - 单词
+    - adrenalin /əˈdrɛnəlɪn/ n. 肾上腺素(能使心跳加速、精力充沛、行动迅速)
+    - junky /ˈdʒʌŋki/ adj. 质量低劣的；无价值的 n. 吸毒者
+    - refund /ˈriːfʌnd , rɪˈfʌnd/ n. 退款；偿还金额；返还款 vt. 退还；退(款)；偿付
+      - tax refund
+    - inclement /ɪnˈklemənt/ adj. 恶劣的(指寒冷的、潮湿的等)
+  - 21
+  - 23
+    - condition /kənˈdɪʃn/ n. 条件；物质环境，状态，条件；（先决）条件；环境，境况，条件；状态；状况；(因不可能治愈而长期患有的)疾病；健康状况；（某群体的）生存状态，处境 
+      - a mild medical condition 轻微的疾病 
