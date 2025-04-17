@@ -150,6 +150,10 @@ In Singapore, heart disease is also one of the top three "lifestyle diseases" of
       - "a shared bathroom, shared among about a hundred people in all"
       - "one tap in the bathroom"
       - "the queue snaked from the single water source"
+  - 73
+    - The atap roof was replaced with zinc – The text mentions that the original atap roof was replaced "in the name of modernity," though it was less cool than atap.
+    - The area became more developed, and the three ponds disappeared – Before development, there were three ponds where ducks were raised, but these were lost as the outer kampong changed.
+
 
 The house which I remember from my days in the kampong had wooden walls and an atap roof, which was later replaced with zinc in the name of modernity, but in fact, the atap, though unsafe because of fire risk, was much cooler than zinc. The house was much like a hotel, because two families lived in the section I lived in. There were my uncles on my father’s side in one part with their families, and my family in the other, with grandmother.
 
