@@ -73,3 +73,8 @@ The children are grown now. They still love me though it is harder sometimes to 
   - 38 beside vs besides
     
 On a lake in Western Siberia, flocks of ducks and geese (29) **are** roaming free. The local people are ignoring warnings from their government that (30) **all** domestic poultry should be kept indoors (31) **because** of the threat of bird flu. There (32) **have** been bird flu outbreaks in dozens of Russian villages in the past month. The virus (33) **was** brought to Russia from Asia (34) **by** the migrating wild birds. Ornithologists in Russia say that wild fowl (35) **will** soon be moving on from here (36) **before** autumn comes. The most up-to-date research predicts some birds will head (37) **towards** the Mediterranean and Southern Europe. Other flocks will travel towards Germany, Britain and Ireland. It is likely that they could bear the bird flu virus (38) **with** them, potentially starting a bird flu pandemic.
+
+- P217
+  - 43 particular 绝对不应该不会！
+  - 47 以...速度，at speed
+  - 49 ineffective 不该不会！
