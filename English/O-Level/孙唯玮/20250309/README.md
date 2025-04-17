@@ -118,6 +118,13 @@ Dr. Zainal, an official with the Malaysian Ministry of Health, says, "We are tak
 In Singapore, heart disease is also one of the top three "lifestyle diseases" of a developed nation. The government has decided to focus on educating the young on the (65) **importance** of an active and healthy lifestyle.
 
 - P220-222
+  - 单词
+  - 72
+    - No, the tap was not adequate for the people in the kampong. The text states that there was only one tap in a shared bathroom used by about a hundred people from all the houses in that line. Additionally, people had to queue to collect water for their kitchens, which implies that the single tap was insufficient to meet the needs of the entire community efficiently. The phrase "one can visualise the way the queue snaked from the single water source" further emphasizes the scarcity and inconvenience caused by the limited water supply.
+    - Evidence:
+      - "a shared bathroom, shared among about a hundred people in all"
+      - "one tap in the bathroom"
+      - "the queue snaked from the single water source"
 
 The house which I remember from my days in the kampong had wooden walls and an atap roof, which was later replaced with zinc in the name of modernity, but in fact, the atap, though unsafe because of fire risk, was much cooler than zinc. The house was much like a hotel, because two families lived in the section I lived in. There were my uncles on my father’s side in one part with their families, and my family in the other, with grandmother.
 
