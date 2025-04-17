@@ -45,6 +45,8 @@
     - artefact /ˈɑːtɪfækt/ n. 人工制品；工艺品；手工艺品(尤指有历史或文化价值的)
     - artifact /ˈɑːtɪfækt/ n. 人工制品；(尤指具有历史或文化价值的)手工制品，手工艺品
   - 19
+    - genuine /ˈdʒenjuɪn/ adj. 真正的；真诚的；真的；名副其实的；诚实的；可信赖的
+    - trustworthy /ˈtrʌstwɜːði/ adj. 值得信赖的；可靠的；值得信任的；可信赖的
  
 It sits on a shelf at the top of my closet. Once it was a shoe-box, decorated for Valentine’s Day and given to me by my oldest child. This shoe-box valentine is (16) wrinkled and moldy where the jellybeans and gumdrops have run together. It is sticky in places but it is a repository of (17) objects from their childhood given to me by my children. They have (18) scrawled their names on little slips of papers - a product of love in its most uncomplicated and (19) authentic state.
 ﻿
