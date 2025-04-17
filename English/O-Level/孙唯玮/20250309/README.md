@@ -118,7 +118,32 @@ Dr. Zainal, an official with the Malaysian Ministry of Health, says, "We are tak
 In Singapore, heart disease is also one of the top three "lifestyle diseases" of a developed nation. The government has decided to focus on educating the young on the (65) **importance** of an active and healthy lifestyle.
 
 - P220-222
-  - 单词
+  - 第一段单词
+    - 分析第一句的主谓宾
+    - kampong 甘榜
+    - atap
+    - 
+  - 第二段单词
+    - amenity /əˈmiːnəti/ n. 便利设施；生活福利设施
+    - tap /tæp/ n. 水龙头
+  - 第三段单词
+    - chrysanthemum /krɪˈzænθəməm/ n. 菊花
+    - pastime /ˈpɑːstaɪm/ n. 消遣；休闲活动
+  - 第四段单词
+    - jackfruit /ˈdʒækfruːt/ n. 菠萝蜜(热带大水果)
+    - papaya /pəˈpaɪə/ n. 木瓜
+    - hygienic /haɪˈdʒiːnɪk/ adj. 卫生的
+    - snout /snaʊt/ n. (人的)鼻子；(猪等动物的)口鼻部，吻；吻状突出物
+    - expectant /ɪkˈspektənt/ adj. 预期的；期望的；期待的；未来的(母亲、父亲、父母)
+      - n. 期待着；候选人；[数]期望值
+    - mingle /ˈmɪŋɡl/ v. 混在一起；使混合；(使)与…结合；(尤指在社交场所)相交往，混杂其中；使联结
+  - 第五段单词
+    - gang clash 帮派冲突
+    - curfew /ˈkɜːfjuː/ n. 宵禁；宵禁时间；儿童晚间必须在家的时间
+    - Easy doesn't enter into grow-up life.
+  - 第六段单词
+    - carefree /ˈkeəfriː/ adj. 无忧无虑的；不负责任的；无牵挂的 帮派冲突
+    - filth /fɪlθ/ n. 污物；污秽
   - 72
     - No, the tap was not adequate for the people in the kampong. The text states that there was only one tap in a shared bathroom used by about a hundred people from all the houses in that line. Additionally, people had to queue to collect water for their kitchens, which implies that the single tap was insufficient to meet the needs of the entire community efficiently. The phrase "one can visualise the way the queue snaked from the single water source" further emphasizes the scarcity and inconvenience caused by the limited water supply.
     - Evidence:
