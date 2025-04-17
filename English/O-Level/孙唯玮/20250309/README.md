@@ -117,3 +117,18 @@ Dr. Zainal, an official with the Malaysian Ministry of Health, says, "We are tak
 
 In Singapore, heart disease is also one of the top three "lifestyle diseases" of a developed nation. The government has decided to focus on educating the young on the (65) **importance** of an active and healthy lifestyle.
 
+- P220-222
+
+The house which I remember from my days in the kampong had wooden walls and an atap roof, which was later replaced with zinc in the name of modernity, but in fact, the atap, though unsafe because of fire risk, was much cooler than zinc. The house was much like a hotel, because two families lived in the section I lived in. There were my uncles on my father’s side in one part with their families, and my family in the other, with grandmother.
+
+There were limited amenities in the kampong. Each house had a separate kitchen, but a shared bathroom, shared among about a hundred people in all, for all the houses in that line. There was one tap in the bathroom, and a common washing area. We had to bring water from the tap for the kitchen. And one can visualise the way the queue snaked from the single water source. In total, there were some fifty houses around ours.
+
+We had fruit trees around our house, and a very small garden. I was given my own tiny section. I planted flowers, roses and chrysanthemums, just as a pastime. I did not sell them, but gave them away, or brought them into the house for festivals. Before the outer kampong area became more developed, there were three ponds. We raised about fifty ducks. We also had a lot of chicken. We ate them as necessary.
+
+The place was cool from the shade of the trees. There were banana, jackfruit and papaya trees. But it was not really very hygienic, because some farmers in the area reared pigs. They used to wander all over the place (I had a job keeping them out of our small garden). Perhaps my earliest memory of the place was the toilet. The pigs used to come under the toilet and wait for us. You could look through the floor boards and watch them with their snouts in the air, expectant. The people from our kampong were Chinese. But just across the canal was a Malay kampong. We did not mingle much with the Malays, not because they were Malays, but rather because it was the rival kampong.
+
+In 1964, there were countless gang clashes between the two kampongs, which were frequently stopped by the curfew. I recall the times we were all ordered to go back home from school, half-way during the day. My parents put additional bars and locks at the windows, and the streets outside the kampong were deserted. My job was to prepare metal pails. These were for making a lot of noise to scare the attackers if our house was attacked. We were also equipped with whistles to call for assistance from the neighbours. It was a disturbing time. People spoke about a lot of clashes, but in reality I never witnessed any, and in spite of all our precautions our house was never attacked. In any case there only seemed to be trouble among the grown-ups.
+
+I was in primary school at that time, and had been brought up speaking Malay. We still played with the Malays in the school and nothing was different. Some neighbours, however, moved out of the kampong at this time to live with relatives in town. We were carefree and played a lot with our neighbours' children. The kampong seemed like a charmed garden in those days, in spite of the filth around.
+
+
