@@ -81,21 +81,39 @@ On a lake in Western Siberia, flocks of ducks and geese (29) **are** roaming fre
 
 - P218
   - 单词
+    - take a toll on sth. 对...造成损失
+    - all walks of life 各行各业
+    - paramedic /ˌpærəˈmedɪk/ n. 护理人员；医护人员；急救人员；医疗人员；医务辅助人员
+    - cardio-pulmonary resuscitation (CPR) 心肺复苏
+    - resuscitation /rɪˌsʌsɪˈteɪʃn/ n. 复苏；复活；复兴
+    - cardiologist /ˌkɑːdiˈɒlədʒɪst/ n. 心脏病医生；心脏病学家
+    - hang on a thread 命悬一线，千钧一发
+    - dart /dɑːt/ n. 飞镖；镖；飞奔；省缝，缝褶；猛冲；掷镖游戏(常见于英国酒吧里)；突进；突发的强烈情感
+      - v. 飞奔；猛冲；突进；(朝某人猛然)看一眼，瞥一眼
+    - pandemic /pænˈdemɪk/ n. (全国或全球性)流行病；大流行病
+      - adj. （疾病）大流行的；普遍的，全世界的
+    - screening /ˈskriːnɪŋ/ n. 筛查；(电视节目的)播放；(电影的)放映
+      - v. 筛查；检查；保护；遮蔽；庇护；包庇；掩藏；袒护
+    - cholesterol /kəˈlestərɒl/ n. 胆固醇
+    - hale /heɪl/ adj. (尤指老人)健壮的，矍铄的
+    - hearty /ˈhɑːti/ adj. 丰盛的；大的；亲切的；友好的；强烈的；喧闹而活泼的；吵闹快活且精力充沛的
+      - n. 喧闹、快活而且精力充沛的人(尤指好体育运动的人)
   - 58
   - 63
+    - hale and hearty 用来形容老人精力充沛、精神矍铄 
   - 64
  
-South Korea is ranked together with some other countries as having the highest smoking rates in the world. This, combined with other risk factors, is leading to a steep (51) rise in heart disease. "Nearly a million Koreans now have heart disease," says cardiologist, Dr. Chae, at the Seoul National University Hospital.
+South Korea is ranked together with some other countries as having the highest smoking rates in the world. This, combined with other risk factors, is leading to a steep (51) **rise** in heart disease. "Nearly a million Koreans now have heart disease," says cardiologist, Dr. Chae, at the Seoul National University Hospital.
 
-Dr. Ortiz, ex-president of the Philippines Heart Association, says that owing to a (52) lack of exercise, excessive smoking, and a diet consisting primarily of fast food, heart disease has become his country's number-one (53) killer. "It is this combination of risk factors that is so deadly and is taking a (54) toll on the general population of this country. Moreover, this 'killer' affects people from all (55) walks of life. For example, three doctors, who were former medical school classmates, have also suffered massive heart attacks. They were in their early forties. Paramedics that attended to them (56) performed cardio-pulmonary resuscitation (CPR), but their resuscitation efforts failed."
+Dr. Ortiz, ex-president of the Philippines Heart Association, says that owing to a (52) **lack** of exercise, excessive smoking, and a diet consisting primarily of fast food, heart disease has become his country's number-one (53) **killer**. "It is this combination of risk factors that is so deadly and is taking a (54) **toll** on the general population of this country. Moreover, this 'killer' affects people from all (55) **walks** of life. For example, three doctors, who were former medical school classmates, have also suffered massive heart attacks. They were in their early forties. Paramedics that attended to them (56) **performed** cardio-pulmonary resuscitation (CPR), but their resuscitation efforts failed."
 
-Malaysian cardiologist, Dr. Abdul Latiff, says, "Ten years ago, heart disease among the young was unheard of, but today it is becoming a very (57) common phenomenon." Two years ago, Dr. Latiff raced to help a man wheeled in with serious chest pains. The man's life was (58) hanging on a thread. He was breathless, cold, and pale. Latiff's eyes darted towards a chart on the wall. (59) Looking at his heart-rate chart, Latiff exclaimed, "I cannot believe that this man is only 31 years old!"
+Malaysian cardiologist, Dr. Abdul Latiff, says, "Ten years ago, heart disease among the young was unheard of, but today it is becoming a very (57) **common** phenomenon." Two years ago, Dr. Latiff raced to help a man wheeled in with serious chest pains. The man's life was (58) **hanging** on a thread. He was breathless, cold, and pale. Latiff's eyes darted towards a chart on the wall. (59) **Looking** at his heart-rate chart, Latiff exclaimed, "I cannot believe that this man is only 31 years old!"
 
-The news is mostly bad. "Still," says Dr. Latiff, "the good news is this pandemic of heart disease is entirely preventable, but we must act fast before it is too (60) late."
+The news is mostly bad. "Still," says Dr. Latiff, "the good news is this pandemic of heart disease is entirely preventable, but we must act fast before it is too (60) **late**."
 
-Malaysia's Ministry of Health has (61) set up free screening programmes in rural hospital clinics. These clinics run tests that allow checks on patients' cholesterol levels, blood pressure, and other risk factors. Those at (62) risk are identified and treated for their conditions. They are also given advice on how to stay hale and (63) hearty. Furthermore, they receive advice on how to lead a healthy lifestyle. Many people are referred to these programmes by their local doctors.
+Malaysia's Ministry of Health has (61) **set** up free screening programmes in rural hospital clinics. These clinics run tests that allow checks on patients' cholesterol levels, blood pressure, and other risk factors. Those at (62) **risk** are identified and treated for their conditions. They are also given advice on how to stay hale and (63) **hearty**. Furthermore, they receive advice on how to lead a healthy lifestyle. Many people are referred to these programmes by their local doctors.
 
-Dr. Zainal, an official with the Malaysian Ministry of Health, says, "We are taking our first baby (64) steps, but it is making a difference."
+Dr. Zainal, an official with the Malaysian Ministry of Health, says, "We are taking our first baby (64) **step**, but it is making a difference."
 
-In Singapore, heart disease is also one of the top three "lifestyle diseases" of a developed nation. The government has decided to focus on educating the young on the (65) importance of an active and healthy lifestyle.
+In Singapore, heart disease is also one of the top three "lifestyle diseases" of a developed nation. The government has decided to focus on educating the young on the (65) **importance** of an active and healthy lifestyle.
 
