@@ -63,3 +63,10 @@ The children are grown now. They still love me though it is harder sometimes to 
   - 23
     - condition /kənˈdɪʃn/ n. 条件；物质环境，状态，条件；（先决）条件；环境，境况，条件；状态；状况；(因不可能治愈而长期患有的)疾病；健康状况；（某群体的）生存状态，处境 
       - a mild medical condition 轻微的疾病 
+
+- P216
+  - 30
+  - 32
+  - 33
+    
+On a lake in Western Siberia, flocks of ducks and geese (29) are roaming free. The local people are ignoring warnings from their government that (30) all domestic poultry should be kept indoors (31) because of the threat of bird flu. There (32) have been bird flu outbreaks in dozens of Russian villages in the past month. The virus (33) was brought to Russia from Asia (34) by the migrating wild birds. Ornithologists in Russia say that wild fowl (35) will soon be moving on from here (36) before autumn comes. The most up-to-date research predicts some birds will head (37) towards the Mediterranean and Southern Europe. Other flocks will travel towards Germany, Britain and Ireland. It is likely that they could bear the bird flu virus (38) with them, potentially starting a bird flu pandemic.
