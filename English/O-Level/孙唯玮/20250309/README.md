@@ -78,3 +78,24 @@ On a lake in Western Siberia, flocks of ducks and geese (29) **are** roaming fre
   - 43 particular 绝对不应该不会！
   - 47 以...速度，at speed
   - 49 ineffective 不该不会！
+
+- P218
+  - 单词
+  - 58
+  - 63
+  - 64
+ 
+South Korea is ranked together with some other countries as having the highest smoking rates in the world. This, combined with other risk factors, is leading to a steep (51) rise in heart disease. "Nearly a million Koreans now have heart disease," says cardiologist, Dr. Chae, at the Seoul National University Hospital.
+
+Dr. Ortiz, ex-president of the Philippines Heart Association, says that owing to a (52) lack of exercise, excessive smoking, and a diet consisting primarily of fast food, heart disease has become his country's number-one (53) killer. "It is this combination of risk factors that is so deadly and is taking a (54) toll on the general population of this country. Moreover, this 'killer' affects people from all (55) walks of life. For example, three doctors, who were former medical school classmates, have also suffered massive heart attacks. They were in their early forties. Paramedics that attended to them (56) performed cardio-pulmonary resuscitation (CPR), but their resuscitation efforts failed."
+
+Malaysian cardiologist, Dr. Abdul Latiff, says, "Ten years ago, heart disease among the young was unheard of, but today it is becoming a very (57) common phenomenon." Two years ago, Dr. Latiff raced to help a man wheeled in with serious chest pains. The man's life was (58) hanging on a thread. He was breathless, cold, and pale. Latiff's eyes darted towards a chart on the wall. (59) Looking at his heart-rate chart, Latiff exclaimed, "I cannot believe that this man is only 31 years old!"
+
+The news is mostly bad. "Still," says Dr. Latiff, "the good news is this pandemic of heart disease is entirely preventable, but we must act fast before it is too (60) late."
+
+Malaysia's Ministry of Health has (61) set up free screening programmes in rural hospital clinics. These clinics run tests that allow checks on patients' cholesterol levels, blood pressure, and other risk factors. Those at (62) risk are identified and treated for their conditions. They are also given advice on how to stay hale and (63) hearty. Furthermore, they receive advice on how to lead a healthy lifestyle. Many people are referred to these programmes by their local doctors.
+
+Dr. Zainal, an official with the Malaysian Ministry of Health, says, "We are taking our first baby (64) steps, but it is making a difference."
+
+In Singapore, heart disease is also one of the top three "lifestyle diseases" of a developed nation. The government has decided to focus on educating the young on the (65) importance of an active and healthy lifestyle.
+
