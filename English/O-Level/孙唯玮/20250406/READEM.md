@@ -30,5 +30,16 @@
     - booth /buːð/ n. 售货棚；(餐馆中的)火车座，卡座；不受干扰的划定空间(如电话亭、投票间等)；临时货摊(或放映棚等)
     - excerpt /ˈeksɜːpt/ n. 摘录；节选；(音乐、电影的)片段 vt. 摘录；摘要；引用；节要
     - minaret /ˌmɪnəˈret/ n. 宣礼塔(常为清真寺的一部分)
-  - 24  
+    - Cairo /ˈkaɪrəʊ/ n. 开罗（埃及首都）
+    - Islamic /ɪzˈlæmɪk/ adj. 伊斯兰教的
+    - ubiquitous /juːˈbɪkwɪtəs/ adj. 无处不在的；十分普遍的；似乎无所不在的
+      - ubiquitousness
+    - accost /əˈkɒst/ vt. 搭讪；(贸然)上前搭讪；(唐突地)走近谈话
+    - impudent /ˈɪmpjədənt/ adj. 粗鲁的；不恭的
+    - merchant
+    - merchandise
+    - commerce
+    - commercial
+    - vibrancy 活力
+  - 24 
 
