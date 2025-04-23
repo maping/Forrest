@@ -55,7 +55,8 @@ P166
     - prosperous /ˈprɒspərəs/ adj. 繁荣的；成功的；兴旺的
       - less prosperous 不那么富裕的
     - double up 兼任；兼职；兼做
-
+      - double up as sth 兼做某事
+    - garment /ˈɡɑːmənt/ n. 服装；(一件)衣服 v. 给…穿衣服
   - 29 for 和 of 都可以，先都保留
   - 31 for，所以 29 只能选 of
   - 32 有难度，后面是一句完整的话，所以不能用 of，应该用从句连接词
@@ -63,6 +64,9 @@ P166
       - [高考语法填空之三大从句连词怎么选【上篇】](https://www.bilibili.com/video/BV1wj411u7gA)
       - [高考语法填空之三大从句连词怎么选【下篇】](https://www.bilibili.com/video/BV1MM411s76T) 
   - 34 有难度
+  - 
+
+
 Since at least the Middle Ages, wedding clothes have consisted of the finest clothes that a bride and groom could afford to mark the occasion (29) **of** their nuptials. These clothes (30) **may** have been made exclusively for them, or purchased ready-made, or hired for the occasion. Until the nineteenth century, the clothes of both the bride and groom were often coloured. Being a popular colour in early nineteenth-century women's fashions, white became a natural choice (31) **for** many brides. Progressively, the custom of a "white wedding" evolved (32) **until** the association of a white wedding dress with a virgin bride was firmly established in the minds of many. In the nineteenth century, brides in mourning selected colours to reflect (33) **their** bereavement.
 
-Practical considerations also influenced the choice of wedding clothes. In the early nineteenth century, a bride (34) **would** appear at subsequent social functions in her wedding finery so the wedding gown was often styled as an evening dress. Later in the century, when afternoon dresses (35) **were** worn for the ceremony, a second dress - with a bodice appropriate for evening wear - was sometimes made. Less prosperous brides often chose coloured wedding dresses which could double (36) up as "best dress". Meanwhile, women in the highest social circles (37) must ensure their wedding dresses were proper for the post-nuptial court presentation. For brides in the later twentieth century, long wedding dresses have become a fantasy garment, replete with symbolic associations and far removed (38) from everyday dress. As such, they are intended to be worn once only.
+Practical considerations also influenced the choice of wedding clothes. In the early nineteenth century, a bride (34) **would** appear at subsequent social functions in her wedding finery so the wedding gown was often styled as an evening dress. Later in the century, when afternoon dresses (35) **were** worn for the ceremony, a second dress - with a bodice appropriate for evening wear - was sometimes made. Less prosperous brides often chose coloured wedding dresses which could double (36) **up** as "best dress". Meanwhile, women in the highest social circles (37) **must** ensure their wedding dresses were proper for the post-nuptial court presentation. For brides in the later twentieth century, long wedding dresses have become a fantasy garment, replete with symbolic associations and far removed (38) from everyday dress. As such, they are intended to be worn once only.
