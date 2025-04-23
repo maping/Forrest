@@ -95,4 +95,5 @@ He walked to the (59) **window** and opened the curtains. The light changed the 
 Going back (62) **to** his bedroom, he discovered a small mirror that had been a (63) **gift** from Lord Henry. He looked at his real face and saw no sign of cruelty. What did it signify?
 
 He threw himself into a (64) **chair** and began to ponder. Suddenly he (65) **remembered** what he had said in Rasol Thallward’s house the day the picture had been completed. He had asked for the painting to grow old so that he himself could remain young.
- 
+
+[一起读奥斯卡·王尔德的著作《道林·格雷的画像》](https://baijiahao.baidu.com/s?id=1651004039927389504&wfr=spider&for=pc)
