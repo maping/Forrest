@@ -54,6 +54,8 @@ P166
     - bodice /ˈbɒdɪs/ n. 连衣裙上身
     - prosperous /ˈprɒspərəs/ adj. 繁荣的；成功的；兴旺的
       - less prosperous 不那么富裕的
+    - double up 兼任；兼职；兼做
+
   - 29 for 和 of 都可以，先都保留
   - 31 for，所以 29 只能选 of
   - 32 有难度，后面是一句完整的话，所以不能用 of，应该用从句连接词
