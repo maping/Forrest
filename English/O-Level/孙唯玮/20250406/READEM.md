@@ -42,4 +42,9 @@
     - commercial
     - vibrancy 活力
   - 24 
+ 
+P166
 
+Since at least the Middle Ages, wedding clothes have consisted of the finest clothes that a bride and groom could afford to mark the occasion (29) of their nuptials. These clothes (30) may have been made exclusively for them, or purchased ready-made, or hired for the occasion. Until the nineteenth century, the clothes of both the bride and groom were often coloured. Being a popular colour in early nineteenth-century women's fashions, white became a natural choice (31) for many brides. Progressively, the custom of a "white wedding" evolved (32) until the association of a white wedding dress with a virgin bride was firmly established in the minds of many. In the nineteenth century, brides in mourning selected colours to reflect (33) their bereavement.
+
+Practical considerations also influenced the choice of wedding clothes. In the early nineteenth century, a bride (34) would appear at subsequent social functions in her wedding finery so the wedding gown was often styled as an evening dress. Later in the century, when afternoon dresses (35) were worn for the ceremony, a second dress - with a bodice appropriate for evening wear - was sometimes made. Less prosperous brides often chose coloured wedding dresses which could double (36) up as "best dress". Meanwhile, women in the highest social circles (37) must ensure their wedding dresses were proper for the post-nuptial court presentation. For brides in the later twentieth century, long wedding dresses have become a fantasy garment, replete with symbolic associations and far removed (38) from everyday dress. As such, they are intended to be worn once only.
