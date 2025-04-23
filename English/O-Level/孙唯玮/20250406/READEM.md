@@ -81,14 +81,18 @@ Practical considerations also influenced the choice of wedding clothes. In the e
     - passerby: 过路人
   - 49 vehement → vehemently
     - vehement /ˈviːəmənt/ adj. 激烈的；(感情)强烈的；(尤指)愤怒的
-
+  
   - P168
+    - 单词
+      - malevolent /məˈlevələnt/ adj. 恶毒的；有恶意的；有坏心肠的
+      - ponder /ˈpɒndə(r)/ v. 思考；考虑；沉思；琢磨
+    - 52  
  
-He turned and left the room. After walking the streets of Denver for the entire night, he arrived (51) ______ just after sunrise. As he passed (52) ______ the library, he saw the portrait that Rasol Thallward had (53) ______ of him. He gaped at it in surprise (54) ______ walked on into his bedroom. He (55) ______ his coat off and stood (56) ______ to his bed. A few moments later, he returned to the (57) ______ and looked at it closely. In the faint light, the face (58) ______ to have transformed a little. Now, the mouth looked malevolent. It was unquestionably bizarre.
+He turned and left the room. After walking the streets of Denver for the entire night, he arrived (51) **home** just after sunrise. As he passed (52) **through** the library, he saw the portrait that Rasol Thallward had (53) **painted** of him. He gaped at it in surprise (54) **and** walked on into his bedroom. He (55) **took** his coat off and stood (56) **next** to his bed. A few moments later, he returned to the (57) **portrait** and looked at it closely. In the faint light, the face (58) **seemed** to have transformed a little. Now, the mouth looked malevolent. It was unquestionably bizarre.
 
-He walked to the (59) ______ and opened the curtains. The light changed the room (60) ______ the face stayed the same. In fact, the sunlight made the mouth look even (61) ______.
+He walked to the (59) **window** and opened the curtains. The light changed the room (60) **but** the face stayed the same. In fact, the sunlight made the mouth look even (61) **worse**.
 
-Going back (62) ______ his bedroom, he discovered a small mirror that had been a (63) ______ from Lord Henry. He looked at his real face and saw no sign of cruelty. What did it signify?
+Going back (62) **to** his bedroom, he discovered a small mirror that had been a (63) **gift** from Lord Henry. He looked at his real face and saw no sign of cruelty. What did it signify?
 
-He threw himself into a (64) ______ and began to ponder. Suddenly he (65) ______ what he had said in Rasol Thallward’s house the day the picture had been completed. He had asked for the painting to grow old so that he himself could remain young.
+He threw himself into a (64) **chair** and began to ponder. Suddenly he (65) **remembered** what he had said in Rasol Thallward’s house the day the picture had been completed. He had asked for the painting to grow old so that he himself could remain young.
  
