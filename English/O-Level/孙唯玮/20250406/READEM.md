@@ -69,3 +69,26 @@ P166
 Since at least the Middle Ages, wedding clothes have consisted of the finest clothes that a bride and groom could afford to mark the occasion (29) **of** their nuptials. These clothes (30) **may** have been made exclusively for them, or purchased ready-made, or hired for the occasion. Until the nineteenth century, the clothes of both the bride and groom were often coloured. Being a popular colour in early nineteenth-century women's fashions, white became a natural choice (31) **for** many brides. Progressively, the custom of a "white wedding" evolved (32) **until** the association of a white wedding dress with a virgin bride was firmly established in the minds of many. In the nineteenth century, brides in mourning selected colours to reflect (33) **their** bereavement.
 
 Practical considerations also influenced the choice of wedding clothes. In the early nineteenth century, a bride (34) **would** appear at subsequent social functions in her wedding finery so the wedding gown was often styled as an evening dress. Later in the century, when afternoon dresses (35) **were** worn for the ceremony, a second dress - with a bodice appropriate for evening wear - was sometimes made. Less prosperous brides often chose coloured wedding dresses which could double (36) **up** as "best dress". Meanwhile, women in the highest social circles (37) **must** ensure their wedding dresses were proper for the post-nuptial court presentation. For brides in the later twentieth century, long wedding dresses have become a fantasy garment, replete with symbolic associations and far removed (38) **from** everyday dress. As such, they are intended to be worn once only.
+
+- P167
+  - 40 lead vs leading
+  - 46 go by vs go through
+    - go by：时光流逝，顺便走访
+    - go through：通过，穿过，经历，遭受，完成，用完，看完
+    - pass by：经过，过去，疏忽，不予理会，回避
+    - pass through：经过，通过，经历，遭受，经历并完成
+    - bypass：绕开，避开
+    - passerby: 过路人
+  - 49 vehement → vehemently
+    - vehement /ˈviːəmənt/ adj. 激烈的；(感情)强烈的；(尤指)愤怒的
+
+  - P168
+ 
+He turned and left the room. After walking the streets of Denver for the entire night, he arrived (51) ______ just after sunrise. As he passed (52) ______ the library, he saw the portrait that Rasol Thallward had (53) ______ of him. He gaped at it in surprise (54) ______ walked on into his bedroom. He (55) ______ his coat off and stood (56) ______ to his bed. A few moments later, he returned to the (57) ______ and looked at it closely. In the faint light, the face (58) ______ to have transformed a little. Now, the mouth looked malevolent. It was unquestionably bizarre.
+
+He walked to the (59) ______ and opened the curtains. The light changed the room (60) ______ the face stayed the same. In fact, the sunlight made the mouth look even (61) ______.
+
+Going back (62) ______ his bedroom, he discovered a small mirror that had been a (63) ______ from Lord Henry. He looked at his real face and saw no sign of cruelty. What did it signify?
+
+He threw himself into a (64) ______ and began to ponder. Suddenly he (65) ______ what he had said in Rasol Thallward’s house the day the picture had been completed. He had asked for the painting to grow old so that he himself could remain young.
+ 
