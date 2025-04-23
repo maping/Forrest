@@ -5,7 +5,8 @@
 - P161
   - 16
     - diminish
-    - stanch
+    - stanch /stɔːntʃ/ vt. 止住；使（伤口）止血；止（血）
+      - vi. 停止流出 adj. 坚固的；坚定的
     -  
 
 
