@@ -1,1 +1,22 @@
+# 错题讲解
 
+- P142-143
+  - 5 if 条件状语从句
+    - [常见的if型省略结构、v.­ing(短语)作主语的用法等重点句型详解](https://www.shimengyuan.com/zhishidian/1079.html)
+    - 百度：英语if从句 与 动名词短语的区别
+  - 7 disappoint 介词搭配
+    - be disappointed in sb 对某人感到失望
+    - be disappointed with/about/at sth 对某事感到失望
+      - I am disappointed with the way things have gone.
+  - 10
+    - toddler /ˈtɒdlə(r)/ n. 蹒跚学步的孩子；刚学会走路的孩子；学步的儿童
+    - back v. 支持；帮助；(使)后退，倒退；伴奏；位于（某物）的后面；下赌注于(赛马、参赛队伍等)；（用某物）在…背后加固，给…加背衬
+    - back away 后退;（常因害怕等而）后退，退缩;放弃;退出;
+- P145
+  - 17
+    - gather 指人自发的或者有意的进行集合，通常表示人集合
+    - collect 强调的是收集，收集限量版的东西，稀少的东西
+    - flock 蜂拥聚集
+    - cluster 描述密集或成团的聚集
+    - assemble 只指为了特定的目的，把零散的东西或人收集或集合在一起
+    - accumulate 指长时间的积累
