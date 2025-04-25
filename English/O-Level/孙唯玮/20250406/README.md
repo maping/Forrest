@@ -99,3 +99,17 @@ He threw himself into a (64) **chair** and began to ponder. Suddenly he (65) **r
 [一起读奥斯卡·王尔德的著作《道林·格雷的画像》](https://baijiahao.baidu.com/s?id=1651004039927389504&wfr=spider&for=pc)
 
 - P170-172
+
+We were six teenagers on a week-long service mission to restore the homes of the less privileged living in the Appalachian mountains. The area appeared to contradict itself, for it held so much magnificence yet housed so much poverty. Perhaps we hailed ourselves as being able to serve those in need; I do not think we ever conjured up what we could benefit from it would perhaps be more valuable than any services we could render.
+
+Our white van meandered through the broken West Virginia landscape and pulled up alongside John’s avocado-coloured house. As the doors opened, we poured out with hammers in hand, prepared to start our routine. We interchanged jobs as we basked in the southern sun; some of us scraped and painted windows, while others stained the deck or mended the roof. All the while, John, a retiree, sat in a lawn chair observing us – the kindest of old men, only too apologetic that he could not toil alongside with us on the ladders. We passed the time with private jokes and songs, truly enjoying ourselves despite the monotony of painting window after window as John just silently observed with a cane in hand to support himself in case he needed to get up.
+
+As the clock neared noon, we took our lunch break in the shelter of a small tree in John’s front yard. Sam, our moderator, planted John’s chair beside us and announced that since he was keen to assist in any way possible, John would lead us in a before-meal prayer. He saw our weary faces and heard the growls from our stomachs. He kept it succinct and we started digging into our food.
+
+“Let me tell you a story…,” he then began. From the pit of his modest heart, he began to unravel his eighty-some-odd years for us. He was a school teacher who had a dog named Pretty-Face. He told of old hunting expeditions in the mountains where his life was almost lost to a bear, and he talked of subduing a rattlesnake, even showing us the rattles.
+
+Then his cavernous eyes just wandered off as if he was no longer talking for our benefit, but more for his own. He described that day his dog died, as fat tears rolled down his weathered cheeks and he clasped the end of his cane. He recalled her faithfulness to the end as with one last thump of the tail, looking up at him, Pretty-Face passed on. He remembered his wife gazing up at him much the same way seconds before her demise.
+
+He always tenderly called his wife ‘Mama’, and he told of how she had always stayed up until the wee hours of the morning to bake the bread for the next day while he, often exhausted from a long day of teaching or hunting, would retire to bed. “Why hadn’t I taken the extra time to stay up with her?” he said in a distant voice as his eyes gazed beyond us. “Why couldn’t I do so? Why?”
+
+I remembered how intensely those words rang inside of me. Here was a man brimming with wisdom and reflections on his life, telling me to make the most of mine, to take the extra time with those I love. I was motivated; I was mesmerised by this amazing old man whom I had thought I was helping. John’s house was not a workplace at all; it was a classroom.
