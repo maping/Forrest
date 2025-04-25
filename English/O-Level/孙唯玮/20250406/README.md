@@ -155,10 +155,32 @@ He threw himself into a (64) **chair** and began to ponder. Suddenly he (65) **r
     - thump /θʌmp/ v. 重击；(使)撞击，嘭地发出闷响；(尤指用拳)捶击；怦怦地跳；狠打；强有力地跳动
       - n. 重击；捶击；重击声；碰撞声
     - pass on 告诉，告知，传递（信息）；去世；逝世；将…传给；将…交给；将…转移给；将…转嫁给
+    - demise /dɪˈmaɪz/ n. 死亡；消亡；终止；倒闭；失败；逝世；一命呜呼
+      - v. 让位；遗赠
   - 第六段单词
+    - wee /wiː/ adj. 一丁点儿；极小的；很少的；很小的；微量的 
   - 第七段单词
+    - brim /brɪm/ n. 边缘；帽檐；(杯、碗等的)口，边沿；有…边的
+      - vi. (使)满，盛满
+    - mesmerise ['mezməraɪz] v.迷住;吸引 
 - 主谓宾分析
-  - 第一段最后一句  
+  - 第一段最后一句
+  - 第六段第一句
+  - I was mesmerised by this amazing old man whom I had thought I was helping
+- 71
+  - "it" refers to the experience of the service mission itself—specifically, the intangible lessons and personal growth the teenagers gained from their time in Appalachia.
+- 72
+  - As the doors opened, we poured out with hammers in hand, prepared to start our routine
+  - The word "routine" implies this was a habitual or repeated activity, suggesting prior experience with similar service work.
+- 73
+  - Scraped and painted windows
+  - Stained the deck
+  - Mended the roof
+- 74
+  - Physical Limitations Due to Age/Health
+    - He is described as a retiree who needed a cane to support himself when standing (Paragraph 2: "John just silently observed with a cane in hand to support himself in case he needed to get up"). This implies mobility issues or frailty.
+  - Apologetic Demeanor
+    - The text notes he was "only too apologetic that he could not toil alongside with us on the ladders" (Paragraph 2), suggesting he physically couldn’t participate in strenuous tasks like climbing or manual labor.
 
 We were six teenagers on a week-long service mission to restore the homes of the less privileged living in the Appalachian mountains. The area appeared to contradict itself, for it held so much magnificence yet housed so much poverty. Perhaps we hailed ourselves as being able to serve those in need; I do not think we ever conjured up what we could benefit from it would perhaps be more valuable than any services we could render.
 
