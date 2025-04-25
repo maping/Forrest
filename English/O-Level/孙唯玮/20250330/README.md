@@ -153,6 +153,7 @@ He has been winning major (59) **awards** since he was a teenager and now excels
         - The house will not be yours till after your mother's decease
       - perish : 书面用词，多指夭折或不幸暴亡。
         - Three hundred people perished in the earthquake.
+      - demise: 在表示'死亡'时，常隐含悲剧性、仪式感或历史性，多用于重要人物或机构的消亡。
     - 第二段单词
       - monsoon /ˌmɒnˈsuːn/ n. 季风
       - snowslide /ˈsnəʊslaɪd/ n. 雪崩
