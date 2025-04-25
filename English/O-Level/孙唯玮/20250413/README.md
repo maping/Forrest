@@ -14,6 +14,10 @@
     - back away 后退;（常因害怕等而）后退，退缩;放弃;退出;
 - P145
   - 17
+    - The underlined word "gathered" means people came together around a point. "Clustered" is the closest synonym, as it describes a group forming closely around something.
+      - (1) flocked: typically used for animals or large groups moving together, less precise here.
+      - (3) assembled: can imply a more formal gathering, which doesn’t fit the spontaneous context.
+      - (4) accumulated: usually refers to objects or quantities increasing over time, not people gatherin 
     - gather 指人自发的或者有意的进行集合，通常表示人集合
     - collect 强调的是收集，收集限量版的东西，稀少的东西
     - flock 蜂拥聚集
