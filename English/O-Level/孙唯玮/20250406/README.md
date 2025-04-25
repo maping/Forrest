@@ -99,6 +99,66 @@ He threw himself into a (64) **chair** and began to ponder. Suddenly he (65) **r
 [一起读奥斯卡·王尔德的著作《道林·格雷的画像》](https://baijiahao.baidu.com/s?id=1651004039927389504&wfr=spider&for=pc)
 
 - P170-172
+  - 第一段单词
+    - privilege /ˈprɪvəlɪdʒ/ n. 特权；荣幸；荣耀；(有钱有势者的)特殊待遇；优惠待遇；光荣；特殊利益；免责特权
+      - vt. 给予特权；特别优待
+    - contradict /ˌkɒntrəˈdɪkt/ v. 反驳；相矛盾；相抵触；相反；驳斥；批驳
+    - magnificence n. 华丽；华丽,富丽堂皇
+    - house v. 安置，容纳
+    - hail /heɪl/ n. 冰雹；一阵像冰雹般袭来的事物；雹子般的一阵
+      - v. 招手(请出租车或公共汽车停下)；下雹；跟…打招呼；赞扬(或称颂)…为…(尤用于报章等)；向…喊
+    - conjure /ˈkʌndʒə(r)/ v. 变魔术；变戏法；使…变戏法般地出现(或消失)
+    - render /ˈrendə(r)/ vt. 提供；使成为；使变得；提交；给予；递交；回报；呈献；使处于某状态
+      - v. 提供；提交；给予；翻译；表达；（用不同的语言）表达；粉刷；将（脂肪）熬成油
+      - n. 抹灰；粉刷；(墙壁的)初涂；精制油
+  - 第二段单词
+    - meander /miˈændə(r)/ vi. 蜿蜒而行；(乏味地、令人费解地)漫谈，闲聊；闲逛；漫步；迂回曲折
+      - n. 曲径；迂回曲折的旅程
+    - pull up （车或驾车者）减速停下；使突然终止;使突然中断；把（椅子）拉近并坐下
+    - pour out 倾吐；诉说；斟，倒（饮料）；倾吐，倾诉，毫无保留地诉说（思想、感情或经历）
+    - bask v. （舒适地）晒太阳，取暖；沉浸，沐浴（在赞美、关注等中）；使暖和而舒适
+    - scrape /skreɪp/ v. 刮；擦伤；削去；刮坏；蹭破；擦坏；(使)发出刺耳的刮擦声；把头发拢在后面；艰难取得；挖坑
+      - n. 刮；擦伤；铲；擦痕；刮擦声；自己造成的困境
+    - stain /steɪn/ n. 污渍；(名声上的)污点；染色剂；着色剂
+      - v. 给…染色(或着色)；(被)玷污；玷污，败坏(名声)；留下污渍
+    - mend /mend/ v. 修补；修理；缝补；愈合；解决(争端)；弥合(分歧)；痊愈；织补
+      - n. 修补；好转；痊愈
+    - retiree /rɪˌtaɪəˈriː/ n. 退休人员；退休者
+    - apologetic /əˌpɒləˈdʒetɪk/ adj. 道歉的，谢罪的，愧疚的；辩护的，辩解的
+      - n. （为信仰、事业等所作的）辩护（书）
+    - toil /tɔɪl/ vi. 辛苦工作；(长时间)苦干，辛勤劳作；跋涉；艰难缓慢地移动
+      - n. 苦工；劳累的工作
+    - monotony /məˈnɒtəni/ n. 单调；千篇一律
+    - cane /keɪn/ n. 手杖；(用于制作家具等的)竹竿，藤条；藤杖；竹杖；(某些植物，如竹或甘蔗的)茎
+      - vt. 用藤条鞭打，用藤杖打，鞭笞(作为惩罚) 
+  - 第三段单词
+    - moderator /ˈmɒdəreɪtə(r)/ n. 调解人；仲裁人；调停人；评分监督；长老会会议主席
+    - plant vt. 种植；播种；栽种；在(某处)栽种；（给某人）栽（赃）；（秘密）放置，安置；安放；植根于；竖立；使卧底；立稳
+    - weary /ˈwɪəri/ adj. 疲倦的；(尤指长时间努力工作后)疲惫的；使人厌烦的；使人疲劳的；(对…)不再感兴趣，不再热心，感到不耐烦
+      - v. 使疲劳；使疲倦；(对…)失去兴趣，失去热情
+    - growl /ɡraʊl/ v. 低声吼叫；咆哮；发出低沉的怒吼
+      - n. 怒吼声；咆哮
+    - succinct /səkˈsɪŋkt/ adj. 简明的；言简意赅的
+  - 第四段单词
+    - unravel /ʌnˈrævl/ v. 解开；瓦解；解体；崩溃；(把缠或织在一起的线)拆散；松开；说明；阐释；澄清；变得清楚易懂
+    - eighty-some-odd 八十多岁
+    - expedition /ˌekspəˈdɪʃn/ n. 探险；远征；探险队；考察；远征队；考察队；(短途的)旅行
+    - subdue /səbˈdjuː/ vt. 制服；征服；抑制，压制，克制(感情)；制伏；控制
+    - rattlesnake /ˈrætlsneɪk/ n. 响尾蛇(产于美洲)
+  - 第五段单词
+    - cavernous /ˈkævənəs/ adj. 像洞穴的；又黑又深的；大而空的
+    - fat tears 滚圆的泪珠
+    - weathered /ˈweðəd/ v. (因受风吹、日晒、雨淋等，使)退色，变色，变形；经受住，平安地渡过(困难)
+      - adj. 风化的；倾斜的
+    - clasp /klɑːsp/ n. 紧握；(包、皮带或首饰的)搭扣；扣环；紧抱；紧攥
+      - vt. 扣紧；握紧；抱紧；抓紧；紧紧拥抱；攥紧；扣牢
+    - thump /θʌmp/ v. 重击；(使)撞击，嘭地发出闷响；(尤指用拳)捶击；怦怦地跳；狠打；强有力地跳动
+      - n. 重击；捶击；重击声；碰撞声
+    - pass on 告诉，告知，传递（信息）；去世；逝世；将…传给；将…交给；将…转移给；将…转嫁给
+  - 第六段单词
+  - 第七段单词
+- 主谓宾分析
+  - 第一段最后一句  
 
 We were six teenagers on a week-long service mission to restore the homes of the less privileged living in the Appalachian mountains. The area appeared to contradict itself, for it held so much magnificence yet housed so much poverty. Perhaps we hailed ourselves as being able to serve those in need; I do not think we ever conjured up what we could benefit from it would perhaps be more valuable than any services we could render.
 
