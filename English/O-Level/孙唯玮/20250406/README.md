@@ -163,24 +163,49 @@ He threw himself into a (64) **chair** and began to ponder. Suddenly he (65) **r
     - brim /brɪm/ n. 边缘；帽檐；(杯、碗等的)口，边沿；有…边的
       - vi. (使)满，盛满
     - mesmerise ['mezməraɪz] v.迷住;吸引 
-- 主谓宾分析
-  - 第一段最后一句
-  - 第六段第一句
-  - I was mesmerised by this amazing old man whom I had thought I was helping
-- 71
-  - "it" refers to the experience of the service mission itself—specifically, the intangible lessons and personal growth the teenagers gained from their time in Appalachia.
-- 72
-  - As the doors opened, we poured out with hammers in hand, prepared to start our routine
-  - The word "routine" implies this was a habitual or repeated activity, suggesting prior experience with similar service work.
-- 73
-  - Scraped and painted windows
-  - Stained the deck
-  - Mended the roof
-- 74
-  - Physical Limitations Due to Age/Health
-    - He is described as a retiree who needed a cane to support himself when standing (Paragraph 2: "John just silently observed with a cane in hand to support himself in case he needed to get up"). This implies mobility issues or frailty.
-  - Apologetic Demeanor
-    - The text notes he was "only too apologetic that he could not toil alongside with us on the ladders" (Paragraph 2), suggesting he physically couldn’t participate in strenuous tasks like climbing or manual labor.
+  - 主谓宾分析
+    - 第一段最后一句
+    - 第六段第一句
+    - I was mesmerised by this amazing old man whom I had thought I was helping
+  - 71
+    - "it" refers to the experience of the service mission itself—specifically, the intangible lessons and personal growth the teenagers gained from their time in Appalachia.
+  - 72
+    - As the doors opened, we poured out with hammers in hand, prepared to start our routine
+    - The word "routine" implies this was a habitual or repeated activity, suggesting prior experience with similar service work.
+  - 73
+    - Scraped and painted windows
+    - Stained the deck
+    - Mended the roof
+  - 74
+    - Physical Limitations Due to Age/Health
+      - He is described as a retiree who needed a cane to support himself when standing (Paragraph 2: "John just silently observed with a cane in hand to support himself in case he needed to get up"). This implies mobility issues or frailty.
+    - Apologetic Demeanor
+      - The text notes he was "only too apologetic that he could not toil alongside with us on the ladders" (Paragraph 2), suggesting he physically couldn’t participate in strenuous tasks like climbing or manual labor.
+   - 75
+     - Their weary faces – John noticed their physical exhaustion from the labor.
+     - The growls from their stomachs – He heard audible signs of their hunger.
+     - He kept the before-meal prayer succinct to allow them to eat quickly, acknowledging their fatigue and hunger ("He saw our weary faces and heard the growls from our stomachs. He kept it succinct...").
+   - 76
+     - 3
+     - 2
+     - 1
+   - 77
+     - Before retirement: He was a school teacher ("He was a school teacher who had a dog named Pretty-Face").
+     - Free-time activity: He enjoyed hunting in the mountains ("He told of old hunting expeditions in the mountains..."), including surviving a bear attack and subduing a rattlesnake.
+   - 78
+     - When John asks, "Why couldn’t I do so?" (line 33), he is expressing deep regret for not prioritizing time with his late wife.
+   - 79
+     - John's house became a classroom because his life stories taught the teens deeper lessons about love and regret, not just manual skills. His vulnerability turned physical labor into emotional learning, making the house a place of wisdom, not just work..
+   - 80
+     - The writer and her friends were bored of the monotony of painting window after window.
+       - False
+       - They "truly enjoyed ourselves despite the monotony" (Paragraph 2), using jokes and songs to stay engaged.
+     - John was a man of few words.
+       - False
+       - He spoke at length during lunch, sharing detailed stories about his life (e.g., hunting, his dog, his wife) (Paragraph 3).
+     - John had some regrets in his life.
+       - True
+       - He openly wept while questioning why he didn’t "stay up" with his wife (Lines 31–33), showing remorse over missed moments.
 
 We were six teenagers on a week-long service mission to restore the homes of the less privileged living in the Appalachian mountains. The area appeared to contradict itself, for it held so much magnificence yet housed so much poverty. Perhaps we hailed ourselves as being able to serve those in need; I do not think we ever conjured up what we could benefit from it would perhaps be more valuable than any services we could render.
 
