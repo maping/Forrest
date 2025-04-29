@@ -1,84 +1,55 @@
-# Summary 原文 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
-Read the article about a teenager’s day trip to Treetop World, an adventure park in the forest where people can climb high in the trees.
+2025/04/25Forrest课堂反馈
+科目：IGCSE ESL 写作
+上课时间：19:30-21:30
+上次作业布置时间：2025/04/11
 
-Write a summary about the advice given to people who are planning to go to Treetop World.
+【完成情况】优秀
 
-Your summary should be about 80 words long (and no more than 90 words long). You should use your own words as far as possible.
+【存在问题】见下文反馈
 
-You will receive up to 6 marks for the content of your summary and up to 6 marks for the style and accuracy of your language.
+【本次课堂内容】
+Free Talk
+作业分析
+*Summary
+*Article
+课堂作文讲解
+*思路分析
+*开头段练习
 
-**Adventure in the trees**
+【本次课堂表现】
+今天Forrest课堂表现还行，但是感觉蛮累的。听Forrest说是因为连续考了三场考试，阳气耗尽啦？！
 
-I loved climbing trees as a child, so for my birthday last weekend my friends knew exactly where to take me – a day out to Treetop World! The only way to describe Treetop World is an adventure park high in the forest. You experience climbing and swinging across the treetops on ropes and ladders, all in a safe environment with expert guides to help.
+Free Talk:
+今天和Forrest分享了postcrossing网站，Forrest感兴趣的话可以试着玩一下，可以很好地了解不同国家的文化，并且练习语言输出。
 
-Our tickets were booked for 14:00, but I’d definitely recommend arriving early. This is a good idea as you can watch the people already climbing high in the trees. It looked a bit scary but lots of fun, although one man dropped his phone onto the ground below. Obviously, it’s a good idea to put your belongings into a zipped pocket! And if possible leave anything valuable at home.
+作业分析：
+*Summary
+这次的summary写得很不错！所有的点都涵盖到了。总体来说有进步！有些地方还是需要注意：
+1. 无中生有。原文没讲到要穿“old clothes”，只是说了穿“不介意弄脏的衣服”。建议Forrest忠于原文；
+2. 最后一句表达过于复杂，已经不像summary了。“The course starts easily but gets harders…”这些都不属于建议了，而是比较详细的描述。
+*其他都写得不错！表扬表扬！
 
-At 14:00 our guide, Jed, gave us our safety talk, which everyone has to attend. It included some useful tips. He made the talk entertaining, and when I was up in the trees feeling slightly nervous, I was glad I remembered what he’d said. So listen carefully to your guide – you won’t regret it.
+*Article
+这篇Article的整体框架很棒，段内结构也很清晰。整体来说，两个论述段偏短，如果Forrest想要战胜EFL的话，可以给自己要求高一点，不一定按照题目要求的字数，尽量做到多写、详细、论据充足。
+1. 标题要表明立场。和之前作文一样，Forrest这次的作文标题还是问句。标题最好明确自己的立场，并且下文全文围着这个方向写；
+2. 缩写！大小写！课上和作业点评还是会继续强调；
+3. 第三段（第二个论点）的论述不够充分。Forrest可以学着第二段的结构，分析“为什么竞争是好事（比如：提升效率、激发潜力）”；
+4. 简单句可以变成复杂句。但凡连着的两句话有逻辑关系，特别是后面句子有指代前面的内容，建议改成从句。比如Forrest写的第三段，其实就是两个简单句。当论据不够充分的时候，简单句会整体拉低文章的水平；
+5. 结尾段写得比较粗心。另外，可以写得更加正式，句子也可以变成复杂句（和第三段同理）；
+6. 结尾段的academically和socially建议调换顺序，变成“socially and academically”，这样可以在顺序上对应第二和第三段的内容；另外，第二第三段的开头也可以是“Socially, studying together helps…”和“Academically, having both boys and girls…”；不一定每次都用“First of all/First”等顺序明显的词；当Forrest在结构上很熟练时，可以在作文中融入一点巧思了！
 
-To get up in the trees, we had to climb a 150-metre ladder to the first platform. I was chosen as the first person to swing across to the next branch. I felt unsure, but took a deep breath and stepped forwards. Suddenly I was rushing through the air like a bird, landing safely at the next tree. I loved it!
+课堂作文练习：
+1. 本次课我们分析了话题“convenience food”。课上发现Forrest又开始混淆“论点”和“分析/例子”了；Forrest说的很多内容，其实作为例子更合适；对Forrest来说，比较难的是总结自己的一顿输出（要用到summarize的能力了）；
+2 Forrest之前写的作文，不是写完就完事儿了；很多观点和例子可以作为自己的素材库，用在不同的写作话题上；比如之前写的“素食和科技”，（科技）也可以用来反驳“convenience food不营养健康”的观点；这样可以减少每次想论点的时间，毕竟考试时间有限呢！
+3 Forrest记得一个论点不要写太多内容；其实有时候Forrest看不出来自己写的内容是重复的，或者写了多方面内容但只分析了一方；比如“convenience food很方便+节省时间”，就是因为方便才节省了时间呀，所以重点应该在最终的结果上（节省时间），方便是特征，可以在分析部分写。文章的逻辑还是Forrest要着重培养的。
 
-The course is easy at first and gets more challenging, but my confidence increased as I got used to the equipment. Guides monitor you from the forest floor, so if you get a little scared or have a question, just ask them for help.
+这几次课都讲得很细致很慢，每次讲完还让Forrest复述一遍自己要注意的方面；希望Forrest每次写作文之前都看看上一次的作业和点评，减少一直犯同样的错误。
+ 
+【准时度】优秀
 
-After two hours swinging in the trees, we were covered in dust! One thing I’d suggest is wearing clothes you don’t mind getting dirty. And the park remains open even in the rain, so you might want to bring a waterproof jacket. We returned home after a great day out, feeling exhausted but very happy!
+【配合度】优秀
 
-## Summary 作业
-Arrive early to watch others and prepare. Wear old clothes and bring a waterproof jacket, as you’ll get dirty and it might rain. Avoid bringing valuables and keep belongings in zipped pockets. Listen carefully to the safety talk from guides, as it helps when you feel nervous. The course starts easy but gets harder, so don’t worry if you’re unsure at first. Guides are available to help if you have questions or feel scareded
-
-点评：
-- Word count: 74，不到 80 要扣分
-- 按文章顺序整理
-- 旧衣服和雨衣分开说，逻辑更清楚
-- talk 有些中文感
-- easy 没有改写，后来变难，没有说
-- 结尾没有句号
-
-Visitors to Treetop World should arrive early to observe climbers and prepare mentally. Avoid bringing valuables and keep belongings in zipped pockets. Listen carefully to the safety briefing from guides, as it helps when you feel nervous. Wear old clothes, as you may get dirty, and bring a waterproof jacket in case of rain.  The course starts easily but gets harder later on, so don’t worry if you’re unsure at first. Guides are available to help if you have questions or feel scared.
-
-(Word count: 83)
-
-## 根据老师批改 Summary 作业修改
-
-(Word count: 105)
-
-点评：
-
-## DeepSeek 作品
-Visitors to Treetop World should arrive early to observe climbers and prepare mentally. Secure belongings in zipped pockets or leave valuables at home to avoid losing them. Attending the safety briefing is essential, as guides provide helpful tips for navigating the course. Wear old clothes, as the activity can be dusty, and bring a waterproof jacket in case of rain. Guides monitor climbers, so don’t hesitate to ask for assistance. The course progresses from easy to challenging, but confidence grows with practice.
-
-(Word count: 82)
-
-# Article 题目
-Some people think that boys and girls aged 14–18 should attend separate schools.
-
-Here are some comments from young people about this idea:
-- It is important for boys and girls to learn how to understand each other.
-- Competition between boys and girls makes them both work harder.
-- Young people can concentrate better at school if boys and girls are separated.
-- Behaviour is better in separate schools.
-
-Write an article for your school magazine, giving your views about this issue.
-- The comments above may give you some ideas, and you should try to include ideas of your own.
-- Your article should be between 100 and 150 words long.
-- You will receive up to 7 marks for the content of your article, and up to 6 marks for the style and accuracy of your language.
-
-## Article 作业
-Should Boys and Girls Attend Separate Schools?
-
-Recently, there has been a lot of discussion about whether boys and girls aged 14–18 should attend separate schools. Some people believe it helps with focus and improves behaviour, while others think it’s important for both genders to learn how to understand each other. From my perspective, boys and girls should go to mixed-gender schools. 
-
-First of all, studying together helps students develop social skills. In the future, they will need to work with people of different genders, so it’s better to start learning how to communicate early.
-
-Secondly, having both boys and girls in one school can create healthy competition. This can motivate students to work harder and do their best.
-
-In conclusion, mixed schools help students grow both academically and socially. It prepares them better for real life.
-
-## 根据老师批改 Article 作业修改
-
-## DeepSeek 作品
-The idea of separating boys and girls in schools has both advantages and disadvantages. Some argue that single-sex schools improve concentration and behavior, as there are fewer distractions. Competition between genders might also motivate students to work harder.
-
-However, I believe mixed schools are more beneficial. In real life, men and women work together, so learning to communicate and understand each other from a young age is essential. Mixed schools teach social skills, respect, and teamwork, preparing students for future workplaces and relationships. While distractions can happen, they are part of growing up and learning self-discipline.
-
-In conclusion, mixed schools provide a balanced environment where students can excel academically while developing crucial life skills. Separation might solve some problems but could create others, like difficulty in future social interactions.
-
-(Word count: 130)
+【课后作业】
+1 -> 重新整理上次作业的作文 (same school or not)
+2 -> 作文（convenience food）
+3 -> IGCSE ESL summary（tram）
