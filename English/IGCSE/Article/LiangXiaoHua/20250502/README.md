@@ -24,17 +24,14 @@ Many cities around the world have had trams since the 19th century. In the Austr
 Clayton explains that because tram tracks are fixed, people know that a tram route will never change. "It's not the same with buses," he says. "Their routes get changed from time to time for various reasons. And although trams are noisier than buses, people here say they're more comfortable for passengers to ride in. After all, isn't that one of the most important things?"
 
 ## Summary 作业
-Arrive early to watch others and prepare. Wear old clothes and bring a waterproof jacket, as you’ll get dirty and it might rain. Avoid bringing valuables and keep belongings in zipped pockets. Listen carefully to the safety talk from guides, as it helps when you feel nervous. The course starts easy but gets harder, so don’t worry if you’re unsure at first. Guides are available to help if you have questions or feel scareded
+Nowadays, many people depend on convenience food because it saves time. I agree that it helps busy people do other things, like studying or working. It is also very easy to find in shops and supermarkets, making it a popular choice. However, there are some problems. Convenience food is often expensive, and a lot of it is packed in plastic, which is bad for the environment. Also, eating ready-made meals all the time means that many young people do not learn how to cook for themselves, which is an important life skill. In my opinion, we should not completely stop eating convenience food, but we need to find a balance. Learning to cook simple, healthy meals at home can save money, protect the planet, and help us live healthier lives.
+
+(Word count: 130)
 
 点评：
-- Word count: 74，不到 80 要扣分
-- 按文章顺序整理
-- 旧衣服和雨衣分开说，逻辑更清楚
-- talk 有些中文感
-- easy 没有改写，后来变难，没有说
-- 结尾没有句号
 
-Visitors to Treetop World should arrive early to observe climbers and prepare mentally. Avoid bringing valuables and keep belongings in zipped pockets. Listen carefully to the safety briefing from guides, as it helps when you feel nervous. Wear old clothes, as you may get dirty, and bring a waterproof jacket in case of rain.  The course starts easily but gets harder later on, so don’t worry if you’re unsure at first. Guides are available to help if you have questions or feel scared.
+Nowadays, many people depend on convenience food because it saves time. I agree that it helps busy people do other things, like studying or working. It is also very easy to find in shops and supermarkets, making it a popular choice. However, there are some problems. Convenience food is often expensive, and a lot of it is packed in plastic, which is bad for the environment. Also, eating ready-made meals all the time means that many young people do not learn how to cook for themselves, which is an important life skill. In my opinion, we should not completely stop eating convenience food, but we need to find a balance. Learning to cook simple, healthy meals at home can save money, protect the planet, and help us live healthier lives.
+
 
 (Word count: 83)
 
@@ -46,9 +43,9 @@ Visitors to Treetop World should arrive early to observe climbers and prepare me
 点评：
 
 ## DeepSeek 作品
-Visitors to Treetop World should arrive early to observe climbers and prepare mentally. Secure belongings in zipped pockets or leave valuables at home to avoid losing them. Attending the safety briefing is essential, as guides provide helpful tips for navigating the course. Wear old clothes, as the activity can be dusty, and bring a waterproof jacket in case of rain. Guides monitor climbers, so don’t hesitate to ask for assistance. The course progresses from easy to challenging, but confidence grows with practice.
+Tram systems offer several advantages, including reduced pollution as they run on electricity, making them environmentally friendly. They also provide a reliable and comfortable mode of transport, with fixed routes ensuring consistency. Additionally, tram tracks are cheaper to build than railway lines. However, constructing tram systems is time-consuming, and in cities with narrow streets, trams can cause traffic congestion by blocking other vehicles. Unlike buses, tram routes cannot be easily adjusted, which may limit flexibility. Despite these drawbacks, trams remain an efficient public transport solution for many cities.
 
-(Word count: 82)
+(Word count: 88)
 
 # Article 题目
 Some people think that boys and girls aged 14–18 should attend separate schools.
