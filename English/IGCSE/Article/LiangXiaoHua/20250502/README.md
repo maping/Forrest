@@ -1,25 +1,27 @@
 # Summary 原文 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
-Read the article about a teenager’s day trip to Treetop World, an adventure park in the forest where people can climb high in the trees.
+Read the article about trams (electric vehicles that transport people along metal tracks in the road).
 
-Write a summary about the advice given to people who are planning to go to Treetop World.
+Write a summary about the advantages AND disadvantages of having a tram system in a city.
 
-Your summary should be about 80 words long (and no more than 90 words long). You should use your own words as far as possible.
+Your summary must:
+- Be 80–90 words long
+- Use your own words where possible
 
-You will receive up to 6 marks for the content of your summary and up to 6 marks for the style and accuracy of your language.
+Cover both advantages and disadvantages
 
-**Adventure in the trees**
+You will be assessed on:
+- Content (up to 6 marks)
+- Language style and accuracy (up to 6 marks)
 
-I loved climbing trees as a child, so for my birthday last weekend my friends knew exactly where to take me – a day out to Treetop World! The only way to describe Treetop World is an adventure park high in the forest. You experience climbing and swinging across the treetops on ropes and ladders, all in a safe environment with expert guides to help.
+**Trams**
 
-Our tickets were booked for 14:00, but I’d definitely recommend arriving early. This is a good idea as you can watch the people already climbing high in the trees. It looked a bit scary but lots of fun, although one man dropped his phone onto the ground below. Obviously, it’s a good idea to put your belongings into a zipped pocket! And if possible leave anything valuable at home.
+If you live in a city, you're likely to spend many hours each year sitting in traffic jams. This can be a major problem, and one way of tackling it is to encourage people to use cars less by improving public transport. Cities worldwide are trying to provide better bus and train services, but many also want to extend their tram systems or introduce new ones. However, as with railways, constructing a tram system takes considerable time. So, why build a tram system?
 
-At 14:00 our guide, Jed, gave us our safety talk, which everyone has to attend. It included some useful tips. He made the talk entertaining, and when I was up in the trees feeling slightly nervous, I was glad I remembered what he’d said. So listen carefully to your guide – you won’t regret it.
+One important point is that trams cause very little pollution because they run on electricity. At a time when environmental damage and climate change are serious issues, this is a major consideration. Another clear benefit is that tram tracks are cheaper to build than railway lines, although most experts agree that towns and cities need railways and underground systems as well.
 
-To get up in the trees, we had to climb a 150-metre ladder to the first platform. I was chosen as the first person to swing across to the next branch. I felt unsure, but took a deep breath and stepped forwards. Suddenly I was rushing through the air like a bird, landing safely at the next tree. I loved it!
+Many cities around the world have had trams since the 19th century. In the Australian city of Melbourne, for example, they were first introduced in 1884, and there are now 24 tram routes and over 250 kilometres of track in the city. Robert Clayton, a Melbourne transport expert, says that the city council considered closing the system in the 1980s. "But fortunately they dropped those plans," says Clayton. "We're lucky. Melbourne streets are mostly wide and we don't have the problem which some cities with narrow streets have. In those places, other traffic gets stuck behind trams – there's not enough space to drive around them."
 
-The course is easy at first and gets more challenging, but my confidence increased as I got used to the equipment. Guides monitor you from the forest floor, so if you get a little scared or have a question, just ask them for help.
-
-After two hours swinging in the trees, we were covered in dust! One thing I’d suggest is wearing clothes you don’t mind getting dirty. And the park remains open even in the rain, so you might want to bring a waterproof jacket. We returned home after a great day out, feeling exhausted but very happy!
+Clayton explains that because tram tracks are fixed, people know that a tram route will never change. "It's not the same with buses," he says. "Their routes get changed from time to time for various reasons. And although trams are noisier than buses, people here say they're more comfortable for passengers to ride in. After all, isn't that one of the most important things?"
 
 ## Summary 作业
 Arrive early to watch others and prepare. Wear old clothes and bring a waterproof jacket, as you’ll get dirty and it might rain. Avoid bringing valuables and keep belongings in zipped pockets. Listen carefully to the safety talk from guides, as it helps when you feel nervous. The course starts easy but gets harder, so don’t worry if you’re unsure at first. Guides are available to help if you have questions or feel scareded
