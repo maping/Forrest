@@ -27,3 +27,11 @@
     - entertain /ˌentəˈteɪn/ v. 娱乐；(尤指在自己家中)招待，款待；使快乐；使有兴趣；心存，怀有(想法、希望、感觉等)
       - Meaning: To amuse, divert, or provide enjoyment, often in a lighter, more casual way.
       - Connotation: Less intense than enthrall—focuses on fun, relaxation, or passing enjoyment. 
+- P127
+  - 18 有难度，communicate 句中含义的近义词 interact vs exchange
+    - relate /rɪˈleɪt/ vt. 联系；讲(故事)；把…联系起来；叙述；使有联系；讲述
+    - interact /ˌɪntərˈækt/ vi. 互动；相互作用；交流；合作；相互影响；沟通
+      - 一般是和人的交流，interact with sb.，而且不强调信息交换 
+    - exchange vt. 交换；交流
+      - 强调思想的交流，信息交换
+    - transmit /trænzˈmɪt/ v. 传输；使通过；传送；发射；传播；传(热、声等)；输送；传染；透(光等)；播送
