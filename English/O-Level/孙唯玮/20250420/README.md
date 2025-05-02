@@ -43,3 +43,31 @@
       - haste /heɪst/ n. 匆忙；仓促；急速
         - haste makes waste
         - more haste, less speed 
+- P132
+  - 单词
+    - cockroach /ˈkɒkrəʊtʃ/ n. 蟑螂
+    - in the long run 从长远来看，归根到底
+    - aversion /əˈvɜːʃn/ n. 厌恶；憎恶
+    - clove /kləʊv/ n. 蒜瓣；丁香(热带树木的干花，形似小钉子，用作调味品，尤用作甜食的香料)
+    - deterrent /dɪˈterənt/ n. 威慑因素；遏制力 adj. 制止的；遏制的
+    - pandan 香叶
+    - at bay 在海湾；陷入困境，陷入绝境
+    - hold off 推迟
+    - garlic /ˈɡɑːlɪk/ n. 蒜；大蒜
+    - pint /paɪnt/ n. 品脱(容量单位，为⅛加仑，在英国等国家约合0.568升，在美国约合0.473升)
+    - strain /streɪn/ v. 损伤；拉伤；扭伤；拉紧；滤；使劲；竭力；尽力；过度使用；使不堪承受；用力推（或拉）
+    - cheesecloth /ˈtʃiːzklɒθ/ n. (尤指制衬衣用的)薄纱棉布
+  - 29 with 挺合适的呀，为啥要用 under
+  - 31 对着谁，用 to
+  - 32 没有理解 deterrent 的含义
+  - 35 词组 at bay
+  - 37 one pint of sth. 一品脱的什么东西
+  - 38 strain the mixture through a cheesecloth
+    
+We all hate ants, cockroaches and bugs. However, there is no need to kill them (29) **with** strong chemicals that may also harm you in the long run. One simple substitute is to have (30) **some** soapy water in a spray bottle and spray this at ants and cockroaches. To discourage ants, set out cucumber peels or slices in the kitchen. Ants have a natural aversion (31) **to** cucumber and bitter cucumbers seem to work best. Alternatively, dried, crushed mint leaves or cloves also work as (32) **an** ant deterrent.
+
+Pandan leaves can keep cockroaches (33) **at** bay. A single pandan leaf tied up in a knot will do. If you do have one of those cockroach-killing sprays, make sure you store it (34) **out** of harm's way and try not to use it in the kitchen (35) **where** it can settle on surfaces and leach into your food.
+
+As for garden bugs, hold (36) **off** on pesticide and make a garlic spray instead. The recipe: Puree 15 garlic cloves and one pint (37) **of** water in a blender, strain the mixture (38) **through** a cheesecloth into a clean spray bottle and apply to all leaves. Repeat every few days until the problem goes away.
+
+  
