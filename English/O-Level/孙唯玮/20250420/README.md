@@ -11,11 +11,19 @@
       - Notwithstanding the difficulties, he managed to complete the task. 
     - Unless 表示除非某种条件不满足，否则会发生某种情况，常用于连接条件关系
       - I will not go unless you come with me. 
-  - 5 有难度
-    - by the time 作为时间状语从句的引导词，其主句时态需根据从句的时态选择，核心规则如下：‌
-      - 从句为一般过去时 → 主句用过去完成时‌，表示“在从句动作发生时，主句动作已完成”（即“过去的过去”）。
-        - 例：By the time we reached home, he ‌had left‌.（我们到家时他已离开）
-        - 逻辑：从句动作（reached）是过去时间点，主句动作（left）在此时间点前已完成。  
-      - 从句为一般现在时/现在完成时（表将来） → 主句用将来完成时‌，表示“截止到将来某一时间，主句动作将已完成”。
-        - 例：By the time you ‌get back‌, I ‌shall have finished‌ the work.（你回来时我将已完成工作）
-        - 例：By the time the meeting ‌starts‌, they ‌will have prepared‌ everything.（会议开始时他们将已准备好一切）
+  - 5 有难度， by the time 作为时间状语从句的引导词，其主句时态需根据从句的时态选择，核心规则如下：‌
+    - 从句为一般过去时 → 主句用过去完成时‌，表示“在从句动作发生时，主句动作已完成”（即“过去的过去”）。
+      - 例：By the time we reached home, he ‌had left‌.（我们到家时他已离开）
+      - 逻辑：从句动作（reached）是过去时间点，主句动作（left）在此时间点前已完成。  
+    - 从句为一般现在时/现在完成时（表将来） → 主句用将来完成时‌，表示“截止到将来某一时间，主句动作将已完成”。
+      - 例：By the time you ‌get back‌, I ‌shall have finished‌ the work.（你回来时我将已完成工作）
+      - 例：By the time the meeting ‌starts‌, they ‌will have prepared‌ everything.（会议开始时他们将已准备好一切）
+- P126
+  - 11 有难度 enthrall vs entertain
+    - enthrall /ɪnˈθrɔːl/ v. 迷住；奴役；迷恋；使…迷惑不解；俘虏；叫…感到心醉神驰
+      - Meaning: To captivate, fascinate, or completely absorb someone's attention, often in a spellbinding or mesmerizing way.
+      - Connotation: Stronger than entertain—suggests deep engagement, awe, or even enchantment. 
+      - The children were enthralled by the story she was telling.
+    - entertain /ˌentəˈteɪn/ v. 娱乐；(尤指在自己家中)招待，款待；使快乐；使有兴趣；心存，怀有(想法、希望、感觉等)
+      - Meaning: To amuse, divert, or provide enjoyment, often in a lighter, more casual way.
+      - Connotation: Less intense than enthrall—focuses on fun, relaxation, or passing enjoyment. 
