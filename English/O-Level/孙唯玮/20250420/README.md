@@ -70,4 +70,11 @@ Pandan leaves can keep cockroaches (33) **at** bay. A single pandan leaf tied up
 
 As for garden bugs, hold (36) **off** on pesticide and make a garlic spray instead. The recipe: Puree 15 garlic cloves and one pint (37) **of** water in a blender, strain the mixture (38) **through** a cheesecloth into a clean spray bottle and apply to all leaves. Repeat every few days until the problem goes away.
 
+- P133
+  - 39 小说这个词不知道吗？拼写改错的词只会在原来词的基础上改，不能换个词
+  - 40 副词改成形容词，去掉 ly 即可，为啥错？
+  - 44 有难度，exercise 不能主动 performing，只能被 performed, 文中省略了 which is performed
+  - 49 为啥用 having ？前面有 and 啊，所以是个完整句子，应该是个动词+适当时态
+
+- P134
   
