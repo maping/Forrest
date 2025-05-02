@@ -1,1 +1,21 @@
+# 错题讲解
 
+- P124-125
+  - 1 有难度，是因为...所以，还是尽管...仍然
+    - As a result of 表示由于某种原因导致了某种结果，常用于连接原因和结果
+      - The project was delayed as a result of bad weather. 
+    - Due to 也表示由于某种原因导致了某种结果，通常用于连接原因和结果
+      - The flight was cancelled due to bad weather.
+    - Notwithstanding /ˌnɒtwɪθˈstændɪŋ/ adv. 尽管如此 prep. 尽管；虽然 conj. 尽管
+      - ‌表示尽管某种情况存在，但仍然发生另一种情况，常用于连接转折关系
+      - Notwithstanding the difficulties, he managed to complete the task. 
+    - Unless 表示除非某种条件不满足，否则会发生某种情况，常用于连接条件关系
+      - I will not go unless you come with me. 
+  - 5 有难度
+    - by the time 作为时间状语从句的引导词，其主句时态需根据从句的时态选择，核心规则如下：‌
+      - 从句为一般过去时 → 主句用过去完成时‌，表示“在从句动作发生时，主句动作已完成”（即“过去的过去”）。
+        - 例：By the time we reached home, he ‌had left‌.（我们到家时他已离开）
+        - 逻辑：从句动作（reached）是过去时间点，主句动作（left）在此时间点前已完成。  
+      - 从句为一般现在时/现在完成时（表将来） → 主句用将来完成时‌，表示“截止到将来某一时间，主句动作将已完成”。
+        - 例：By the time you ‌get back‌, I ‌shall have finished‌ the work.（你回来时我将已完成工作）
+        - 例：By the time the meeting ‌starts‌, they ‌will have prepared‌ everything.（会议开始时他们将已准备好一切）
