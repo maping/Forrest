@@ -63,3 +63,12 @@ Keith was sitting on a wooden bench in almost total darkness, smoking a cigarett
 He (54) **felt** the hairs on his neck stiffening as a cold sweat broke (55) **out** on his forehead. He resisted the temptation to draw hard on his cigarette and used its (56) **glow** to see the snake. As he listened, he realized that the snake was sliding unhurriedly towards him. A fresh rustle told him it was a (57) **mere** fifty centimeters away. Then he felt a slight tickling on his bare (58) **leg**. The snake was exploring his leg with its forked tongue. From its weight and the (59) **width** of its belly, Keith deduced that it was quite slender. It felt like eternity though it was perhaps just about a minute (60) **before** he felt the last centimeter of its tail slide off his skin.
 
 He dared not move an (61) **inch**. He still had another (62) **problem** to solve—his cigarette. It had burnt down almost to the tip. How was he to get (63) **rid** of it? He could not (64) **put** it out without moving. If he did, the (65) **snake** would probably be equally aroused by the shower of sparks. Given its length, the reptile was not out of striking distance yet.
+
+- P153
+  - 68 unless 是什么意思？
+  - Not Until：直到某个时间点或某个条件成立之前，某动作或状态一直未发生或不存在。
+    - 结构：“主语 + did not + 动词原形 + until + 时间/条件”。
+    - 例句：I didn't finish my homework until midnight.（我直到午夜才完成作业。）
+  - Unless：如果不满足某个条件，则会发生某种结果；即该条件是阻止某事发生的唯一前提。
+    - 结构：“Unless + 条件从句（一般现在时），主句（一般将来时或其他时态）”。
+    - 例句：I won't go to the party unless I get an invitation.（除非我收到邀请，否则我不会去参加聚会。）
