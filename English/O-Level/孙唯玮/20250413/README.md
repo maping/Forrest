@@ -38,8 +38,18 @@
   - 30
   - 37
     
-Heart problems can be solved by sleeping on them! A lunchtime snooze (29) **may** be good for the heart. A Harvard study (30) **among** 23,681 healthy men and women, tracked for more (31) **than** six years, discovered that those (32) **who** took a midday nap for at least 30 minutes three times (33) **a** week were 37 percent less likely to die (34) **from** heart disease.
+Heart problems can be solved by sleeping on them! A lunchtime snooze (29) **may** be good for the heart. A Harvard study (30) **among** 23,681 healthy men and women, tracked for more (31) **than** six years, discovered that those (32) **who** took a midday nap for at least 30 minutes three times (33) **a** week were 37 percent less likely to die (34) **of** heart disease.
 
 "The relationship (35) **between** stress and coronary mortality is well-established," (36) **says** a professor of epidemiology (37) **at** the Harvard School of Public Health. "We also know napping may (38) **be** a stress-releasing process."
 
 Fascinating facts!
+
+- P152
+  - 56
+  - 58
+ 
+Keith was sitting on a wooden bench in almost total darkness, smoking a cigarette, when he heard the snake. He heard it as a faint rustling noise and instantly (51) **held** his breath. When the sound (52) **became** more distinct, he knew the snake was crawling along the (53) **bench** he was sitting on.
+
+He (54) **felt** the hairs on his neck stiffening as a cold sweat broke (55) **out** on his forehead. He resisted the temptation to draw hard on his cigarette and used its (56) **glow** to see the snake. As he listened, he realized that the snake was sliding unhurriedly towards him. A fresh rustle told him it was a (57) **mere** fifty centimeters away. Then he felt a slight tickling on his bare (58) **leg**. The snake was exploring his leg with its forked tongue. From its weight and the (59) **width** of its belly, Keith deduced that it was quite slender. It felt like eternity though it was perhaps just about a minute (60) **before** he felt the last centimeter of its tail slide off his skin.
+
+He dared not move an (61) **inch**. He still had another (62) **problem** to solve—his cigarette. It had burnt down almost to the tip. How was he to get (63) **rid** of it? He could not (64) **stub** it out without moving. If he did, the (65) **snake** would probably be equally aroused by the shower of sparks. Given its length, the reptile was not out of striking distance yet.
