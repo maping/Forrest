@@ -26,7 +26,7 @@
     - accumulate 指长时间的积累
 - P146-149
   - 21 如果发现某几项文中都提到了，那就要选择总结性的选项
-  - 27
+  - 27 有难度
   - 28 有难度 good time can only be reminisced
     - reminisce /ˌremɪˈnɪs/ vi. 回忆；追忆；缅怀(昔日的快乐时光)
     - irreversible /ˌɪrɪˈvɜːsəbl/ adj. 不可逆转的；无法复原(或挽回)的；不能倒转的
