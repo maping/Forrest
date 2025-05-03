@@ -24,3 +24,13 @@
     - cluster 描述密集或成团的聚集
     - assemble 只指为了特定的目的，把零散的东西或人收集或集合在一起
     - accumulate 指长时间的积累
+- P146-149
+  - 21 如果发现某几项文中都提到了，那就要选择总结性的选项
+  - 27
+  - 28 有难度 good time can only be reminisced
+    - reminisce /ˌremɪˈnɪs/ vi. 回忆；追忆；缅怀(昔日的快乐时光)
+    - irreversible /ˌɪrɪˈvɜːsəbl/ adj. 不可逆转的；无法复原(或挽回)的；不能倒转的
+    - catastrophe /kəˈtæstrəfi/ n. 灾难；灾祸；困难；横祸；不幸事件
+    - catastrophe vs disaster
+      - catastrophe 通常指极其严重、破坏性的灾难或不幸事件，往往带有一种终结性、不可逆转的意味。它不仅可以指自然界的巨大灾难，如大地震、海啸等，也可以用于形容个人或社会的重大失败或悲剧性结局。
+      - disaster 同样指灾难或不幸事件，但相比之下，其程度可能不如“catastrophe”那么极端。它既可以用于自然界的灾难，如洪水、火灾等，也可以用于人为的事故或失败，如空难、经济危机等。此外，“disaster”在日常语境中更为常见，使用频率更高。
