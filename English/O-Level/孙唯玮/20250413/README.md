@@ -34,3 +34,12 @@
     - catastrophe vs disaster
       - catastrophe 通常指极其严重、破坏性的灾难或不幸事件，往往带有一种终结性、不可逆转的意味。它不仅可以指自然界的巨大灾难，如大地震、海啸等，也可以用于形容个人或社会的重大失败或悲剧性结局。
       - disaster 同样指灾难或不幸事件，但相比之下，其程度可能不如“catastrophe”那么极端。它既可以用于自然界的灾难，如洪水、火灾等，也可以用于人为的事故或失败，如空难、经济危机等。此外，“disaster”在日常语境中更为常见，使用频率更高。
+- P150
+  - 30
+  - 37
+    
+Heart problems can be solved by sleeping on them! A lunchtime snooze (29) **may** be good for the heart. A Harvard study (30) **among** 23,681 healthy men and women, tracked for more (31) **than** six years, discovered that those (32) **who** took a midday nap for at least 30 minutes three times (33) **a** week were 37 percent less likely to die (34) **from** heart disease.
+
+"The relationship (35) **between** stress and coronary mortality is well-established," (36) **says** a professor of epidemiology (37) **at** the Harvard School of Public Health. "We also know napping may (38) **be** a stress-releasing process."
+
+Fascinating facts!
