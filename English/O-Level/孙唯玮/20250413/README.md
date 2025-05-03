@@ -45,11 +45,21 @@ Heart problems can be solved by sleeping on them! A lunchtime snooze (29) **may*
 Fascinating facts!
 
 - P152
-  - 56
-  - 58
+  - 单词
+    - rustle /ˈrʌsl/ v. 沙沙；偷窃(牲口)；(使)发出轻轻的摩擦声
+      n. 轻轻的摩擦声；沙沙声
+    - distinct /dɪˈstɪŋkt/ adj. 不同的；明显的；清晰的；清楚的；明白的；确切的；有区别的；不同种类的；确定无疑的
+    - stiffen /ˈstɪfn/ v. 使硬挺；(尤指因气愤或害怕，使浑身或身体的一部分)变僵硬，变僵直，绷紧；(使)难以弯曲，难以活动，发僵；(使)变强硬，变坚定
+    - tickle /ˈtɪkl/ v. 挠痒痒；胳肢；(使)发痒；使高兴；逗乐；使满足；使感兴趣；呵痒
+      - n. 痒；胳肢；呵痒；痒感
+    - slender /ˈslendə(r)/ adj. 纤细的；苗条的；细的；微薄的；窄的；不足的
+  - 56 它是谁？
+  - 57 mere /mɪə(r)/ adj. 仅仅的；只不过；只凭…就足以
+  - 60
+  - 64 put it out
  
 Keith was sitting on a wooden bench in almost total darkness, smoking a cigarette, when he heard the snake. He heard it as a faint rustling noise and instantly (51) **held** his breath. When the sound (52) **became** more distinct, he knew the snake was crawling along the (53) **bench** he was sitting on.
 
 He (54) **felt** the hairs on his neck stiffening as a cold sweat broke (55) **out** on his forehead. He resisted the temptation to draw hard on his cigarette and used its (56) **glow** to see the snake. As he listened, he realized that the snake was sliding unhurriedly towards him. A fresh rustle told him it was a (57) **mere** fifty centimeters away. Then he felt a slight tickling on his bare (58) **leg**. The snake was exploring his leg with its forked tongue. From its weight and the (59) **width** of its belly, Keith deduced that it was quite slender. It felt like eternity though it was perhaps just about a minute (60) **before** he felt the last centimeter of its tail slide off his skin.
 
-He dared not move an (61) **inch**. He still had another (62) **problem** to solve—his cigarette. It had burnt down almost to the tip. How was he to get (63) **rid** of it? He could not (64) **stub** it out without moving. If he did, the (65) **snake** would probably be equally aroused by the shower of sparks. Given its length, the reptile was not out of striking distance yet.
+He dared not move an (61) **inch**. He still had another (62) **problem** to solve—his cigarette. It had burnt down almost to the tip. How was he to get (63) **rid** of it? He could not (64) **put** it out without moving. If he did, the (65) **snake** would probably be equally aroused by the shower of sparks. Given its length, the reptile was not out of striking distance yet.
