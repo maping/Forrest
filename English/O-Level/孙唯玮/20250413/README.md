@@ -86,11 +86,52 @@ He dared not move an (61) **inch**. He still had another (62) **problem** to sol
     - splinter /ˈsplɪntə(r)/ n. 碎片；(木头、金属、玻璃等的)尖碎片；尖细条 v. 分裂；(使)裂成碎片；分离出来
     - sleeper /ˈsliːpə(r)/ n. 卧铺；（铁路）枕木，轨枕；卧铺列车；睡得…的人；耳环，耳钉；冷门电影
     - embankment /ɪmˈbæŋkmənt/ n. (公路和铁路)路堤；堤；堤岸；(公路或铁路两侧的)护坡；堤围
-  - 第一段单词
-  - 第一段单词
-  - 第一段单词
-  - 第一段单词
-  
+  - 第三段单词
+  - 第四段单词
+  - 71
+    - Jetsee tried desperately to warn the train driver to stop because he knew the dismantled rail would cause a catastrophic derailment, especially on the high embankment where the train would plunge, risking countless innocent lives, including children, in the passenger carriages. His sense of duty and moral responsibility drove him to act, even at great personal cost. 
+  - 72
+    - Jetsee initially ran toward the hut to fetch tools to repair the dismantled rail or retrieve a warning flag to stop the approaching train.
+    - He realized there wasn’t enough time to reach the hut and return before the train arrived, so he turned back to improvise a warning signal (the red scarf on a stick) near the track. 
+  - 73
+    - Improvised a Red Flag (1 mark): He tied his scarf to a stick, creating a makeshift warning signal.
+    - Waved It Vigorously (1 mark): Despite his injuries and weakening state, he stood and waved the flag to alert the approaching train. 
+  - 74
+    - Excessive blood loss leading to dizziness and weakness. (1 mark)
+    - Loss of consciousness (fainting) due to severe blood loss and shock. (1 mark) 
+  - 75
+    - 1
+    - 3
+    - 2 
+  - 76
+    - He believed he would collapse and die from blood loss before the train stopped (1 mark).
+    - He feared dropping the flag, which would cause the train to miss the warning and derail (1 mark). 
+  - 77
+    - The engineer saw it, shut the regulators and reversed steam. The train came to a halt. 
+  - 78
+    - The distant hooter of the factory gave Jetsee the indication that there was no time to get tools from the hut.
+      - True (1 mark)
+      - The hooter signaled 6 o’clock, and Jetsee realized the train (due in 2 minutes) would arrive before he could fetch tools (1 mark).
+    - Jetsee managed to stop the bleeding from his wound.
+      - True (1 mark)
+      - Jetsee tried to stop it (pressing the wound), but the bleeding continued (did not cease).
+    - The passengers were all safe from any mishap.
+      - True (1 mark)
+      - The train halted after seeing the flag, and no derailment occurred (1 mark).
+  - 79
+    - Brave (1 mark)
+      - He risked his life by staying near the tracks despite severe blood loss to wave the flag, knowing he might collapse (e.g., "I shall fall and drop the flag... Help me, O’ Lord!").
+    - Determined (1 mark)
+      - He persisted through exhaustion and injury (e.g., "ran faster than before," pressed his wound, and waved the flag until unconscious).
+    - Quick-witted (1 mark)
+      - He improvised a warning signal (scarf + stick) when tools were unavailable (e.g., "tied it to the stick and hung out his red flag"). 
+  - 80
+    - own up 承认；坦白；供认
+    - Who he was: Paul was the saboteur who dismantled the rail (1 mark) — evidenced by his confession: "Bind me. I tore up a rail."
+    - Why he confessed:
+      - Guilt/Redemption (1 mark): Witnessing Jetsee’s selfless sacrifice (e.g., waving the bloodstained flag despite fatal injuries) shamed him into admitting his crime.
+      - Moral Awakening: Jetsee’s heroism contrasted with Paul’s destructive act, compelling him to take responsibility.
+
 Jetsee stood before the rail which had been dismantled. He flung down his bundle of sticks. A train was due; not a freight but a passenger train. And he had nothing with which to stop it, no flag. He could not replace the rail and could not drive in the spikes with his bare hands. It was necessary to run, unquestionably necessary to run to the hut for some tools. "God help me!" he murmured.
 
 Jetsee started racing towards his hut. He was out of breath, but still ran, tumbling every now and then. He had cleared the forest; he was only a few hundred feet from his hut, no more, when he heard the distant hooter of the factory sounding six o'clock! In two minutes' time, train no. 11 was due. "Oh Lord! Have pity on the innocent souls!" In his mind, Jetsee saw the engine strike against the loosened rail with its left wheel, shiver, career, tear up and splinter the sleepers—and just there, there was a curve and the embankment seventy feet high down which the engine would collapse—and the third-class carriages would be packed… little children… all sitting in the train now, never dreaming of danger. "Oh Lord! Tell me what to do! … No, it is impossible to run to the hut and get back in time."
