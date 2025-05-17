@@ -239,27 +239,34 @@ Her small rosebud mouth, a soft rosy pink, was curved in an everlasting introver
   - 69 ✔️ The damaged roof is being mended by the workers.
   - 70 ✔️ With diligence and wisdom, we can achieve our goals.
 - P304-306
-  - purple
-  - strike /straɪk/
-    - n. 罢工；（有损声誉的）不利因素，打击；袭击；(尤指)空袭；打；击；罢课；踢；罢市；全中；军事进攻；（珍贵东西的）意外发现；击球未中
-    - v. 罢工；撞击；打；击打，踢(球等)；击；碰撞；撞；敲；给（某人以…）印象；突击；擦，划（火柴）；行进；侵袭；碰；弹奏；突然想到；照在…上；开采出；顿时使处于某状态
-  - anguish /ˈæŋɡwɪʃ/ n. 痛苦；苦恼；剧痛 vi. 苦恼；使苦恼；使极度痛苦；悲痛万分；感到极度的痛苦
-  - tug /tʌɡ/ n. 猛拉；拖船；(突然的)猛拽；一股强烈的感情 v. (朝某一方向用力)拉；拖；拽
-  - knot /nɒt/
-    - n. (用绳索等打的)结；节；节疤；节子；发髻；一小群人；痉挛，郁结，哽咽，哽塞
-    - v. 把…打成结(或扎牢)；缠结；打发髻；痉挛，紧缩，使痉挛
-  - pin /pɪn/ n. 大头针，别针；
-  - bile 胆汁
-  - intermittent /ˌɪntəˈmɪtənt/ adj. 断断续续的，间歇的；周期性的
-  - fits of sneezes 打喷嚏
-  - accomplish /əˈkʌmplɪʃ/ vt. 完成
-  - migraine /ˈmaɪɡreɪn/ n. 偏头痛
-  - fatigue /fəˈtiːɡ/ n. 劳累；(金属或木材的)疲劳；厌倦；（士兵穿的）工作服；士兵杂役 v. 使疲乏；使劳累；使（肌肉，器官）衰竭
-  - tumor /ˈtjuːmə(r)/ n. 肿瘤；瘤；肿块
-  - tiled floor 瓷砖地板
-  - by no means 决不;丝毫不;一点儿也不
-  - goosebumps 鸡皮疙瘩
-  - succumb /səˈkʌm/ vi. 屈服；屈从；抵挡不住(攻击、疾病、诱惑等)
+  - 第一段单词 
+    - purple
+    - strike /straɪk/
+      - n. 罢工；（有损声誉的）不利因素，打击；袭击；(尤指)空袭；打；击；罢课；踢；罢市；全中；军事进攻；（珍贵东西的）意外发现；击球未中
+      - v. 罢工；撞击；打；击打，踢(球等)；击；碰撞；撞；敲；给（某人以…）印象；突击；擦，划（火柴）；行进；侵袭；碰；弹奏；突然想到；照在…上；开采出；顿时使处于某状态
+    - anguish /ˈæŋɡwɪʃ/ n. 痛苦；苦恼；剧痛 vi. 苦恼；使苦恼；使极度痛苦；悲痛万分；感到极度的痛苦
+    - knot /nɒt/
+      - n. (用绳索等打的)结；节；节疤；节子；发髻；一小群人；痉挛，郁结，哽咽，哽塞
+      - v. 把…打成结(或扎牢)；缠结；打发髻；痉挛，紧缩，使痉挛
+    - tug /tʌɡ/ n. 猛拉；拖船；(突然的)猛拽；一股强烈的感情 v. (朝某一方向用力)拉；拖；拽
+    - pin /pɪn/ n. 大头针，别针；
+    - bile 胆汁
+    - intermittent /ˌɪntəˈmɪtənt/ adj. 断断续续的，间歇的；周期性的
+  - 第二段单词 
+    - fits /fɪts/ n. (强烈感情)发作，冲动；(癫痫等的)突发，发作；一阵(忍不住的咳嗽、笑)；痉挛；昏厥
+    - vague /veɪɡ/ adj. 模糊的；含糊的；不明确的；(思想上)不清楚的；茫然的；粗略的；心不在焉的；糊涂的；不具体的；不详细的
+  - 第三段单词
+    - accomplish /əˈkʌmplɪʃ/ vt. 完成
+    - newlyweds /ˈnjuːlɪˌwɛdz/ n. 新婚夫妇
+  - 第四段单词
+    - migraine /ˈmaɪɡreɪn/ n. 偏头痛
+    - fatigue /fəˈtiːɡ/ n. 劳累；(金属或木材的)疲劳；厌倦；（士兵穿的）工作服；士兵杂役 v. 使疲乏；使劳累；使（肌肉，器官）衰竭
+    - tumor /ˈtjuːmə(r)/ n. 肿瘤；瘤；肿块
+  - 第五段单词
+    - tiled floor 瓷砖地板
+    - by no means 决不;丝毫不;一点儿也不
+    - goosebumps 鸡皮疙瘩
+    - succumb /səˈkʌm/ vi. 屈服；屈从；抵挡不住(攻击、疾病、诱惑等)
   - 71 ✔️
     - The low hum of the refrigerator.
     - The intermittent moaning of the pipes.
