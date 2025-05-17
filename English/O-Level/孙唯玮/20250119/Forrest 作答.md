@@ -26,7 +26,8 @@ The irony is that Mike was worried about needing glasses, but the actual problem
 78. 
 1. Mike and Dione got married.  
 2. Mike suffered from migraine.  
-3. A tumour was found growing in Mike's brain.  
+3. A tumour was found growing in Mike's brain.
+  
 79.
 True////Everyone thought they were best friends, lovers, and soulmates destined to be together.
 False////An image of his face became more and more vague each day," suggests she was struggling to remember, not that she would forget entirely. 
