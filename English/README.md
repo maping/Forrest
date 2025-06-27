@@ -121,3 +121,4 @@
 - [IGCSE 考试大纲](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/)
 - [各国口音的听力材料](https://elllo.org/archive/)
 - [Youtube 包含关键词的视频](https://youglish.com/)
+- [AP课程的真相](https://www.bilibili.com/video/BV1qL411N7be)
