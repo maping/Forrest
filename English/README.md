@@ -105,14 +105,18 @@
     - 全球文学人文类：全球视角社会
     - 经济艺术类: 会计、经济研究、经济商务、艺术和设计、音乐、戏剧
 - 兔兔选的 8 门课
-  - 1️⃣英语 EFL 0500
-  - 2️⃣中文 ESL 0509&0523 / 西班牙语 0530
+  - 1️⃣ English Language EFL (0500) Compulsory
+  - 2️⃣ 中文 ESL 0509&0523 / 西班牙语 0530
   - 3️⃣经济 economics 0455
   - 4️⃣地理 0460
   - 5️⃣物理 0625
   - 6️⃣化学 0620
-  - 7️⃣数学 0607
-  - 8️⃣数学 0606
+  - 7️⃣ International Mathematics (0607) Compulsory
+  - 8️⃣ Additional Mathematics (0606)
+    - Entry Criteria
+      - At least a grade B in the end of year 2 exams or 75% in the entry test  
+    - For whom
+      - Students who want to pursue courses in Mathematics, Engineering, Economics, etc.
 
 >注意：ACS International 的 IGCSE 没有计算机课程。
 
