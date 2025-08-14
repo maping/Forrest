@@ -103,14 +103,14 @@
     - 全球文学人文类：全球视角社会
     - 经济艺术类: 会计、经济研究、经济商务、艺术和设计、音乐、戏剧
 - 兔兔选的 8 门课
-  - 1️⃣ English Language EFL (0500) Compulsory
-  - 2️⃣ 中文 ESL 0509&0523 / 西班牙语 0530
-  - 3️⃣ Economics (0455)
-  - 4️⃣ Geography (0460)
-  - 5️⃣ Physics (0625)
-  - 6️⃣ Chemistry (0620)
-  - 7️⃣ International Mathematics (0607) Compulsory
-  - 8️⃣ Additional Mathematics (0606)
+  - 1️⃣ English Language EFL (0500) Compulsory】
+  - 2️⃣ 中文 ESL 0509&0523 / 西班牙语 0530【Compulsory】
+  - 3️⃣ International Mathematics (0607)【Compulsory】
+  - 4️⃣ Economics (0455)【Core Humanities】
+  - 5️⃣ Physics (0625)【Core Science】
+  - 6️⃣ Chemistry (0620)【Subject 1】
+  - 7️⃣ Geography (0460)【Subject 2】
+  - 8️⃣ Additional Mathematics (0606)【Subject 3】
     - Entry Criteria
       - At least a grade B in the end of year 2 exams or 75% in the entry test  
     - For whom
