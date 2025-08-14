@@ -102,7 +102,7 @@
     - 数学类：数学、国际数学等
     - 全球文学人文类：全球视角社会
     - 经济艺术类: 会计、经济研究、经济商务、艺术和设计、音乐、戏剧
-- 兔兔选的 8 门课
+- 马晴川选的 8 门 IGCSE§ 课程
   - 1️⃣ English Language EFL (0500) Compulsory】
   - 2️⃣ 中文 ESL 0509&0523 / 西班牙语 0530【Compulsory】
   - 3️⃣ International Mathematics (0607)【Compulsory】
