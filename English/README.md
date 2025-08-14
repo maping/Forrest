@@ -80,8 +80,6 @@
     - 获得45分的学生往往被牛津、剑桥、常春藤等顶尖大学优先录取，部分院校还会给予学分减免或奖学金。
   - 此外，IBDP 还要求学生在两年内完成150个小时的社会实践活动。
 
-
-
 # IGCSE（International General Certificate of Secondary Education）
 - IGCSE 的中文全称是“国际普通初级中学毕业文凭”，由剑桥国际考试局（CIE，剑桥大学国际考试中心的前称）于1988年开发。
 - 它是目前全球认可度极高的初高中阶段国际课程过渡体系之一。
@@ -107,10 +105,10 @@
 - 兔兔选的 8 门课
   - 1️⃣ English Language EFL (0500) Compulsory
   - 2️⃣ 中文 ESL 0509&0523 / 西班牙语 0530
-  - 3️⃣经济 economics 0455
-  - 4️⃣地理 0460
-  - 5️⃣物理 0625
-  - 6️⃣化学 0620
+  - 3️⃣ Economics (0455)
+  - 4️⃣ Geography (0460)
+  - 5️⃣ Physics (0625)
+  - 6️⃣ Chemistry (0620)
   - 7️⃣ International Mathematics (0607) Compulsory
   - 8️⃣ Additional Mathematics (0606)
     - Entry Criteria
