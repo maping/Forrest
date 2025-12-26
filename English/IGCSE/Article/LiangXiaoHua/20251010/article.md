@@ -1,6 +1,6 @@
 
-Article
 The Importance of Digital Skills Over Handwriting‌
+
 Nowadays, there is an ongoing debate about whether it is still necessary to teach children the skill of handwriting. Some people argue that handwriting is an important basic skill, while others believe that it is no longer useful in today's digital world. In my opinion, handwriting is no longer essential for students.
 
 Firstly, digital literacy has become more important than handwriting. Children use computers, tablets and phones for studying, communication, and even exams. Learning to type quickly and efficiently helps them complete their tasks faster and prepares them for modern jobs that rely heavily on technology. Moreover, typing is more time-saving and convenient, allowing students to focus on improving their ideas rather than worrying about neat handwriting.
