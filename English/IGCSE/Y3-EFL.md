@@ -1,6 +1,6 @@
 # Provisional Overview of Year3 First Language English 2026
 
-‌## Term 1:‌
+‌## Term 1
 Curriculum Content:
 - Wk 1 – 3: Identity: Exploring elements of your identity.
 - Wk 4 – 10: Social Media: Exploring the effects of social media on today’s society.
