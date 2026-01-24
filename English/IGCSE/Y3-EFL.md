@@ -12,7 +12,7 @@ Assessment:
 - Academic Essay: You will develop your research, critical thinking and academic writing skills as you consider a range of ideas related to social media and its effects and learn to form your ideas into an academic response.
   - Essay question: Is Social Media Harmful or Beneficial for Society?
 
-## Term 2:‌
+## Term 2
 Curriculum Content:
 - Wk 1 – 7: Social Justice Intertextuality Project: You will analyse texts from various text-types and explore how they present ideas related to the concept of social justice.
 - Wk 7 – 9: Social Justice Group Project: either film or class magazine project as a creative response to the themes explored in the intertextuality project.
@@ -22,7 +22,7 @@ Text-types include: Poetry, film, drama, speeches, posters, advertisements.
 Assessment:
 - Compare and contrast essays based on two texts that you have explored in class. This will be related to the global issue of social justice.
 ‌
-## Term 3:‌
+## Term 3
 Curriculum Content: In this term, we will start focusing on the IGCSE Language examination. Our focus for Terms 3 & 4 is Paper 1.
 - Wk 1 – 3: Persuasive Speeches
 - Wk 4 – 7: Extended Response to Reading (DW1)
@@ -32,7 +32,7 @@ Assessment:
 - Speech
 - Directed Writing
 ‌
-## Term 4:‌
+## Term 4
 Curriculum Content:
 - Wk 1 – 3: Comprehension Questions and Summary Writing
 - Wk 4 – 5: Final preparation for EoY Paper 1 (Reading) exam
