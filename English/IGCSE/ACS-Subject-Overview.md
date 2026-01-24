@@ -1,4 +1,4 @@
-Subject Overview - English 2026
+# Subject Overview - English 2026
 
 Level: First Language English Year 3 and 4
 
@@ -12,7 +12,8 @@ The aims are to enable students to:
 - listen to, understand, and use spoken language effectively
 - acquire and apply a wide vocabulary, alongside a knowledge and understanding of grammatical terminology and linguistic conventions.
 
-The assessment objectives are:
+## The assessment objectives are:
+Candidates will be assessed on their ability to:
 - Reading 
   - demonstrate understanding of explicit meanings
   - demonstrate understanding of implicit meanings and attitudes
@@ -26,21 +27,21 @@ The assessment objectives are:
   - use register appropriate to context
   - make accurate use of spelling, punctuation and grammar.
 
-What students do in English:
+## What students do in English:
 - Read a wide range of different texts
 - Write in a variety of styles and types, both formal and informal for Paper 1 (Reading) and Paper 2 (Directed Writing and Composition)
 - Participate in a variety of class presentations, discussions and debates.
 
-How students are assessed:
+## How students are assessed:
 - During the year students will have a variety of tasks, homework and projects to work on.
 - While some assignments will be awarded a summative grade for tests and quizzes, others will be assessed formatively through the entire term.
 
-End-of-Year Grade
+## End-of-Year Grade
 - Students’ overall Subject Achievement will be based on:
   - Student Performance throughout the year (Subject Attainment Grade)
   - End of Year Exam Grade
 
-Materials needed
+## Materials needed
 - Laptop
 - A4 lined paper (foolscap)
 - Pens and pencils
