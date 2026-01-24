@@ -9,8 +9,8 @@ Text-types include: poetry / songs
 
 Assessment:
 - Oral Presentation: The Search for Self: You will create a presentation about yourself including a range of information about what makes you unique. You will discuss your personality traits, values, heritage and language, and family influences. You will embed analysis of song lyrics/poems in your presentation. It is an opportunity to share more about yourself with others!
-Academic Essay: You will develop your research, critical thinking and academic writing skills as you consider a range of ideas related to social media and its effects and learn to form your ideas into an academic response.
-Essay question: Is Social Media Harmful or Beneficial for Society?
+- Academic Essay: You will develop your research, critical thinking and academic writing skills as you consider a range of ideas related to social media and its effects and learn to form your ideas into an academic response.
+  - Essay question: Is Social Media Harmful or Beneficial for Society?
 
 #‌# Term 2:‌
 Curriculum Content:
