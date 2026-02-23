@@ -1,5 +1,7 @@
 ![Run Forrest](./images/run-forrest.jpg#pic_center)
 
+有教无类  因材施教  寓教于乐  教学相长  学以致用  学而实习  循序渐进  持之以恒
+
 @MQC Forrest H₂SO₄ 
 Hi Forrest，13 岁生日快乐！13 岁，意味着你告别了儿童时代，正式进入了 teenager 的青少年时代。
 这是人生另一个美好的时代，对一切事物依旧充满好奇，但是不再是被动的接受者，而是有自己的主张和主见。
